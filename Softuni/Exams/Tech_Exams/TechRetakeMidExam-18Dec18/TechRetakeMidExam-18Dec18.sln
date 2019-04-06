@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02SantasList", "P02SantasList\P02SantasList.csproj", "{A97E372A-E4CF-4B15-AB87-C349D05BCE1B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8D6582CD-3927-4082-B0AC-D1427D609D2A}"
+	ProjectSection(SolutionItems) = preProject
+		01. Christmas Spirit_Условие.docx = 01. Christmas Spirit_Условие.docx
+		02. Santa's List_Условие.docx = 02. Santa's List_Условие.docx
+		03. Present Delivery_Условие.docx = 03. Present Delivery_Условие.docx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A97E372A-E4CF-4B15-AB87-C349D05BCE1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A97E372A-E4CF-4B15-AB87-C349D05BCE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A97E372A-E4CF-4B15-AB87-C349D05BCE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A97E372A-E4CF-4B15-AB87-C349D05BCE1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46EE416C-A3B6-4DC2-8E64-E4AC05E45684}
+	EndGlobalSection
+EndGlobal
