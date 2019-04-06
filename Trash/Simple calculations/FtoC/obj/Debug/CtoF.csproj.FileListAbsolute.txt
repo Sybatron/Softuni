@@ -1,0 +1,7 @@
+C:\Users\Sybatron\source\repos\Simple calculations\FtoC\bin\Debug\FtoC.exe.config
+C:\Users\Sybatron\source\repos\Simple calculations\FtoC\bin\Debug\FtoC.exe
+C:\Users\Sybatron\source\repos\Simple calculations\FtoC\bin\Debug\FtoC.pdb
+C:\Users\Sybatron\source\repos\Simple calculations\FtoC\obj\Debug\CtoF.csprojResolveAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Simple calculations\FtoC\obj\Debug\CtoF.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Simple calculations\FtoC\obj\Debug\FtoC.exe
+C:\Users\Sybatron\source\repos\Simple calculations\FtoC\obj\Debug\FtoC.pdb

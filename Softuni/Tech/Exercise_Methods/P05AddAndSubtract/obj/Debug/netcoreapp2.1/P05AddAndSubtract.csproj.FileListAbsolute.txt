@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Exercise_Methods\P05AddAndSubtract\bin\Debug\netcoreapp2.1\P05AddAndSubtract.deps.json
+C:\Users\Sybatron\source\repos\Exercise_Methods\P05AddAndSubtract\bin\Debug\netcoreapp2.1\P05AddAndSubtract.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Exercise_Methods\P05AddAndSubtract\bin\Debug\netcoreapp2.1\P05AddAndSubtract.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Exercise_Methods\P05AddAndSubtract\bin\Debug\netcoreapp2.1\P05AddAndSubtract.dll
+C:\Users\Sybatron\source\repos\Exercise_Methods\P05AddAndSubtract\bin\Debug\netcoreapp2.1\P05AddAndSubtract.pdb
+C:\Users\Sybatron\source\repos\Exercise_Methods\P05AddAndSubtract\obj\Debug\netcoreapp2.1\P05AddAndSubtract.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Exercise_Methods\P05AddAndSubtract\obj\Debug\netcoreapp2.1\P05AddAndSubtract.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Exercise_Methods\P05AddAndSubtract\obj\Debug\netcoreapp2.1\P05AddAndSubtract.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Exercise_Methods\P05AddAndSubtract\obj\Debug\netcoreapp2.1\P05AddAndSubtract.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Exercise_Methods\P05AddAndSubtract\obj\Debug\netcoreapp2.1\P05AddAndSubtract.dll
+C:\Users\Sybatron\source\repos\Exercise_Methods\P05AddAndSubtract\obj\Debug\netcoreapp2.1\P05AddAndSubtract.pdb

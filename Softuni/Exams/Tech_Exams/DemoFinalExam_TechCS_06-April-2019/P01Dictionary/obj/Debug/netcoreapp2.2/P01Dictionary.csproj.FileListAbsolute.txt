@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\DemoFinalExam_TechCS_06-April-2019\P01Dictionary\bin\Debug\netcoreapp2.2\P01Dictionary.deps.json
+C:\Users\Sybatron\source\repos\DemoFinalExam_TechCS_06-April-2019\P01Dictionary\bin\Debug\netcoreapp2.2\P01Dictionary.runtimeconfig.json
+C:\Users\Sybatron\source\repos\DemoFinalExam_TechCS_06-April-2019\P01Dictionary\bin\Debug\netcoreapp2.2\P01Dictionary.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\DemoFinalExam_TechCS_06-April-2019\P01Dictionary\bin\Debug\netcoreapp2.2\P01Dictionary.dll
+C:\Users\Sybatron\source\repos\DemoFinalExam_TechCS_06-April-2019\P01Dictionary\bin\Debug\netcoreapp2.2\P01Dictionary.pdb
+C:\Users\Sybatron\source\repos\DemoFinalExam_TechCS_06-April-2019\P01Dictionary\obj\Debug\netcoreapp2.2\P01Dictionary.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\DemoFinalExam_TechCS_06-April-2019\P01Dictionary\obj\Debug\netcoreapp2.2\P01Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\DemoFinalExam_TechCS_06-April-2019\P01Dictionary\obj\Debug\netcoreapp2.2\P01Dictionary.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\DemoFinalExam_TechCS_06-April-2019\P01Dictionary\obj\Debug\netcoreapp2.2\P01Dictionary.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\DemoFinalExam_TechCS_06-April-2019\P01Dictionary\obj\Debug\netcoreapp2.2\P01Dictionary.dll
+C:\Users\Sybatron\source\repos\DemoFinalExam_TechCS_06-April-2019\P01Dictionary\obj\Debug\netcoreapp2.2\P01Dictionary.pdb

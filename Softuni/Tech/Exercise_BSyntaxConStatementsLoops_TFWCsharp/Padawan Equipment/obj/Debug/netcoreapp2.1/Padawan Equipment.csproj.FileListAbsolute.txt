@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Exercise_BSyntaxConStatementsLoops_TFWCsharp\Padawan Equipment\bin\Debug\netcoreapp2.1\Padawan Equipment.deps.json
+C:\Users\Sybatron\source\repos\Exercise_BSyntaxConStatementsLoops_TFWCsharp\Padawan Equipment\bin\Debug\netcoreapp2.1\Padawan Equipment.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Exercise_BSyntaxConStatementsLoops_TFWCsharp\Padawan Equipment\bin\Debug\netcoreapp2.1\Padawan Equipment.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Exercise_BSyntaxConStatementsLoops_TFWCsharp\Padawan Equipment\bin\Debug\netcoreapp2.1\Padawan Equipment.dll
+C:\Users\Sybatron\source\repos\Exercise_BSyntaxConStatementsLoops_TFWCsharp\Padawan Equipment\bin\Debug\netcoreapp2.1\Padawan Equipment.pdb
+C:\Users\Sybatron\source\repos\Exercise_BSyntaxConStatementsLoops_TFWCsharp\Padawan Equipment\obj\Debug\netcoreapp2.1\Padawan Equipment.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Exercise_BSyntaxConStatementsLoops_TFWCsharp\Padawan Equipment\obj\Debug\netcoreapp2.1\Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Exercise_BSyntaxConStatementsLoops_TFWCsharp\Padawan Equipment\obj\Debug\netcoreapp2.1\Padawan Equipment.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Exercise_BSyntaxConStatementsLoops_TFWCsharp\Padawan Equipment\obj\Debug\netcoreapp2.1\Padawan Equipment.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Exercise_BSyntaxConStatementsLoops_TFWCsharp\Padawan Equipment\obj\Debug\netcoreapp2.1\Padawan Equipment.dll
+C:\Users\Sybatron\source\repos\Exercise_BSyntaxConStatementsLoops_TFWCsharp\Padawan Equipment\obj\Debug\netcoreapp2.1\Padawan Equipment.pdb

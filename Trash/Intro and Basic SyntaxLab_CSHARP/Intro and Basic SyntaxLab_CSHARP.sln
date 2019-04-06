@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student Information", "Intro and Basic SyntaxLab_CSHARP\Student Information.csproj", "{14C4858A-C7FF-45C4-9388-2FE8212D6529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14C4858A-C7FF-45C4-9388-2FE8212D6529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C4858A-C7FF-45C4-9388-2FE8212D6529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C4858A-C7FF-45C4-9388-2FE8212D6529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C4858A-C7FF-45C4-9388-2FE8212D6529}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {853ADAEB-9CC2-4B45-9C07-0FEB9364DF16}
+	EndGlobalSection
+EndGlobal

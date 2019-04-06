@@ -1,0 +1,23 @@
+﻿@{
+    DateTime dateTime = DateTime.Now;
+}
+<div>
+    <div class="col-md-4 " style="margin-top:10px; padding-top:10px">
+        <form method="post">
+            <div class="form-group">
+                <label for="taskTitle"><b>Task Title:</b></label>
+                <input type="text" class="form-control" id="taskTitle" name="title" placeholder="Task Title">
+            </div>
+            <div class="form-group">
+                <label for="taskComment"><b>Task Comments</b></label>
+                <textarea class="form-control" id="taskComment" name="comments" rows="4"></textarea>
+            </div>
+            <div class="form-group">
+                <label for="taskDateCreated"><b>Date of Creation</b></label>
+                <textarea class="form-control" id="taskDateCreated" name="dateCreated" readonly>@dateTime.ToString()
+                </textarea>
+            </div>
+            <button type="submit" class="btn btn-dark bg-success">Submit</button>
+        </form>
+    </div>
+</div>

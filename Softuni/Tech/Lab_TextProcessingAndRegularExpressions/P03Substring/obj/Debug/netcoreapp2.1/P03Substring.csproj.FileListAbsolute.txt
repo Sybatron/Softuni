@@ -1,0 +1,10 @@
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P03Substring\bin\Debug\netcoreapp2.1\P03Substring.deps.json
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P03Substring\bin\Debug\netcoreapp2.1\P03Substring.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P03Substring\bin\Debug\netcoreapp2.1\P03Substring.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P03Substring\bin\Debug\netcoreapp2.1\P03Substring.dll
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P03Substring\bin\Debug\netcoreapp2.1\P03Substring.pdb
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P03Substring\obj\Debug\netcoreapp2.1\P03Substring.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P03Substring\obj\Debug\netcoreapp2.1\P03Substring.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P03Substring\obj\Debug\netcoreapp2.1\P03Substring.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P03Substring\obj\Debug\netcoreapp2.1\P03Substring.dll
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P03Substring\obj\Debug\netcoreapp2.1\P03Substring.pdb

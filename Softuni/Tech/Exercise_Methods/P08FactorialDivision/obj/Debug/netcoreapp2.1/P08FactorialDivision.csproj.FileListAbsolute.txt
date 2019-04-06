@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Exercise_Methods\P08FactorialDivision\bin\Debug\netcoreapp2.1\P08FactorialDivision.deps.json
+C:\Users\Sybatron\source\repos\Exercise_Methods\P08FactorialDivision\bin\Debug\netcoreapp2.1\P08FactorialDivision.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Exercise_Methods\P08FactorialDivision\bin\Debug\netcoreapp2.1\P08FactorialDivision.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Exercise_Methods\P08FactorialDivision\bin\Debug\netcoreapp2.1\P08FactorialDivision.dll
+C:\Users\Sybatron\source\repos\Exercise_Methods\P08FactorialDivision\bin\Debug\netcoreapp2.1\P08FactorialDivision.pdb
+C:\Users\Sybatron\source\repos\Exercise_Methods\P08FactorialDivision\obj\Debug\netcoreapp2.1\P08FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Exercise_Methods\P08FactorialDivision\obj\Debug\netcoreapp2.1\P08FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Exercise_Methods\P08FactorialDivision\obj\Debug\netcoreapp2.1\P08FactorialDivision.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Exercise_Methods\P08FactorialDivision\obj\Debug\netcoreapp2.1\P08FactorialDivision.dll
+C:\Users\Sybatron\source\repos\Exercise_Methods\P08FactorialDivision\obj\Debug\netcoreapp2.1\P08FactorialDivision.pdb
+C:\Users\Sybatron\source\repos\Exercise_Methods\P08FactorialDivision\obj\Debug\netcoreapp2.1\P08FactorialDivision.csprojAssemblyReference.cache

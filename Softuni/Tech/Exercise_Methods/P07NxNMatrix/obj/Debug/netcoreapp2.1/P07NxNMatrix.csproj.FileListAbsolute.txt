@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Exercise_Methods\P07NxNMatrix\bin\Debug\netcoreapp2.1\P07NxNMatrix.deps.json
+C:\Users\Sybatron\source\repos\Exercise_Methods\P07NxNMatrix\bin\Debug\netcoreapp2.1\P07NxNMatrix.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Exercise_Methods\P07NxNMatrix\bin\Debug\netcoreapp2.1\P07NxNMatrix.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Exercise_Methods\P07NxNMatrix\bin\Debug\netcoreapp2.1\P07NxNMatrix.dll
+C:\Users\Sybatron\source\repos\Exercise_Methods\P07NxNMatrix\bin\Debug\netcoreapp2.1\P07NxNMatrix.pdb
+C:\Users\Sybatron\source\repos\Exercise_Methods\P07NxNMatrix\obj\Debug\netcoreapp2.1\P07NxNMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Exercise_Methods\P07NxNMatrix\obj\Debug\netcoreapp2.1\P07NxNMatrix.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Exercise_Methods\P07NxNMatrix\obj\Debug\netcoreapp2.1\P07NxNMatrix.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Exercise_Methods\P07NxNMatrix\obj\Debug\netcoreapp2.1\P07NxNMatrix.dll
+C:\Users\Sybatron\source\repos\Exercise_Methods\P07NxNMatrix\obj\Debug\netcoreapp2.1\P07NxNMatrix.pdb
+C:\Users\Sybatron\source\repos\Exercise_Methods\P07NxNMatrix\obj\Debug\netcoreapp2.1\P07NxNMatrix.csprojAssemblyReference.cache

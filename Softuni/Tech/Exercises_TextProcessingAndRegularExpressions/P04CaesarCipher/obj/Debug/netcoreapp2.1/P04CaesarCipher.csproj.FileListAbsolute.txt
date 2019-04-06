@@ -1,0 +1,10 @@
+C:\Users\Sybatron\source\repos\Exercises_TextProcessingAndRegularExpressions\P04CaesarCipher\bin\Debug\netcoreapp2.1\P04CaesarCipher.deps.json
+C:\Users\Sybatron\source\repos\Exercises_TextProcessingAndRegularExpressions\P04CaesarCipher\bin\Debug\netcoreapp2.1\P04CaesarCipher.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Exercises_TextProcessingAndRegularExpressions\P04CaesarCipher\bin\Debug\netcoreapp2.1\P04CaesarCipher.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Exercises_TextProcessingAndRegularExpressions\P04CaesarCipher\bin\Debug\netcoreapp2.1\P04CaesarCipher.dll
+C:\Users\Sybatron\source\repos\Exercises_TextProcessingAndRegularExpressions\P04CaesarCipher\bin\Debug\netcoreapp2.1\P04CaesarCipher.pdb
+C:\Users\Sybatron\source\repos\Exercises_TextProcessingAndRegularExpressions\P04CaesarCipher\obj\Debug\netcoreapp2.1\P04CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Exercises_TextProcessingAndRegularExpressions\P04CaesarCipher\obj\Debug\netcoreapp2.1\P04CaesarCipher.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Exercises_TextProcessingAndRegularExpressions\P04CaesarCipher\obj\Debug\netcoreapp2.1\P04CaesarCipher.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Exercises_TextProcessingAndRegularExpressions\P04CaesarCipher\obj\Debug\netcoreapp2.1\P04CaesarCipher.dll
+C:\Users\Sybatron\source\repos\Exercises_TextProcessingAndRegularExpressions\P04CaesarCipher\obj\Debug\netcoreapp2.1\P04CaesarCipher.pdb

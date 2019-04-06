@@ -1,0 +1,10 @@
+C:\Users\Sybatron\source\repos\Lab_Lists\T01Lecture\bin\Debug\netcoreapp2.1\T01Lecture.deps.json
+C:\Users\Sybatron\source\repos\Lab_Lists\T01Lecture\bin\Debug\netcoreapp2.1\T01Lecture.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Lab_Lists\T01Lecture\bin\Debug\netcoreapp2.1\T01Lecture.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Lab_Lists\T01Lecture\bin\Debug\netcoreapp2.1\T01Lecture.dll
+C:\Users\Sybatron\source\repos\Lab_Lists\T01Lecture\bin\Debug\netcoreapp2.1\T01Lecture.pdb
+C:\Users\Sybatron\source\repos\Lab_Lists\T01Lecture\obj\Debug\netcoreapp2.1\T01Lecture.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Lab_Lists\T01Lecture\obj\Debug\netcoreapp2.1\T01Lecture.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Lab_Lists\T01Lecture\obj\Debug\netcoreapp2.1\T01Lecture.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Lab_Lists\T01Lecture\obj\Debug\netcoreapp2.1\T01Lecture.dll
+C:\Users\Sybatron\source\repos\Lab_Lists\T01Lecture\obj\Debug\netcoreapp2.1\T01Lecture.pdb

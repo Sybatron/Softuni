@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\DataTypeFinder\bin\Debug\netcoreapp2.1\DataTypeFinder.deps.json
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\DataTypeFinder\bin\Debug\netcoreapp2.1\DataTypeFinder.runtimeconfig.json
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\DataTypeFinder\bin\Debug\netcoreapp2.1\DataTypeFinder.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\DataTypeFinder\bin\Debug\netcoreapp2.1\DataTypeFinder.dll
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\DataTypeFinder\bin\Debug\netcoreapp2.1\DataTypeFinder.pdb
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\DataTypeFinder\obj\Debug\netcoreapp2.1\DataTypeFinder.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\DataTypeFinder\obj\Debug\netcoreapp2.1\DataTypeFinder.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\DataTypeFinder\obj\Debug\netcoreapp2.1\DataTypeFinder.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\DataTypeFinder\obj\Debug\netcoreapp2.1\DataTypeFinder.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\DataTypeFinder\obj\Debug\netcoreapp2.1\DataTypeFinder.dll
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\DataTypeFinder\obj\Debug\netcoreapp2.1\DataTypeFinder.pdb

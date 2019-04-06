@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Intro and Basic SyntaxLab_CSHARP\Intro and Basic SyntaxLab_CSHARP\bin\Debug\netcoreapp2.1\Student Information.deps.json
+C:\Users\Sybatron\source\repos\Intro and Basic SyntaxLab_CSHARP\Intro and Basic SyntaxLab_CSHARP\bin\Debug\netcoreapp2.1\Student Information.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Intro and Basic SyntaxLab_CSHARP\Intro and Basic SyntaxLab_CSHARP\bin\Debug\netcoreapp2.1\Student Information.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Intro and Basic SyntaxLab_CSHARP\Intro and Basic SyntaxLab_CSHARP\bin\Debug\netcoreapp2.1\Student Information.dll
+C:\Users\Sybatron\source\repos\Intro and Basic SyntaxLab_CSHARP\Intro and Basic SyntaxLab_CSHARP\bin\Debug\netcoreapp2.1\Student Information.pdb
+C:\Users\Sybatron\source\repos\Intro and Basic SyntaxLab_CSHARP\Intro and Basic SyntaxLab_CSHARP\obj\Debug\netcoreapp2.1\Student Information.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Intro and Basic SyntaxLab_CSHARP\Intro and Basic SyntaxLab_CSHARP\obj\Debug\netcoreapp2.1\Student Information.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Intro and Basic SyntaxLab_CSHARP\Intro and Basic SyntaxLab_CSHARP\obj\Debug\netcoreapp2.1\Student Information.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Intro and Basic SyntaxLab_CSHARP\Intro and Basic SyntaxLab_CSHARP\obj\Debug\netcoreapp2.1\Student Information.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Intro and Basic SyntaxLab_CSHARP\Intro and Basic SyntaxLab_CSHARP\obj\Debug\netcoreapp2.1\Student Information.dll
+C:\Users\Sybatron\source\repos\Intro and Basic SyntaxLab_CSHARP\Intro and Basic SyntaxLab_CSHARP\obj\Debug\netcoreapp2.1\Student Information.pdb

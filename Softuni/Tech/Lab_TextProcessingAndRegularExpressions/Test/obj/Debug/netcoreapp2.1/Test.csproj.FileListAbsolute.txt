@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\Test\bin\Debug\netcoreapp2.1\Test.deps.json
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\Test\bin\Debug\netcoreapp2.1\Test.dll
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\Test\bin\Debug\netcoreapp2.1\Test.pdb
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\Test\obj\Debug\netcoreapp2.1\Test.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\Test\obj\Debug\netcoreapp2.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\Test\obj\Debug\netcoreapp2.1\Test.dll
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\Test\obj\Debug\netcoreapp2.1\Test.pdb

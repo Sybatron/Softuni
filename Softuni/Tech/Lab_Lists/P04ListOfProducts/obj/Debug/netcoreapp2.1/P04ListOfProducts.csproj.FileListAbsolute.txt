@@ -1,0 +1,10 @@
+C:\Users\Sybatron\source\repos\Lab_Lists\P04ListOfProducts\bin\Debug\netcoreapp2.1\P04ListOfProducts.deps.json
+C:\Users\Sybatron\source\repos\Lab_Lists\P04ListOfProducts\bin\Debug\netcoreapp2.1\P04ListOfProducts.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Lab_Lists\P04ListOfProducts\bin\Debug\netcoreapp2.1\P04ListOfProducts.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Lab_Lists\P04ListOfProducts\bin\Debug\netcoreapp2.1\P04ListOfProducts.dll
+C:\Users\Sybatron\source\repos\Lab_Lists\P04ListOfProducts\bin\Debug\netcoreapp2.1\P04ListOfProducts.pdb
+C:\Users\Sybatron\source\repos\Lab_Lists\P04ListOfProducts\obj\Debug\netcoreapp2.1\P04ListOfProducts.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Lab_Lists\P04ListOfProducts\obj\Debug\netcoreapp2.1\P04ListOfProducts.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Lab_Lists\P04ListOfProducts\obj\Debug\netcoreapp2.1\P04ListOfProducts.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Lab_Lists\P04ListOfProducts\obj\Debug\netcoreapp2.1\P04ListOfProducts.dll
+C:\Users\Sybatron\source\repos\Lab_Lists\P04ListOfProducts\obj\Debug\netcoreapp2.1\P04ListOfProducts.pdb

@@ -1,0 +1,10 @@
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\FloatingEquality\bin\Debug\netcoreapp2.1\FloatingEquality.deps.json
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\FloatingEquality\bin\Debug\netcoreapp2.1\FloatingEquality.runtimeconfig.json
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\FloatingEquality\bin\Debug\netcoreapp2.1\FloatingEquality.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\FloatingEquality\bin\Debug\netcoreapp2.1\FloatingEquality.dll
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\FloatingEquality\bin\Debug\netcoreapp2.1\FloatingEquality.pdb
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\FloatingEquality\obj\Debug\netcoreapp2.1\FloatingEquality.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\FloatingEquality\obj\Debug\netcoreapp2.1\FloatingEquality.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\FloatingEquality\obj\Debug\netcoreapp2.1\FloatingEquality.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\FloatingEquality\obj\Debug\netcoreapp2.1\FloatingEquality.dll
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\FloatingEquality\obj\Debug\netcoreapp2.1\FloatingEquality.pdb

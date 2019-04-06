@@ -1,0 +1,7 @@
+C:\Users\Sybatron\source\repos\Simple calculations\Pipes in pool\bin\Debug\Pipes in pool.exe.config
+C:\Users\Sybatron\source\repos\Simple calculations\Pipes in pool\bin\Debug\Pipes in pool.exe
+C:\Users\Sybatron\source\repos\Simple calculations\Pipes in pool\bin\Debug\Pipes in pool.pdb
+C:\Users\Sybatron\source\repos\Simple calculations\Pipes in pool\obj\Debug\Pipes in pool.csprojResolveAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Simple calculations\Pipes in pool\obj\Debug\Pipes in pool.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Simple calculations\Pipes in pool\obj\Debug\Pipes in pool.exe
+C:\Users\Sybatron\source\repos\Simple calculations\Pipes in pool\obj\Debug\Pipes in pool.pdb

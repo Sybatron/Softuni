@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P04TextFilter\bin\Debug\netcoreapp2.1\P04TextFilter.deps.json
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P04TextFilter\bin\Debug\netcoreapp2.1\P04TextFilter.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P04TextFilter\bin\Debug\netcoreapp2.1\P04TextFilter.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P04TextFilter\bin\Debug\netcoreapp2.1\P04TextFilter.dll
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P04TextFilter\bin\Debug\netcoreapp2.1\P04TextFilter.pdb
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P04TextFilter\obj\Debug\netcoreapp2.1\P04TextFilter.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P04TextFilter\obj\Debug\netcoreapp2.1\P04TextFilter.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P04TextFilter\obj\Debug\netcoreapp2.1\P04TextFilter.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P04TextFilter\obj\Debug\netcoreapp2.1\P04TextFilter.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P04TextFilter\obj\Debug\netcoreapp2.1\P04TextFilter.dll
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P04TextFilter\obj\Debug\netcoreapp2.1\P04TextFilter.pdb

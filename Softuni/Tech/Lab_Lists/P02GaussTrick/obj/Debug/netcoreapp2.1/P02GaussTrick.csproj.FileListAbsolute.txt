@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Lab_Lists\P02GaussTrick\bin\Debug\netcoreapp2.1\P02GaussTrick.deps.json
+C:\Users\Sybatron\source\repos\Lab_Lists\P02GaussTrick\bin\Debug\netcoreapp2.1\P02GaussTrick.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Lab_Lists\P02GaussTrick\bin\Debug\netcoreapp2.1\P02GaussTrick.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Lab_Lists\P02GaussTrick\bin\Debug\netcoreapp2.1\P02GaussTrick.dll
+C:\Users\Sybatron\source\repos\Lab_Lists\P02GaussTrick\bin\Debug\netcoreapp2.1\P02GaussTrick.pdb
+C:\Users\Sybatron\source\repos\Lab_Lists\P02GaussTrick\obj\Debug\netcoreapp2.1\P02GaussTrick.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Lab_Lists\P02GaussTrick\obj\Debug\netcoreapp2.1\P02GaussTrick.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Lab_Lists\P02GaussTrick\obj\Debug\netcoreapp2.1\P02GaussTrick.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Lab_Lists\P02GaussTrick\obj\Debug\netcoreapp2.1\P02GaussTrick.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Lab_Lists\P02GaussTrick\obj\Debug\netcoreapp2.1\P02GaussTrick.dll
+C:\Users\Sybatron\source\repos\Lab_Lists\P02GaussTrick\obj\Debug\netcoreapp2.1\P02GaussTrick.pdb

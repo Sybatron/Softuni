@@ -1,0 +1,10 @@
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P05LongestIncreasingSubsequence\bin\Debug\netcoreapp2.1\P05LongestIncreasingSubsequence.deps.json
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P05LongestIncreasingSubsequence\bin\Debug\netcoreapp2.1\P05LongestIncreasingSubsequence.runtimeconfig.json
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P05LongestIncreasingSubsequence\bin\Debug\netcoreapp2.1\P05LongestIncreasingSubsequence.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P05LongestIncreasingSubsequence\bin\Debug\netcoreapp2.1\P05LongestIncreasingSubsequence.dll
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P05LongestIncreasingSubsequence\bin\Debug\netcoreapp2.1\P05LongestIncreasingSubsequence.pdb
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P05LongestIncreasingSubsequence\obj\Debug\netcoreapp2.1\P05LongestIncreasingSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P05LongestIncreasingSubsequence\obj\Debug\netcoreapp2.1\P05LongestIncreasingSubsequence.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P05LongestIncreasingSubsequence\obj\Debug\netcoreapp2.1\P05LongestIncreasingSubsequence.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P05LongestIncreasingSubsequence\obj\Debug\netcoreapp2.1\P05LongestIncreasingSubsequence.dll
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P05LongestIncreasingSubsequence\obj\Debug\netcoreapp2.1\P05LongestIncreasingSubsequence.pdb

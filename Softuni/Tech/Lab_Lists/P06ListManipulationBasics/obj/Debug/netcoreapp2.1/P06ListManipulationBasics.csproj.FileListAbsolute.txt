@@ -1,0 +1,10 @@
+C:\Users\Sybatron\source\repos\Lab_Lists\P06ListManipulationBasics\bin\Debug\netcoreapp2.1\P06ListManipulationBasics.deps.json
+C:\Users\Sybatron\source\repos\Lab_Lists\P06ListManipulationBasics\bin\Debug\netcoreapp2.1\P06ListManipulationBasics.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Lab_Lists\P06ListManipulationBasics\bin\Debug\netcoreapp2.1\P06ListManipulationBasics.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Lab_Lists\P06ListManipulationBasics\bin\Debug\netcoreapp2.1\P06ListManipulationBasics.dll
+C:\Users\Sybatron\source\repos\Lab_Lists\P06ListManipulationBasics\bin\Debug\netcoreapp2.1\P06ListManipulationBasics.pdb
+C:\Users\Sybatron\source\repos\Lab_Lists\P06ListManipulationBasics\obj\Debug\netcoreapp2.1\P06ListManipulationBasics.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Lab_Lists\P06ListManipulationBasics\obj\Debug\netcoreapp2.1\P06ListManipulationBasics.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Lab_Lists\P06ListManipulationBasics\obj\Debug\netcoreapp2.1\P06ListManipulationBasics.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Lab_Lists\P06ListManipulationBasics\obj\Debug\netcoreapp2.1\P06ListManipulationBasics.dll
+C:\Users\Sybatron\source\repos\Lab_Lists\P06ListManipulationBasics\obj\Debug\netcoreapp2.1\P06ListManipulationBasics.pdb

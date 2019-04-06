@@ -1,0 +1,7 @@
+C:\Users\Sybatron\source\repos\WhichIsBigger\WhichIsBigger\bin\Debug\WhichIsBigger.exe.config
+C:\Users\Sybatron\source\repos\WhichIsBigger\WhichIsBigger\bin\Debug\WhichIsBigger.exe
+C:\Users\Sybatron\source\repos\WhichIsBigger\WhichIsBigger\bin\Debug\WhichIsBigger.pdb
+C:\Users\Sybatron\source\repos\WhichIsBigger\WhichIsBigger\obj\Debug\WhichIsBigger.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\WhichIsBigger\WhichIsBigger\obj\Debug\WhichIsBigger.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\WhichIsBigger\WhichIsBigger\obj\Debug\WhichIsBigger.exe
+C:\Users\Sybatron\source\repos\WhichIsBigger\WhichIsBigger\obj\Debug\WhichIsBigger.pdb

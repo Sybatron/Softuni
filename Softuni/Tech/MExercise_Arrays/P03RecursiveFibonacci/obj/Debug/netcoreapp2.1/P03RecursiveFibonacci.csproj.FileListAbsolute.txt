@@ -1,0 +1,10 @@
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P03RecursiveFibonacci\bin\Debug\netcoreapp2.1\P03RecursiveFibonacci.deps.json
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P03RecursiveFibonacci\bin\Debug\netcoreapp2.1\P03RecursiveFibonacci.runtimeconfig.json
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P03RecursiveFibonacci\bin\Debug\netcoreapp2.1\P03RecursiveFibonacci.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P03RecursiveFibonacci\bin\Debug\netcoreapp2.1\P03RecursiveFibonacci.dll
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P03RecursiveFibonacci\bin\Debug\netcoreapp2.1\P03RecursiveFibonacci.pdb
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P03RecursiveFibonacci\obj\Debug\netcoreapp2.1\P03RecursiveFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P03RecursiveFibonacci\obj\Debug\netcoreapp2.1\P03RecursiveFibonacci.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P03RecursiveFibonacci\obj\Debug\netcoreapp2.1\P03RecursiveFibonacci.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P03RecursiveFibonacci\obj\Debug\netcoreapp2.1\P03RecursiveFibonacci.dll
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P03RecursiveFibonacci\obj\Debug\netcoreapp2.1\P03RecursiveFibonacci.pdb

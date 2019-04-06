@@ -1,0 +1,7 @@
+C:\Users\Sybatron\Downloads\Homework-master\ProblemI5-5\PI5-5\bin\Debug\PI5-5.exe.config
+C:\Users\Sybatron\Downloads\Homework-master\ProblemI5-5\PI5-5\bin\Debug\PI5-5.exe
+C:\Users\Sybatron\Downloads\Homework-master\ProblemI5-5\PI5-5\bin\Debug\PI5-5.pdb
+C:\Users\Sybatron\Downloads\Homework-master\ProblemI5-5\PI5-5\obj\Debug\PI5-5.csprojAssemblyReference.cache
+C:\Users\Sybatron\Downloads\Homework-master\ProblemI5-5\PI5-5\obj\Debug\PI5-5.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\Downloads\Homework-master\ProblemI5-5\PI5-5\obj\Debug\PI5-5.exe
+C:\Users\Sybatron\Downloads\Homework-master\ProblemI5-5\PI5-5\obj\Debug\PI5-5.pdb

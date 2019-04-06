@@ -1,0 +1,10 @@
+C:\Users\Sybatron\source\repos\Exercise_Methods\TEST\bin\Debug\netcoreapp2.1\TEST.deps.json
+C:\Users\Sybatron\source\repos\Exercise_Methods\TEST\bin\Debug\netcoreapp2.1\TEST.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Exercise_Methods\TEST\bin\Debug\netcoreapp2.1\TEST.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Exercise_Methods\TEST\bin\Debug\netcoreapp2.1\TEST.dll
+C:\Users\Sybatron\source\repos\Exercise_Methods\TEST\bin\Debug\netcoreapp2.1\TEST.pdb
+C:\Users\Sybatron\source\repos\Exercise_Methods\TEST\obj\Debug\netcoreapp2.1\TEST.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Exercise_Methods\TEST\obj\Debug\netcoreapp2.1\TEST.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Exercise_Methods\TEST\obj\Debug\netcoreapp2.1\TEST.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Exercise_Methods\TEST\obj\Debug\netcoreapp2.1\TEST.dll
+C:\Users\Sybatron\source\repos\Exercise_Methods\TEST\obj\Debug\netcoreapp2.1\TEST.pdb

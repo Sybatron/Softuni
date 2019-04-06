@@ -1,0 +1,7 @@
+C:\Users\Sybatron\source\repos\TEST_Homework\TEST_Homework\bin\Debug\TEST_Homework.exe.config
+C:\Users\Sybatron\source\repos\TEST_Homework\TEST_Homework\bin\Debug\TEST_Homework.exe
+C:\Users\Sybatron\source\repos\TEST_Homework\TEST_Homework\bin\Debug\TEST_Homework.pdb
+C:\Users\Sybatron\source\repos\TEST_Homework\TEST_Homework\obj\Debug\TEST_Homework.csprojResolveAssemblyReference.cache
+C:\Users\Sybatron\source\repos\TEST_Homework\TEST_Homework\obj\Debug\TEST_Homework.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\TEST_Homework\TEST_Homework\obj\Debug\TEST_Homework.exe
+C:\Users\Sybatron\source\repos\TEST_Homework\TEST_Homework\obj\Debug\TEST_Homework.pdb
