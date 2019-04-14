@@ -31,3 +31,14 @@ C:\Users\Sybatron\source\repos\TeisterMask - Skeleton\TeisterMask\bin\Debug\netc
 C:\Users\Sybatron\source\repos\TeisterMask - Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.runtimeconfig.dev.json
 C:\Users\Sybatron\source\repos\TeisterMask - Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.dll
 C:\Users\Sybatron\source\repos\TeisterMask - Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.pdb
+C:\Users\nnn\source\repos\Csharp\Softuni\Tech\WebProj\TeisterMask - Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.deps.json
+C:\Users\nnn\source\repos\Csharp\Softuni\Tech\WebProj\TeisterMask - Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.runtimeconfig.json
+C:\Users\nnn\source\repos\Csharp\Softuni\Tech\WebProj\TeisterMask - Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.runtimeconfig.dev.json
+C:\Users\nnn\source\repos\Csharp\Softuni\Tech\WebProj\TeisterMask - Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.dll
+C:\Users\nnn\source\repos\Csharp\Softuni\Tech\WebProj\TeisterMask - Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.pdb
+C:\Users\nnn\source\repos\Csharp\Softuni\Tech\WebProj\TeisterMask - Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.csprojAssemblyReference.cache
+C:\Users\nnn\source\repos\Csharp\Softuni\Tech\WebProj\TeisterMask - Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.csproj.CoreCompileInputs.cache
+C:\Users\nnn\source\repos\Csharp\Softuni\Tech\WebProj\TeisterMask - Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.AssemblyInfoInputs.cache
+C:\Users\nnn\source\repos\Csharp\Softuni\Tech\WebProj\TeisterMask - Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.AssemblyInfo.cs
+C:\Users\nnn\source\repos\Csharp\Softuni\Tech\WebProj\TeisterMask - Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.dll
+C:\Users\nnn\source\repos\Csharp\Softuni\Tech\WebProj\TeisterMask - Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.pdb

@@ -7,7 +7,7 @@ namespace TeisterMask.Data
     {
         public DbSet<Task> Tasks { get; set; }
 
-        private const string ConnectionString = @"Server=DESKTOP-5N96SDC\SQLEXPRESS;Database=TeisterMaskDb;Integrated Security=True;";
+        private const string ConnectionString = @"Server=DESKTOP-8PQCKOF\SQLEXPRESS;Database=TeisterMaskDb;Integrated Security=True;";
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

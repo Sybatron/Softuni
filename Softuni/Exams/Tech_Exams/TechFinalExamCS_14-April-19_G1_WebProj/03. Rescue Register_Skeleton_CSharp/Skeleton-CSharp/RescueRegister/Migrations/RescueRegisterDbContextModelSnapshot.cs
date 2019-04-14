@@ -5,36 +5,40 @@ using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage;
 using Microsoft.EntityFrameworkCore.Storage.Internal;
+using RescueRegister.Models;
 using System;
-using TeisterMask.Data;
 
-namespace TeisterMask.Migrations
+namespace RescueRegister.Migrations
 {
-    [DbContext(typeof(TeisterMaskDbContext))]
-    [Migration("20190405183545_Initial")]
-    partial class Initial
+    [DbContext(typeof(RescueRegisterDbContext))]
+    partial class RescueRegisterDbContextModelSnapshot : ModelSnapshot
     {
-        protected override void BuildTargetModel(ModelBuilder modelBuilder)
+        protected override void BuildModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "2.0.2-rtm-10011")
+                .HasAnnotation("ProductVersion", "2.0.3-rtm-10026")
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-            modelBuilder.Entity("TeisterMask.Models.Task", b =>
+            modelBuilder.Entity("RescueRegister.Models.Mountaineer", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd();
 
-                    b.Property<string>("Status")
+                    b.Property<int>("Age");
+
+                    b.Property<string>("Gender")
                         .IsRequired();
 
-                    b.Property<string>("Title")
+                    b.Property<string>("LastSeenDate")
+                        .IsRequired();
+
+                    b.Property<string>("Name")
                         .IsRequired();
 
                     b.HasKey("Id");
 
-                    b.ToTable("Tasks");
+                    b.ToTable("Mountaineers");
                 });
 #pragma warning restore 612, 618
         }
