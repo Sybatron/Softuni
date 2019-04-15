@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{02207C38-25A5-4B2A-BF83-3F08EFEF6E65}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Mind_Break</RootNamespace>
+    <AssemblyName>MindBreak</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Mind_Break.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GAMES\Hangman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GAMES\Hangman.Designer.cs">
+      <DependentUpon>Hangman.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GAMES\Minesweeper\Game.cs" />
+    <Compile Include="GAMES\Minesweeper\MinesweeperForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GAMES\Minesweeper\Square.cs" />
+    <Compile Include="GAMES\PuzzleGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GAMES\PuzzleGame.Designer.cs">
+      <DependentUpon>PuzzleGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GAMES\Quiz\QuizEndGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GAMES\Quiz\QuizEndGame.Designer.cs">
+      <DependentUpon>QuizEndGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GAMES\Quiz\QuizGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GAMES\Quiz\QuizGame.Designer.cs">
+      <DependentUpon>QuizGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GAMES\Quiz\WinQuiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GAMES\Quiz\WinQuiz.Designer.cs">
+      <DependentUpon>WinQuiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GAMES\SnakeGame\Circle.cs" />
+    <Compile Include="GAMES\SnakeGame\Input.cs" />
+    <Compile Include="GAMES\SnakeGame\Settings.cs" />
+    <Compile Include="GAMES\SnakeGame\SnakeGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GAMES\SnakeGame\SnakeGame.designer.cs">
+      <DependentUpon>SnakeGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GAMES\Sudoku\Game.cs" />
+    <Compile Include="GAMES\Sudoku\Sudoku.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GAMES\Sudoku\Sudoku.designer.cs">
+      <DependentUpon>Sudoku.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main Menu\MindBreak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main Menu\MindBreak.Designer.cs">
+      <DependentUpon>MindBreak.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main Menu\Information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main Menu\Information.Designer.cs">
+      <DependentUpon>Information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GAMES\Hangman.resx">
+      <DependentUpon>Hangman.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GAMES\Minesweeper\MinesweeperForm.resx">
+      <DependentUpon>MinesweeperForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GAMES\PuzzleGame.resx">
+      <DependentUpon>PuzzleGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GAMES\Quiz\QuizEndGame.resx">
+      <DependentUpon>QuizEndGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GAMES\Quiz\QuizGame.resx">
+      <DependentUpon>QuizGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GAMES\Quiz\WinQuiz.resx">
+      <DependentUpon>WinQuiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GAMES\SnakeGame\SnakeGame.resx">
+      <DependentUpon>SnakeGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GAMES\Sudoku\Sudoku.resx">
+      <DependentUpon>Sudoku.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main Menu\MindBreak.resx">
+      <DependentUpon>MindBreak.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main Menu\Information.resx">
+      <DependentUpon>Information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
