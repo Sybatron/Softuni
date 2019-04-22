@@ -61,17 +61,17 @@
             this.panel1.Controls.Add(this.button4);
             this.panel1.Controls.Add(this.pic2);
             this.panel1.Controls.Add(this.pic1);
-            this.panel1.Location = new System.Drawing.Point(12, 27);
+            this.panel1.Location = new System.Drawing.Point(12, 34);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(300, 300);
+            this.panel1.Size = new System.Drawing.Size(450, 450);
             this.panel1.TabIndex = 0;
             // 
             // finalPiece
             // 
             this.finalPiece.Enabled = false;
-            this.finalPiece.Location = new System.Drawing.Point(200, 200);
+            this.finalPiece.Location = new System.Drawing.Point(300, 300);
             this.finalPiece.Name = "finalPiece";
-            this.finalPiece.Size = new System.Drawing.Size(100, 100);
+            this.finalPiece.Size = new System.Drawing.Size(150, 150);
             this.finalPiece.TabIndex = 8;
             this.finalPiece.UseVisualStyleBackColor = true;
             this.finalPiece.Click += new System.EventHandler(this.finalPiece_Click);
@@ -80,9 +80,9 @@
             // button9
             // 
             this.button9.Enabled = false;
-            this.button9.Location = new System.Drawing.Point(100, 200);
+            this.button9.Location = new System.Drawing.Point(150, 300);
             this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(100, 100);
+            this.button9.Size = new System.Drawing.Size(150, 150);
             this.button9.TabIndex = 7;
             this.button9.UseVisualStyleBackColor = true;
             this.button9.Click += new System.EventHandler(this.pic1_Click);
@@ -90,9 +90,9 @@
             // button8
             // 
             this.button8.Enabled = false;
-            this.button8.Location = new System.Drawing.Point(200, 100);
+            this.button8.Location = new System.Drawing.Point(300, 150);
             this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(100, 100);
+            this.button8.Size = new System.Drawing.Size(150, 150);
             this.button8.TabIndex = 6;
             this.button8.UseVisualStyleBackColor = true;
             this.button8.Click += new System.EventHandler(this.pic1_Click);
@@ -100,9 +100,9 @@
             // button7
             // 
             this.button7.Enabled = false;
-            this.button7.Location = new System.Drawing.Point(100, 100);
+            this.button7.Location = new System.Drawing.Point(150, 150);
             this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(100, 100);
+            this.button7.Size = new System.Drawing.Size(150, 150);
             this.button7.TabIndex = 5;
             this.button7.UseVisualStyleBackColor = true;
             this.button7.Click += new System.EventHandler(this.pic1_Click);
@@ -110,9 +110,9 @@
             // button6
             // 
             this.button6.Enabled = false;
-            this.button6.Location = new System.Drawing.Point(0, 200);
+            this.button6.Location = new System.Drawing.Point(0, 300);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(100, 100);
+            this.button6.Size = new System.Drawing.Size(150, 150);
             this.button6.TabIndex = 4;
             this.button6.UseVisualStyleBackColor = true;
             this.button6.Click += new System.EventHandler(this.pic1_Click);
@@ -120,9 +120,9 @@
             // button5
             // 
             this.button5.Enabled = false;
-            this.button5.Location = new System.Drawing.Point(0, 100);
+            this.button5.Location = new System.Drawing.Point(0, 150);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(100, 100);
+            this.button5.Size = new System.Drawing.Size(150, 150);
             this.button5.TabIndex = 3;
             this.button5.UseVisualStyleBackColor = true;
             this.button5.Click += new System.EventHandler(this.pic1_Click);
@@ -130,9 +130,9 @@
             // button4
             // 
             this.button4.Enabled = false;
-            this.button4.Location = new System.Drawing.Point(200, 0);
+            this.button4.Location = new System.Drawing.Point(300, 0);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(100, 100);
+            this.button4.Size = new System.Drawing.Size(150, 150);
             this.button4.TabIndex = 2;
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.pic1_Click);
@@ -140,9 +140,9 @@
             // pic2
             // 
             this.pic2.Enabled = false;
-            this.pic2.Location = new System.Drawing.Point(100, 0);
+            this.pic2.Location = new System.Drawing.Point(150, 0);
             this.pic2.Name = "pic2";
-            this.pic2.Size = new System.Drawing.Size(100, 100);
+            this.pic2.Size = new System.Drawing.Size(150, 150);
             this.pic2.TabIndex = 1;
             this.pic2.UseVisualStyleBackColor = true;
             this.pic2.Click += new System.EventHandler(this.pic1_Click);
@@ -152,17 +152,17 @@
             this.pic1.Enabled = false;
             this.pic1.Location = new System.Drawing.Point(0, 0);
             this.pic1.Name = "pic1";
-            this.pic1.Size = new System.Drawing.Size(100, 100);
+            this.pic1.Size = new System.Drawing.Size(150, 150);
             this.pic1.TabIndex = 0;
             this.pic1.UseVisualStyleBackColor = true;
             this.pic1.Click += new System.EventHandler(this.pic1_Click);
             // 
             // startGameButton
             // 
-            this.startGameButton.Font = new System.Drawing.Font("Comic Sans MS", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.startGameButton.Location = new System.Drawing.Point(93, 339);
+            this.startGameButton.Font = new System.Drawing.Font("Comic Sans MS", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.startGameButton.Location = new System.Drawing.Point(162, 522);
             this.startGameButton.Name = "startGameButton";
-            this.startGameButton.Size = new System.Drawing.Size(150, 25);
+            this.startGameButton.Size = new System.Drawing.Size(150, 35);
             this.startGameButton.TabIndex = 1;
             this.startGameButton.Text = "Начать игру";
             this.startGameButton.UseVisualStyleBackColor = true;
@@ -176,24 +176,26 @@
             this.къмМенютоToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(324, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(484, 28);
             this.menuStrip1.TabIndex = 2;
             this.menuStrip1.Text = "menuStrip1";
             // 
             // новаИграToolStripMenuItem
             // 
             this.новаИграToolStripMenuItem.BackColor = System.Drawing.Color.DimGray;
+            this.новаИграToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 11F);
             this.новаИграToolStripMenuItem.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.новаИграToolStripMenuItem.Name = "новаИграToolStripMenuItem";
-            this.новаИграToolStripMenuItem.Size = new System.Drawing.Size(81, 20);
+            this.новаИграToolStripMenuItem.Size = new System.Drawing.Size(101, 24);
             this.новаИграToolStripMenuItem.Text = "Новая игра";
             this.новаИграToolStripMenuItem.Click += new System.EventHandler(this.новаИграToolStripMenuItem_Click);
             // 
             // къмМенютоToolStripMenuItem
             // 
+            this.къмМенютоToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 11F);
             this.къмМенютоToolStripMenuItem.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.къмМенютоToolStripMenuItem.Name = "къмМенютоToolStripMenuItem";
-            this.къмМенютоToolStripMenuItem.Size = new System.Drawing.Size(111, 20);
+            this.къмМенютоToolStripMenuItem.Size = new System.Drawing.Size(137, 24);
             this.къмМенютоToolStripMenuItem.Text = "Обратно к меню";
             this.къмМенютоToolStripMenuItem.Click += new System.EventHandler(this.къмМенютоToolStripMenuItem_Click);
             // 
@@ -205,10 +207,11 @@
             // timeLabel
             // 
             this.timeLabel.AutoSize = true;
+            this.timeLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.timeLabel.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.timeLabel.Location = new System.Drawing.Point(12, 346);
+            this.timeLabel.Location = new System.Drawing.Point(12, 530);
             this.timeLabel.Name = "timeLabel";
-            this.timeLabel.Size = new System.Drawing.Size(33, 13);
+            this.timeLabel.Size = new System.Drawing.Size(52, 22);
             this.timeLabel.TabIndex = 3;
             this.timeLabel.Text = "TIME";
             // 
@@ -217,7 +220,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.ClientSize = new System.Drawing.Size(324, 374);
+            this.ClientSize = new System.Drawing.Size(484, 561);
             this.Controls.Add(this.timeLabel);
             this.Controls.Add(this.startGameButton);
             this.Controls.Add(this.panel1);

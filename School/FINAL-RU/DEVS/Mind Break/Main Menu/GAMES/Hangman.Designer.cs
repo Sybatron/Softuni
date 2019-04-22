@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Hangman));
             this.HangManGroupBox = new System.Windows.Forms.GroupBox();
             this.panel1 = new System.Windows.Forms.Panel();
@@ -42,6 +43,7 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.новаИграToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.къмМенютоToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.HangManGroupBox.SuspendLayout();
             this.WordsGroupBox.SuspendLayout();
             this.SubmitWordsGroupBox.SuspendLayout();
@@ -178,6 +180,11 @@
             this.къмМенютоToolStripMenuItem.Text = "Обратно к меню";
             this.къмМенютоToolStripMenuItem.Click += new System.EventHandler(this.къмМенютоToolStripMenuItem_Click);
             // 
+            // timer1
+            // 
+            this.timer1.Enabled = true;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
             // Hangman
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -196,6 +203,7 @@
             this.Text = "Виселеца";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Hangman_FormClosed);
             this.Shown += new System.EventHandler(this.Form1_Shown);
+            this.MouseEnter += new System.EventHandler(this.Hangman_MouseEnter);
             this.MouseUp += new System.Windows.Forms.MouseEventHandler(this.Hangman_MouseUp);
             this.HangManGroupBox.ResumeLayout(false);
             this.WordsGroupBox.ResumeLayout(false);
@@ -224,6 +232,7 @@
         private System.Windows.Forms.Label missedLetters;
         private System.Windows.Forms.ToolStripMenuItem новаИграToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem къмМенютоToolStripMenuItem;
+        private System.Windows.Forms.Timer timer1;
     }
 }
 

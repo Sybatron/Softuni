@@ -263,5 +263,23 @@ namespace Hangman
                 DrawBodyPart((BodyParts)i);
             }
         }
+
+        private void Hangman_MouseEnter(object sender, EventArgs e)
+        {
+            DrawHangmanPost();
+            for (int i = 0; i < wrongCounter; i++)
+            {
+                DrawBodyPart((BodyParts)i);
+            }
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            DrawHangmanPost();
+            for (int i = 0; i < wrongCounter; i++)
+            {
+                DrawBodyPart((BodyParts)i);
+            }
+        }
     }
 }

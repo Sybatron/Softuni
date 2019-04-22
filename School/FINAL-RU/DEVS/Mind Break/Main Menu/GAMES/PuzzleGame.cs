@@ -28,8 +28,8 @@ namespace PuzzleGame
         Button prevBTN;
         public PuzzleGame()
         {
-            EmptyPoint.X = 200;
-            EmptyPoint.Y = 200;
+            EmptyPoint.X = 300;
+            EmptyPoint.Y = 300;
             InitializeComponent();
             //finalPiece.Visible = false;
         }
@@ -47,7 +47,7 @@ namespace PuzzleGame
             {
                 original = Image.FromFile(".\\Pictures\\AC.jpg");
             }
-            CropImageToImages(original, 300, 300);
+            CropImageToImages(original, 450, 450);
 
             AddImagesToButtons(images);
             timer1.Enabled = true;
@@ -125,19 +125,19 @@ namespace PuzzleGame
             int movr = 0, movd = 0;
             for (int x = 0; x < 9; x++)
             {
-                Bitmap piece = new Bitmap(100, 100);
+                Bitmap piece = new Bitmap(150, 150);
 
-                for (int i = 0; i < 100; i++)
-                    for (int j = 0; j < 100; j++)
+                for (int i = 0; i < 150; i++)
+                    for (int j = 0; j < 150; j++)
                         piece.SetPixel(i, j, bmp.GetPixel(i + movr, j + movd));
 
                 images.Add(piece);
-                movr += 100;
+                movr += 150;
 
-                if (movr == 300)
+                if (movr == 450)
                 {
                     movr = 0;
-                    movd += 100;
+                    movd += 150;
                 }
             }
 
@@ -173,10 +173,10 @@ namespace PuzzleGame
             {
                 Button btn = (Button)sender;
                 if (
-                    ((btn.Location.X == EmptyPoint.X - 100 || btn.Location.X == EmptyPoint.X + 100)
+                    ((btn.Location.X == EmptyPoint.X - 150 || btn.Location.X == EmptyPoint.X + 150)
                     && btn.Location.Y == EmptyPoint.Y)
                     ||
-                ((btn.Location.Y == EmptyPoint.Y - 100 || btn.Location.Y == EmptyPoint.Y + 100)
+                ((btn.Location.Y == EmptyPoint.Y - 150 || btn.Location.Y == EmptyPoint.Y + 150)
                     && btn.Location.X == EmptyPoint.X)
                     )
                 {
@@ -204,7 +204,7 @@ namespace PuzzleGame
             {
                 if (btn != finalPiece)
                 {
-                    index = (btn.Location.Y / 100) * 3 + btn.Location.X / 100;
+                    index = (btn.Location.Y / 150) * 3 + btn.Location.X / 150;
                     if (images[index] == btn.Image)
                     {
                         count++;

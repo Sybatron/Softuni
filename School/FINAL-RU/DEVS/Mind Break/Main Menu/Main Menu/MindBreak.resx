@@ -119,7 +119,7 @@
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="aboutButton.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Comic Sans MS, 12pt, style=Bold</value>
+    <value>Comic Sans MS, 20pt, style=Bold</value>
   </data>
   <data name="aboutButton.Location" type="System.Drawing.Point, System.Drawing">
     <value>12, 12</value>
@@ -561,10 +561,10 @@
     <value>NoControl</value>
   </data>
   <data name="sudokuButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>170, 213</value>
+    <value>170, 290</value>
   </data>
   <data name="sudokuButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>200, 200</value>
+    <value>250, 250</value>
   </data>
   <data name="sudokuButton.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -1980,10 +1980,10 @@
 </value>
   </data>
   <data name="snakeButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>376, 213</value>
+    <value>444, 290</value>
   </data>
   <data name="snakeButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>200, 200</value>
+    <value>250, 250</value>
   </data>
   <data name="snakeButton.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -3164,10 +3164,10 @@
     <value>Consolas, 11.25pt</value>
   </data>
   <data name="puzzleButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>376, 7</value>
+    <value>444, 7</value>
   </data>
   <data name="puzzleButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>200, 200</value>
+    <value>250, 250</value>
   </data>
   <data name="puzzleButton.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -3288,7 +3288,7 @@
     <value>170, 7</value>
   </data>
   <data name="hangmanButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>200, 200</value>
+    <value>250, 250</value>
   </data>
   <data name="hangmanButton.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -4210,10 +4210,10 @@
     <value>NoControl</value>
   </data>
   <data name="Minesweeperbutton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>582, 7</value>
+    <value>718, 7</value>
   </data>
   <data name="Minesweeperbutton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>200, 200</value>
+    <value>250, 250</value>
   </data>
   <data name="Minesweeperbutton.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -5685,10 +5685,10 @@
     <value>NoControl</value>
   </data>
   <data name="BeMillionairebutton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>582, 213</value>
+    <value>718, 290</value>
   </data>
   <data name="BeMillionairebutton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>200, 200</value>
+    <value>250, 250</value>
   </data>
   <data name="BeMillionairebutton.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -5712,7 +5712,10 @@
     <value>6, 13</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>800, 425</value>
+    <value>984, 561</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
