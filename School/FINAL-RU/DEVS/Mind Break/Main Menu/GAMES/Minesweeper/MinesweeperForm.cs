@@ -73,10 +73,10 @@ namespace ReflectionIT.Minesweeper
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.SystemColors.AppWorkspace;
-            this.panel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.panel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 40F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.panel1.Location = new System.Drawing.Point(19, 75);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(541, 423);
+            this.panel1.Size = new System.Drawing.Size(1086, 748);
             this.panel1.TabIndex = 0;
             // 
             // button1
@@ -84,7 +84,7 @@ namespace ReflectionIT.Minesweeper
             this.button1.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button1.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.button1.Location = new System.Drawing.Point(101, 38);
+            this.button1.Location = new System.Drawing.Point(490, 38);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(146, 31);
             this.button1.TabIndex = 1;
@@ -98,7 +98,7 @@ namespace ReflectionIT.Minesweeper
             this.labelTime.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.labelTime.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelTime.ForeColor = System.Drawing.Color.Red;
-            this.labelTime.Location = new System.Drawing.Point(253, 40);
+            this.labelTime.Location = new System.Drawing.Point(642, 40);
             this.labelTime.Name = "labelTime";
             this.labelTime.Size = new System.Drawing.Size(67, 27);
             this.labelTime.TabIndex = 2;
@@ -111,7 +111,7 @@ namespace ReflectionIT.Minesweeper
             this.labelBombs.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.labelBombs.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelBombs.ForeColor = System.Drawing.Color.Red;
-            this.labelBombs.Location = new System.Drawing.Point(19, 40);
+            this.labelBombs.Location = new System.Drawing.Point(408, 40);
             this.labelBombs.Name = "labelBombs";
             this.labelBombs.Size = new System.Drawing.Size(67, 27);
             this.labelBombs.TabIndex = 3;
@@ -126,7 +126,7 @@ namespace ReflectionIT.Minesweeper
             this.êúìÌåíþòîToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(572, 36);
+            this.menuStrip1.Size = new System.Drawing.Size(1117, 36);
             this.menuStrip1.TabIndex = 4;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -143,7 +143,7 @@ namespace ReflectionIT.Minesweeper
             // 
             this.AutoScaleBaseSize = new System.Drawing.Size(6, 15);
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.ClientSize = new System.Drawing.Size(572, 510);
+            this.ClientSize = new System.Drawing.Size(1117, 835);
             this.Controls.Add(this.labelBombs);
             this.Controls.Add(this.labelTime);
             this.Controls.Add(this.button1);
@@ -155,6 +155,7 @@ namespace ReflectionIT.Minesweeper
             this.MainMenuStrip = this.menuStrip1;
             this.MaximizeBox = false;
             this.Name = "MinesweeperForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Ñàï¸ð";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.MinesweeperForm_FormClosed);
             this.menuStrip1.ResumeLayout(false);
@@ -176,7 +177,7 @@ namespace ReflectionIT.Minesweeper
 
 		private void button1_Click(object sender, System.EventArgs e) {
 			Cursor.Current = Cursors.WaitCursor;
-			_game = new Game(this.panel1, 10, 10, 10);
+			_game = new Game(this.panel1, 30, 30, 100);
 			_game.Tick += new EventHandler(GameTick);
 			_game.DismantledMinesChanged += new EventHandler(GameDismantledMinesChanged);
 			_game.Start();

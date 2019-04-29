@@ -67,7 +67,7 @@ namespace ReflectionIT.Minesweeper
 				s.RemoveEvents();
 				if (s.Minded) {
 					s.Button.Text = "*";
-					s.Button.Font = new System.Drawing.Font("Arial Black", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((System.Byte)(0)));
+					s.Button.Font = new System.Drawing.Font("Arial Black", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((System.Byte)(0)));
 					s.Button.ForeColor = Color.Black;
 				}
 //				if (!s.Dismantled && s.Minded && s != sender) {

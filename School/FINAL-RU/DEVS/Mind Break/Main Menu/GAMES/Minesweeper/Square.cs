@@ -63,6 +63,7 @@ namespace ReflectionIT.Minesweeper
 				} else {
 					_dismantled = true;
 					Button.BackColor = Color.Green;
+                    Button.Text = "";
 				}
 				OnDismantle();
 			}

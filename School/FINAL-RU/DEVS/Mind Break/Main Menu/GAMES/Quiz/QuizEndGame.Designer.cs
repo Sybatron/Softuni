@@ -41,7 +41,7 @@
             this.BackToMenubutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.BackToMenubutton.ForeColor = System.Drawing.Color.Black;
             this.BackToMenubutton.Location = new System.Drawing.Point(81, 165);
-            this.BackToMenubutton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.BackToMenubutton.Margin = new System.Windows.Forms.Padding(4);
             this.BackToMenubutton.Name = "BackToMenubutton";
             this.BackToMenubutton.Size = new System.Drawing.Size(204, 39);
             this.BackToMenubutton.TabIndex = 0;
@@ -55,7 +55,7 @@
             this.NewGamebutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.NewGamebutton.ForeColor = System.Drawing.Color.Black;
             this.NewGamebutton.Location = new System.Drawing.Point(119, 117);
-            this.NewGamebutton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.NewGamebutton.Margin = new System.Windows.Forms.Padding(4);
             this.NewGamebutton.Name = "NewGamebutton";
             this.NewGamebutton.Size = new System.Drawing.Size(129, 39);
             this.NewGamebutton.TabIndex = 1;
@@ -101,9 +101,10 @@
             this.Controls.Add(this.NewGamebutton);
             this.Controls.Add(this.BackToMenubutton);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.MaximizeBox = false;
             this.Name = "QuizEndGame";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Конец игры";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.QuizEndGame_FormClosed);
             this.ResumeLayout(false);

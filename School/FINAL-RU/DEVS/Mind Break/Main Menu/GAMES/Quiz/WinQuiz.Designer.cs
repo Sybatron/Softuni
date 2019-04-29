@@ -51,7 +51,7 @@
             // 
             this.OKbutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.OKbutton.Location = new System.Drawing.Point(170, 157);
-            this.OKbutton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.OKbutton.Margin = new System.Windows.Forms.Padding(4);
             this.OKbutton.Name = "OKbutton";
             this.OKbutton.Size = new System.Drawing.Size(103, 34);
             this.OKbutton.TabIndex = 1;
@@ -83,8 +83,10 @@
             this.Controls.Add(this.label1);
             this.ForeColor = System.Drawing.Color.Black;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
+            this.MaximizeBox = false;
             this.Name = "WinQuiz";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Гарантированная сумма";
             this.ResumeLayout(false);
             this.PerformLayout();

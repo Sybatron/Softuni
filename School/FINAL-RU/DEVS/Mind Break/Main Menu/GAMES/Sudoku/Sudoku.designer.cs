@@ -56,7 +56,7 @@
             this.btnSolution.Location = new System.Drawing.Point(13, 13);
             this.btnSolution.Margin = new System.Windows.Forms.Padding(4);
             this.btnSolution.Name = "btnSolution";
-            this.btnSolution.Size = new System.Drawing.Size(110, 40);
+            this.btnSolution.Size = new System.Drawing.Size(120, 40);
             this.btnSolution.TabIndex = 9;
             this.btnSolution.Text = "Решение";
             this.btnSolution.UseVisualStyleBackColor = true;
@@ -92,10 +92,10 @@
             // btnNew
             // 
             this.btnNew.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.btnNew.Location = new System.Drawing.Point(131, 13);
+            this.btnNew.Location = new System.Drawing.Point(141, 13);
             this.btnNew.Margin = new System.Windows.Forms.Padding(4);
             this.btnNew.Name = "btnNew";
-            this.btnNew.Size = new System.Drawing.Size(125, 40);
+            this.btnNew.Size = new System.Drawing.Size(147, 40);
             this.btnNew.TabIndex = 6;
             this.btnNew.Text = "Новая игра";
             this.btnNew.UseVisualStyleBackColor = true;
@@ -208,7 +208,7 @@
             // BackToMenubutton
             // 
             this.BackToMenubutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.BackToMenubutton.Location = new System.Drawing.Point(264, 13);
+            this.BackToMenubutton.Location = new System.Drawing.Point(296, 13);
             this.BackToMenubutton.Margin = new System.Windows.Forms.Padding(4);
             this.BackToMenubutton.Name = "BackToMenubutton";
             this.BackToMenubutton.Size = new System.Drawing.Size(200, 40);
