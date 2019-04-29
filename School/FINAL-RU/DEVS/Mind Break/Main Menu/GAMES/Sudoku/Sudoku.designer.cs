@@ -28,6 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Sudoku));
             this.btnSolution = new System.Windows.Forms.Button();
             this.ComboBox1 = new System.Windows.Forms.ComboBox();
@@ -49,9 +52,11 @@
             // 
             // btnSolution
             // 
-            this.btnSolution.Location = new System.Drawing.Point(12, 12);
+            this.btnSolution.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.btnSolution.Location = new System.Drawing.Point(13, 13);
+            this.btnSolution.Margin = new System.Windows.Forms.Padding(4);
             this.btnSolution.Name = "btnSolution";
-            this.btnSolution.Size = new System.Drawing.Size(75, 23);
+            this.btnSolution.Size = new System.Drawing.Size(110, 30);
             this.btnSolution.TabIndex = 9;
             this.btnSolution.Text = "Решение";
             this.btnSolution.UseVisualStyleBackColor = true;
@@ -59,32 +64,38 @@
             // ComboBox1
             // 
             this.ComboBox1.BackColor = System.Drawing.SystemColors.AppWorkspace;
+            this.ComboBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.ComboBox1.ForeColor = System.Drawing.Color.White;
             this.ComboBox1.FormattingEnabled = true;
             this.ComboBox1.Items.AddRange(new object[] {
             "Для начинающих",
             "Средний уровень трудности",
             "Для экспертов"});
-            this.ComboBox1.Location = new System.Drawing.Point(118, 46);
+            this.ComboBox1.Location = new System.Drawing.Point(213, 57);
+            this.ComboBox1.Margin = new System.Windows.Forms.Padding(4);
             this.ComboBox1.Name = "ComboBox1";
-            this.ComboBox1.Size = new System.Drawing.Size(192, 21);
+            this.ComboBox1.Size = new System.Drawing.Size(277, 33);
             this.ComboBox1.TabIndex = 8;
             // 
             // Label1
             // 
             this.Label1.AutoSize = true;
+            this.Label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.Label1.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.Label1.Location = new System.Drawing.Point(9, 49);
+            this.Label1.Location = new System.Drawing.Point(8, 60);
+            this.Label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.Label1.Name = "Label1";
-            this.Label1.Size = new System.Drawing.Size(103, 13);
+            this.Label1.Size = new System.Drawing.Size(195, 25);
             this.Label1.TabIndex = 7;
             this.Label1.Text = "Степень трудности";
             // 
             // btnNew
             // 
-            this.btnNew.Location = new System.Drawing.Point(93, 12);
+            this.btnNew.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.btnNew.Location = new System.Drawing.Point(131, 13);
+            this.btnNew.Margin = new System.Windows.Forms.Padding(4);
             this.btnNew.Name = "btnNew";
-            this.btnNew.Size = new System.Drawing.Size(75, 23);
+            this.btnNew.Size = new System.Drawing.Size(125, 30);
             this.btnNew.TabIndex = 6;
             this.btnNew.Text = "Новая игра";
             this.btnNew.UseVisualStyleBackColor = true;
@@ -96,6 +107,15 @@
             this.DataGridView1.AllowUserToDeleteRows = false;
             this.DataGridView1.AllowUserToOrderColumns = true;
             this.DataGridView1.AllowUserToResizeColumns = false;
+            this.DataGridView1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.DataGridView1.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
             this.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.DataGridView1.ColumnHeadersVisible = false;
             this.DataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
@@ -108,10 +128,27 @@
             this.Column7,
             this.Column8,
             this.Column9});
-            this.DataGridView1.Location = new System.Drawing.Point(12, 73);
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
+            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.DataGridView1.DefaultCellStyle = dataGridViewCellStyle2;
+            this.DataGridView1.Location = new System.Drawing.Point(13, 98);
+            this.DataGridView1.Margin = new System.Windows.Forms.Padding(4);
             this.DataGridView1.Name = "DataGridView1";
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
+            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.DataGridView1.RowHeadersDefaultCellStyle = dataGridViewCellStyle3;
             this.DataGridView1.RowHeadersVisible = false;
-            this.DataGridView1.Size = new System.Drawing.Size(228, 201);
+            this.DataGridView1.Size = new System.Drawing.Size(303, 245);
             this.DataGridView1.TabIndex = 5;
             // 
             // Column1
@@ -170,9 +207,11 @@
             // 
             // BackToMenubutton
             // 
-            this.BackToMenubutton.Location = new System.Drawing.Point(174, 12);
+            this.BackToMenubutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.BackToMenubutton.Location = new System.Drawing.Point(264, 13);
+            this.BackToMenubutton.Margin = new System.Windows.Forms.Padding(4);
             this.BackToMenubutton.Name = "BackToMenubutton";
-            this.BackToMenubutton.Size = new System.Drawing.Size(101, 23);
+            this.BackToMenubutton.Size = new System.Drawing.Size(200, 30);
             this.BackToMenubutton.TabIndex = 11;
             this.BackToMenubutton.Text = "Обратно к меню";
             this.BackToMenubutton.UseVisualStyleBackColor = true;
@@ -180,10 +219,10 @@
             // 
             // Sudoku
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.ClientSize = new System.Drawing.Size(321, 294);
+            this.ClientSize = new System.Drawing.Size(503, 360);
             this.Controls.Add(this.BackToMenubutton);
             this.Controls.Add(this.btnSolution);
             this.Controls.Add(this.ComboBox1);
@@ -192,6 +231,7 @@
             this.Controls.Add(this.DataGridView1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.MaximizeBox = false;
             this.Name = "Sudoku";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -210,16 +250,16 @@
         internal System.Windows.Forms.Label Label1;
         internal System.Windows.Forms.Button btnNew;
         internal System.Windows.Forms.DataGridView DataGridView1;
-        internal System.Windows.Forms.DataGridViewTextBoxColumn Column1;
-        internal System.Windows.Forms.DataGridViewTextBoxColumn Column2;
-        internal System.Windows.Forms.DataGridViewTextBoxColumn Column3;
-        internal System.Windows.Forms.DataGridViewTextBoxColumn Column4;
-        internal System.Windows.Forms.DataGridViewTextBoxColumn Column5;
-        internal System.Windows.Forms.DataGridViewTextBoxColumn Column6;
-        internal System.Windows.Forms.DataGridViewTextBoxColumn Column7;
-        internal System.Windows.Forms.DataGridViewTextBoxColumn Column8;
-        internal System.Windows.Forms.DataGridViewTextBoxColumn Column9;
         internal System.Windows.Forms.Button BackToMenubutton;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column3;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column4;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column5;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column6;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column7;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column8;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column9;
     }
 }
 

@@ -1,0 +1,18 @@
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\bin\x64\Release\MindBreak.exe.config
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\bin\x64\Release\MindBreak.exe
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\bin\x64\Release\MindBreak.pdb
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x64\Release\Hangman.Hangman.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x64\Release\ReflectionIT.Minesweeper.MinesweeperForm.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x64\Release\PuzzleGame.PuzzleGame.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x64\Release\Mind_Break.GAMES.Quiz.QuizEndGame.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x64\Release\Mind_Break.GAMES.Quiz.QuizGame.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x64\Release\Mind_Break.GAMES.Quiz.WinQuiz.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x64\Release\SnakeGame.SnakeClass.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x64\Release\sudoku_cs.Sudoku.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x64\Release\Mind_Break.MindBreak.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x64\Release\Mind_Break.Information.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x64\Release\Mind_Break.Properties.Resources.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x64\Release\Main Menu.csproj.GenerateResource.cache
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x64\Release\Main Menu.csproj.CoreCompileInputs.cache
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x64\Release\MindBreak.exe
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x64\Release\MindBreak.pdb
