@@ -88,24 +88,24 @@
             // WordLenghtLabel
             // 
             this.WordLenghtLabel.AutoSize = true;
-            this.WordLenghtLabel.Font = new System.Drawing.Font("Consolas", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.WordLenghtLabel.Font = new System.Drawing.Font("Consolas", 10F);
             this.WordLenghtLabel.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.WordLenghtLabel.Location = new System.Drawing.Point(447, 214);
+            this.WordLenghtLabel.Location = new System.Drawing.Point(436, 214);
             this.WordLenghtLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.WordLenghtLabel.Name = "WordLenghtLabel";
-            this.WordLenghtLabel.Size = new System.Drawing.Size(130, 22);
+            this.WordLenghtLabel.Size = new System.Drawing.Size(117, 20);
             this.WordLenghtLabel.TabIndex = 0;
             this.WordLenghtLabel.Text = "Длина слова:";
             // 
             // missedLetters
             // 
             this.missedLetters.AutoSize = true;
-            this.missedLetters.Font = new System.Drawing.Font("Consolas", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.missedLetters.Font = new System.Drawing.Font("Consolas", 10F);
             this.missedLetters.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.missedLetters.Location = new System.Drawing.Point(8, 214);
             this.missedLetters.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.missedLetters.Name = "missedLetters";
-            this.missedLetters.Size = new System.Drawing.Size(190, 22);
+            this.missedLetters.Size = new System.Drawing.Size(171, 20);
             this.missedLetters.TabIndex = 1;
             this.missedLetters.Text = "Пропущенные буквы:";
             // 

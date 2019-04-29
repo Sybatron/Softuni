@@ -11,16 +11,16 @@ DefaultGroupName=MindBreak
 UninstallDisplayIcon={app}\MindBreak.exe
 Compression=lzma2
 SolidCompression=yes
-OutputDir=e:/Setup
+OutputDir=  c:/Setup
 
 [Dirs]
 Name: "{app}\Pictures"
 Name: "{app}\TEXT"
 
 [Files]
-Source: "MindBreak.exe"; DestDir: "{app}"   
-Source: "MindBreak.exe.config"; DestDir: "{app}"
-Source: "MindBreak.pdb"; DestDir: "{app}"
+Source: "Mind Break.exe"; DestDir: "{app}"   
+Source: "Mind Break.exe.config"; DestDir: "{app}"
+Source: "Mind Break.pdb"; DestDir: "{app}"
 Source: "words.txt"; DestDir: "{app}";
 Source: "Pictures\*"; DestDir: "{app}\Pictures"
 Source: "TEXT\*"; DestDir: "{app}\TEXT"
