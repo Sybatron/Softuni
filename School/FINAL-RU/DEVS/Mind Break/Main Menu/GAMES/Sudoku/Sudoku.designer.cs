@@ -56,7 +56,7 @@
             this.btnSolution.Location = new System.Drawing.Point(13, 13);
             this.btnSolution.Margin = new System.Windows.Forms.Padding(4);
             this.btnSolution.Name = "btnSolution";
-            this.btnSolution.Size = new System.Drawing.Size(110, 30);
+            this.btnSolution.Size = new System.Drawing.Size(110, 40);
             this.btnSolution.TabIndex = 9;
             this.btnSolution.Text = "Решение";
             this.btnSolution.UseVisualStyleBackColor = true;
@@ -95,7 +95,7 @@
             this.btnNew.Location = new System.Drawing.Point(131, 13);
             this.btnNew.Margin = new System.Windows.Forms.Padding(4);
             this.btnNew.Name = "btnNew";
-            this.btnNew.Size = new System.Drawing.Size(125, 30);
+            this.btnNew.Size = new System.Drawing.Size(125, 40);
             this.btnNew.TabIndex = 6;
             this.btnNew.Text = "Новая игра";
             this.btnNew.UseVisualStyleBackColor = true;
@@ -211,7 +211,7 @@
             this.BackToMenubutton.Location = new System.Drawing.Point(264, 13);
             this.BackToMenubutton.Margin = new System.Windows.Forms.Padding(4);
             this.BackToMenubutton.Name = "BackToMenubutton";
-            this.BackToMenubutton.Size = new System.Drawing.Size(200, 30);
+            this.BackToMenubutton.Size = new System.Drawing.Size(200, 40);
             this.BackToMenubutton.TabIndex = 11;
             this.BackToMenubutton.Text = "Обратно к меню";
             this.BackToMenubutton.UseVisualStyleBackColor = true;

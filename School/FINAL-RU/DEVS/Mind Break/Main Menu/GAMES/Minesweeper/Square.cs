@@ -32,7 +32,7 @@ namespace ReflectionIT.Minesweeper
 			_button.Height = h + 1;
 			_button.Left = w * X;
 			_button.Top = h * Y;
-			_button.Font = new System.Drawing.Font("Arial Black", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((System.Byte)(0)));
+			_button.Font = new System.Drawing.Font("Arial Black", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((System.Byte)(0)));
 			_button.Click += new EventHandler(Click);
 			_button.MouseDown += new MouseEventHandler(DismantleClick);
 
