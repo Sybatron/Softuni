@@ -154,7 +154,7 @@ namespace Hangman
                 labels.Add(new Label());
                 labels[i].Location = new Point((i * between) + 10, 50);
                 labels[i].Text = "_";
-                labels[i].Font = new Font("Arial", 12);
+                labels[i].Font = new Font("Arial", 16);
                 labels[i].BackColor = Color.Transparent;
                 labels[i].Parent = WordsGroupBox;
                 labels[i].BringToFront();
@@ -252,24 +252,6 @@ namespace Hangman
             {
                 MessageBox.Show("Выигрыш!\nВы угадали слово: " + word.ToString(), "Поздравления!");
                 SubmitWordsGroupBox.Enabled = false;
-            }
-        }
-
-        private void Hangman_MouseUp(object sender, MouseEventArgs e)
-        {
-            DrawHangmanPost();
-            for (int i = 0; i < wrongCounter; i++)
-            {
-                DrawBodyPart((BodyParts)i);
-            }
-        }
-
-        private void Hangman_MouseEnter(object sender, EventArgs e)
-        {
-            DrawHangmanPost();
-            for (int i = 0; i < wrongCounter; i++)
-            {
-                DrawBodyPart((BodyParts)i);
             }
         }
 

@@ -118,7 +118,7 @@ namespace SnakeGame
             }
             else
             {
-                string gameOver = "Конец игры! \nКоличество набранных очков: " + Settings.Score + "\nНажать /\"Новая игра\"";
+                string gameOver = "Конец игры! \nКоличество набранных очков: " + Settings.Score + "\nНажать \"Новая игра\"";
                 lblGameOver.Text = gameOver;
                 lblGameOver.Visible = true;
             }

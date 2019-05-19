@@ -133,3 +133,22 @@ C:\Users\Sybatron\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\
 C:\Users\Sybatron\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Debug\Main Menu.csproj.CoreCompileInputs.cache
 C:\Users\Sybatron\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Debug\MindBreak.exe
 C:\Users\Sybatron\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Debug\MindBreak.pdb
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Debug\Hangman.Hangman.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Debug\ReflectionIT.Minesweeper.MinesweeperForm.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Debug\PuzzleGame.PuzzleGame.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Debug\Mind_Break.GAMES.Quiz.QuizEndGame.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Debug\Mind_Break.GAMES.Quiz.QuizGame.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Debug\Mind_Break.GAMES.Quiz.WinQuiz.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Debug\SnakeGame.SnakeClass.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Debug\sudoku_cs.Sudoku.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Debug\Mind_Break.MindBreak.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Debug\Mind_Break.Information.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Debug\Mind_Break.Properties.Resources.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Debug\Main Menu.csproj.GenerateResource.cache
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Debug\Main Menu.csproj.CoreCompileInputs.cache
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Debug\Main Menu.csprojAssemblyReference.cache
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\bin\Debug\Mind Break.exe.config
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\bin\Debug\Mind Break.exe
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\bin\Debug\Mind Break.pdb
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Debug\Mind Break.exe
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Debug\Mind Break.pdb

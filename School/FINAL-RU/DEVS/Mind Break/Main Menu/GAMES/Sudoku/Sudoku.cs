@@ -128,6 +128,5 @@ namespace sudoku_cs
             Hide();
             Application.Exit();
         }
-
     }
 }

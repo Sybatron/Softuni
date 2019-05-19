@@ -54,18 +54,21 @@
             // 
             this.HangManGroupBox.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.HangManGroupBox.Controls.Add(this.panel1);
-            this.HangManGroupBox.Location = new System.Drawing.Point(412, 31);
+            this.HangManGroupBox.Location = new System.Drawing.Point(629, 38);
+            this.HangManGroupBox.Margin = new System.Windows.Forms.Padding(4);
             this.HangManGroupBox.Name = "HangManGroupBox";
-            this.HangManGroupBox.Size = new System.Drawing.Size(200, 220);
+            this.HangManGroupBox.Padding = new System.Windows.Forms.Padding(4);
+            this.HangManGroupBox.Size = new System.Drawing.Size(336, 383);
             this.HangManGroupBox.TabIndex = 0;
             this.HangManGroupBox.TabStop = false;
             // 
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.SystemColors.AppWorkspace;
-            this.panel1.Location = new System.Drawing.Point(3, 16);
+            this.panel1.Location = new System.Drawing.Point(4, 20);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(194, 201);
+            this.panel1.Size = new System.Drawing.Size(324, 355);
             this.panel1.TabIndex = 0;
             // 
             // WordsGroupBox
@@ -74,31 +77,35 @@
             this.WordsGroupBox.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.WordsGroupBox.Controls.Add(this.WordLenghtLabel);
             this.WordsGroupBox.Controls.Add(this.missedLetters);
-            this.WordsGroupBox.Location = new System.Drawing.Point(12, 31);
+            this.WordsGroupBox.Location = new System.Drawing.Point(16, 38);
+            this.WordsGroupBox.Margin = new System.Windows.Forms.Padding(4);
             this.WordsGroupBox.Name = "WordsGroupBox";
-            this.WordsGroupBox.Size = new System.Drawing.Size(394, 125);
+            this.WordsGroupBox.Padding = new System.Windows.Forms.Padding(4);
+            this.WordsGroupBox.Size = new System.Drawing.Size(605, 249);
             this.WordsGroupBox.TabIndex = 1;
             this.WordsGroupBox.TabStop = false;
             // 
             // WordLenghtLabel
             // 
             this.WordLenghtLabel.AutoSize = true;
-            this.WordLenghtLabel.Font = new System.Drawing.Font("Consolas", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.WordLenghtLabel.Font = new System.Drawing.Font("Consolas", 10F);
             this.WordLenghtLabel.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.WordLenghtLabel.Location = new System.Drawing.Point(285, 105);
+            this.WordLenghtLabel.Location = new System.Drawing.Point(436, 214);
+            this.WordLenghtLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.WordLenghtLabel.Name = "WordLenghtLabel";
-            this.WordLenghtLabel.Size = new System.Drawing.Size(91, 15);
+            this.WordLenghtLabel.Size = new System.Drawing.Size(117, 20);
             this.WordLenghtLabel.TabIndex = 0;
             this.WordLenghtLabel.Text = "Длина слова:";
             // 
             // missedLetters
             // 
             this.missedLetters.AutoSize = true;
-            this.missedLetters.Font = new System.Drawing.Font("Consolas", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.missedLetters.Font = new System.Drawing.Font("Consolas", 10F);
             this.missedLetters.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.missedLetters.Location = new System.Drawing.Point(6, 106);
+            this.missedLetters.Location = new System.Drawing.Point(8, 214);
+            this.missedLetters.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.missedLetters.Name = "missedLetters";
-            this.missedLetters.Size = new System.Drawing.Size(133, 14);
+            this.missedLetters.Size = new System.Drawing.Size(171, 20);
             this.missedLetters.TabIndex = 1;
             this.missedLetters.Text = "Пропущенные буквы:";
             // 
@@ -109,33 +116,41 @@
             this.SubmitWordsGroupBox.Controls.Add(this.LetterTextBox);
             this.SubmitWordsGroupBox.Controls.Add(this.SubmitWordButton);
             this.SubmitWordsGroupBox.Controls.Add(this.SubmitLetterButton);
-            this.SubmitWordsGroupBox.Location = new System.Drawing.Point(12, 162);
+            this.SubmitWordsGroupBox.Location = new System.Drawing.Point(16, 295);
+            this.SubmitWordsGroupBox.Margin = new System.Windows.Forms.Padding(4);
             this.SubmitWordsGroupBox.Name = "SubmitWordsGroupBox";
-            this.SubmitWordsGroupBox.Size = new System.Drawing.Size(334, 89);
+            this.SubmitWordsGroupBox.Padding = new System.Windows.Forms.Padding(4);
+            this.SubmitWordsGroupBox.Size = new System.Drawing.Size(605, 126);
             this.SubmitWordsGroupBox.TabIndex = 2;
             this.SubmitWordsGroupBox.TabStop = false;
             // 
             // WordTextBox
             // 
-            this.WordTextBox.Location = new System.Drawing.Point(142, 61);
+            this.WordTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.WordTextBox.Location = new System.Drawing.Point(268, 83);
+            this.WordTextBox.Margin = new System.Windows.Forms.Padding(4);
             this.WordTextBox.MaxLength = 20;
             this.WordTextBox.Name = "WordTextBox";
-            this.WordTextBox.Size = new System.Drawing.Size(123, 20);
+            this.WordTextBox.Size = new System.Drawing.Size(163, 30);
             this.WordTextBox.TabIndex = 3;
             // 
             // LetterTextBox
             // 
-            this.LetterTextBox.Location = new System.Drawing.Point(131, 21);
+            this.LetterTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.LetterTextBox.Location = new System.Drawing.Point(268, 22);
+            this.LetterTextBox.Margin = new System.Windows.Forms.Padding(4);
             this.LetterTextBox.MaxLength = 1;
             this.LetterTextBox.Name = "LetterTextBox";
-            this.LetterTextBox.Size = new System.Drawing.Size(31, 20);
+            this.LetterTextBox.Size = new System.Drawing.Size(40, 30);
             this.LetterTextBox.TabIndex = 2;
             // 
             // SubmitWordButton
             // 
-            this.SubmitWordButton.Location = new System.Drawing.Point(6, 59);
+            this.SubmitWordButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.SubmitWordButton.Location = new System.Drawing.Point(12, 78);
+            this.SubmitWordButton.Margin = new System.Windows.Forms.Padding(4);
             this.SubmitWordButton.Name = "SubmitWordButton";
-            this.SubmitWordButton.Size = new System.Drawing.Size(130, 23);
+            this.SubmitWordButton.Size = new System.Drawing.Size(248, 40);
             this.SubmitWordButton.TabIndex = 1;
             this.SubmitWordButton.Text = "Предположить слово";
             this.SubmitWordButton.UseVisualStyleBackColor = true;
@@ -143,9 +158,11 @@
             // 
             // SubmitLetterButton
             // 
-            this.SubmitLetterButton.Location = new System.Drawing.Point(6, 19);
+            this.SubmitLetterButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.SubmitLetterButton.Location = new System.Drawing.Point(12, 17);
+            this.SubmitLetterButton.Margin = new System.Windows.Forms.Padding(4);
             this.SubmitLetterButton.Name = "SubmitLetterButton";
-            this.SubmitLetterButton.Size = new System.Drawing.Size(119, 23);
+            this.SubmitLetterButton.Size = new System.Drawing.Size(248, 40);
             this.SubmitLetterButton.TabIndex = 0;
             this.SubmitLetterButton.Text = "Предложить букву";
             this.SubmitLetterButton.UseVisualStyleBackColor = true;
@@ -154,29 +171,33 @@
             // menuStrip1
             // 
             this.menuStrip1.BackColor = System.Drawing.Color.Gray;
+            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.новаИграToolStripMenuItem,
             this.къмМенютоToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(615, 24);
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(8, 2, 0, 2);
+            this.menuStrip1.Size = new System.Drawing.Size(978, 33);
             this.menuStrip1.TabIndex = 3;
             this.menuStrip1.Text = "menuStrip1";
             // 
             // новаИграToolStripMenuItem
             // 
             this.новаИграToolStripMenuItem.BackColor = System.Drawing.Color.Gray;
+            this.новаИграToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 11F);
             this.новаИграToolStripMenuItem.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.новаИграToolStripMenuItem.Name = "новаИграToolStripMenuItem";
-            this.новаИграToolStripMenuItem.Size = new System.Drawing.Size(81, 20);
+            this.новаИграToolStripMenuItem.Size = new System.Drawing.Size(122, 29);
             this.новаИграToolStripMenuItem.Text = "Новая игра";
             this.новаИграToolStripMenuItem.Click += new System.EventHandler(this.новаИграToolStripMenuItem_Click);
             // 
             // къмМенютоToolStripMenuItem
             // 
+            this.къмМенютоToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 11F);
             this.къмМенютоToolStripMenuItem.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.къмМенютоToolStripMenuItem.Name = "къмМенютоToolStripMenuItem";
-            this.къмМенютоToolStripMenuItem.Size = new System.Drawing.Size(111, 20);
+            this.къмМенютоToolStripMenuItem.Size = new System.Drawing.Size(168, 29);
             this.къмМенютоToolStripMenuItem.Text = "Обратно к меню";
             this.къмМенютоToolStripMenuItem.Click += new System.EventHandler(this.къмМенютоToolStripMenuItem_Click);
             // 
@@ -187,10 +208,10 @@
             // 
             // Hangman
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.ClientSize = new System.Drawing.Size(615, 265);
+            this.ClientSize = new System.Drawing.Size(978, 449);
             this.Controls.Add(this.SubmitWordsGroupBox);
             this.Controls.Add(this.WordsGroupBox);
             this.Controls.Add(this.HangManGroupBox);
@@ -198,13 +219,13 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.MaximizeBox = false;
             this.Name = "Hangman";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Виселеца";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Hangman_FormClosed);
             this.Shown += new System.EventHandler(this.Form1_Shown);
-            this.MouseEnter += new System.EventHandler(this.Hangman_MouseEnter);
-            this.MouseUp += new System.Windows.Forms.MouseEventHandler(this.Hangman_MouseUp);
             this.HangManGroupBox.ResumeLayout(false);
             this.WordsGroupBox.ResumeLayout(false);
             this.WordsGroupBox.PerformLayout();

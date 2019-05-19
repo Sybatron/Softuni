@@ -111,6 +111,7 @@
             this.Controls.Add(this.hangmanButton);
             this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.Name = "MindBreak";
             this.Activated += new System.EventHandler(this.MainMenu_Activated);
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.MainMenu_FormClosed);
