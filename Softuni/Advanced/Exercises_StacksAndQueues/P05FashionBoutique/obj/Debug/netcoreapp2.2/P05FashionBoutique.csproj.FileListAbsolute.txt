@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P05FashionBoutique\bin\Debug\netcoreapp2.2\P05FashionBoutique.deps.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P05FashionBoutique\bin\Debug\netcoreapp2.2\P05FashionBoutique.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P05FashionBoutique\bin\Debug\netcoreapp2.2\P05FashionBoutique.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P05FashionBoutique\bin\Debug\netcoreapp2.2\P05FashionBoutique.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P05FashionBoutique\bin\Debug\netcoreapp2.2\P05FashionBoutique.pdb
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P05FashionBoutique\obj\Debug\netcoreapp2.2\P05FashionBoutique.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P05FashionBoutique\obj\Debug\netcoreapp2.2\P05FashionBoutique.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P05FashionBoutique\obj\Debug\netcoreapp2.2\P05FashionBoutique.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P05FashionBoutique\obj\Debug\netcoreapp2.2\P05FashionBoutique.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P05FashionBoutique\obj\Debug\netcoreapp2.2\P05FashionBoutique.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P05FashionBoutique\obj\Debug\netcoreapp2.2\P05FashionBoutique.pdb

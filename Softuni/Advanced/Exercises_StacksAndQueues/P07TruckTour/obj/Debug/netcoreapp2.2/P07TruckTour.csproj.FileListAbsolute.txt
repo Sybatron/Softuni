@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P07TruckTour\bin\Debug\netcoreapp2.2\P07TruckTour.deps.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P07TruckTour\bin\Debug\netcoreapp2.2\P07TruckTour.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P07TruckTour\bin\Debug\netcoreapp2.2\P07TruckTour.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P07TruckTour\bin\Debug\netcoreapp2.2\P07TruckTour.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P07TruckTour\bin\Debug\netcoreapp2.2\P07TruckTour.pdb
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P07TruckTour\obj\Debug\netcoreapp2.2\P07TruckTour.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P07TruckTour\obj\Debug\netcoreapp2.2\P07TruckTour.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P07TruckTour\obj\Debug\netcoreapp2.2\P07TruckTour.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P07TruckTour\obj\Debug\netcoreapp2.2\P07TruckTour.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P07TruckTour\obj\Debug\netcoreapp2.2\P07TruckTour.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P07TruckTour\obj\Debug\netcoreapp2.2\P07TruckTour.pdb
