@@ -9,7 +9,6 @@ namespace P07TruckTour
         static void Main(string[] args)
         {
             var length = int.Parse(Console.ReadLine());
-            var index = new List<int>();
             var queue = new Queue<int[]>();
 
             for (int i = 0; i < length; i++)
@@ -18,41 +17,38 @@ namespace P07TruckTour
                     .Split(" ", StringSplitOptions.RemoveEmptyEntries)
                     .Select(int.Parse)
                     .ToArray();
+
                 queue.Enqueue(parameters);
-                if (parameters[0] - parameters[1] >= 0)
-                {
-                    index.Add(i);
-                }
             }
 
-            for (int i = 0; i < index.Count; i++)
+            var index = 0;
+
+            while (true)
             {
-                if (TryIfItsRight(queue, index[i]))
+                var totalFuel = 0;
+
+                foreach (var pump in queue)
                 {
-                    Console.WriteLine(index[i]);
+                    var currentPetrol = pump[0];
+                    var currentDistance = pump[1];
+
+                    totalFuel += currentPetrol - currentDistance;
+
+                    if (totalFuel < 0)
+                    {
+                        queue.Enqueue(queue.Dequeue());
+                        index++;
+                        break;
+                    }
+                }
+
+                if (totalFuel >= 0)
+                {
+                    Console.WriteLine(index);
                     return;
                 }
             }
-        }
 
-        static bool TryIfItsRight(Queue<int[]> queue, int index)
-        {
-            var sum = 0;
-            for (int i = 0; i < index; i++)
-            {
-                var helpVar = queue.Dequeue();
-                queue.Enqueue(helpVar);
-            }
-            foreach (var pump in queue)
-            {
-                sum += pump[0];
-                if (sum - pump[1] < 0)
-                {
-                    return false;
-                }
-                sum -= pump[1];
-            }
-            return true;
         }
     }
 }

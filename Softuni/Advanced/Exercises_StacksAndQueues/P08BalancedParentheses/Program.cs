@@ -15,8 +15,9 @@ namespace P08BalancedParentheses
                 if (input[i] == '(' || input[i] == '{' || input[i] == '[')
                 {
                     stack.Push(i);
+                    continue;
                 }
-                else if(stack.Count==0)
+                else if (stack.Count == 0)
                 {
                     Console.WriteLine("NO");
                     return;

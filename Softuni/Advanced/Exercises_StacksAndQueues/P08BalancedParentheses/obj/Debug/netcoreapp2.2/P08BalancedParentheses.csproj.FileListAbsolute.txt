@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P08BalancedParentheses\bin\Debug\netcoreapp2.2\P08BalancedParentheses.deps.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P08BalancedParentheses\bin\Debug\netcoreapp2.2\P08BalancedParentheses.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P08BalancedParentheses\bin\Debug\netcoreapp2.2\P08BalancedParentheses.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P08BalancedParentheses\bin\Debug\netcoreapp2.2\P08BalancedParentheses.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P08BalancedParentheses\bin\Debug\netcoreapp2.2\P08BalancedParentheses.pdb
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P08BalancedParentheses\obj\Debug\netcoreapp2.2\P08BalancedParentheses.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P08BalancedParentheses\obj\Debug\netcoreapp2.2\P08BalancedParentheses.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P08BalancedParentheses\obj\Debug\netcoreapp2.2\P08BalancedParentheses.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P08BalancedParentheses\obj\Debug\netcoreapp2.2\P08BalancedParentheses.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P08BalancedParentheses\obj\Debug\netcoreapp2.2\P08BalancedParentheses.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P08BalancedParentheses\obj\Debug\netcoreapp2.2\P08BalancedParentheses.pdb
