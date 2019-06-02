@@ -1,0 +1,10 @@
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P02_2x2SquaresInMatrix\bin\Debug\netcoreapp2.2\P02_2x2SquaresInMatrix.deps.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P02_2x2SquaresInMatrix\bin\Debug\netcoreapp2.2\P02_2x2SquaresInMatrix.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P02_2x2SquaresInMatrix\bin\Debug\netcoreapp2.2\P02_2x2SquaresInMatrix.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P02_2x2SquaresInMatrix\bin\Debug\netcoreapp2.2\P02_2x2SquaresInMatrix.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P02_2x2SquaresInMatrix\bin\Debug\netcoreapp2.2\P02_2x2SquaresInMatrix.pdb
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P02_2x2SquaresInMatrix\obj\Debug\netcoreapp2.2\P02_2x2SquaresInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P02_2x2SquaresInMatrix\obj\Debug\netcoreapp2.2\P02_2x2SquaresInMatrix.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P02_2x2SquaresInMatrix\obj\Debug\netcoreapp2.2\P02_2x2SquaresInMatrix.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P02_2x2SquaresInMatrix\obj\Debug\netcoreapp2.2\P02_2x2SquaresInMatrix.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P02_2x2SquaresInMatrix\obj\Debug\netcoreapp2.2\P02_2x2SquaresInMatrix.pdb

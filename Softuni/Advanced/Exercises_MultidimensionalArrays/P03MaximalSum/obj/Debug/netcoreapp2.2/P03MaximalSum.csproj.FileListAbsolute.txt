@@ -1,0 +1,10 @@
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P03MaximalSum\bin\Debug\netcoreapp2.2\P03MaximalSum.deps.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P03MaximalSum\bin\Debug\netcoreapp2.2\P03MaximalSum.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P03MaximalSum\bin\Debug\netcoreapp2.2\P03MaximalSum.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P03MaximalSum\bin\Debug\netcoreapp2.2\P03MaximalSum.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P03MaximalSum\bin\Debug\netcoreapp2.2\P03MaximalSum.pdb
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P03MaximalSum\obj\Debug\netcoreapp2.2\P03MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P03MaximalSum\obj\Debug\netcoreapp2.2\P03MaximalSum.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P03MaximalSum\obj\Debug\netcoreapp2.2\P03MaximalSum.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P03MaximalSum\obj\Debug\netcoreapp2.2\P03MaximalSum.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P03MaximalSum\obj\Debug\netcoreapp2.2\P03MaximalSum.pdb

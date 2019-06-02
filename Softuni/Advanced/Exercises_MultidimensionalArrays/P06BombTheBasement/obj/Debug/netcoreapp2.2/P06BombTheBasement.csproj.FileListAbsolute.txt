@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P06BombTheBasement\bin\Debug\netcoreapp2.2\P06BombTheBasement.deps.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P06BombTheBasement\bin\Debug\netcoreapp2.2\P06BombTheBasement.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P06BombTheBasement\bin\Debug\netcoreapp2.2\P06BombTheBasement.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P06BombTheBasement\bin\Debug\netcoreapp2.2\P06BombTheBasement.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P06BombTheBasement\bin\Debug\netcoreapp2.2\P06BombTheBasement.pdb
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P06BombTheBasement\obj\Debug\netcoreapp2.2\P06BombTheBasement.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P06BombTheBasement\obj\Debug\netcoreapp2.2\P06BombTheBasement.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P06BombTheBasement\obj\Debug\netcoreapp2.2\P06BombTheBasement.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P06BombTheBasement\obj\Debug\netcoreapp2.2\P06BombTheBasement.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P06BombTheBasement\obj\Debug\netcoreapp2.2\P06BombTheBasement.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P06BombTheBasement\obj\Debug\netcoreapp2.2\P06BombTheBasement.pdb

@@ -10,15 +10,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		02. CSharp-Advanced-Multidimensional-Arrays-Lab.docx = 02. CSharp-Advanced-Multidimensional-Arrays-Lab.docx
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01SumMatrixElements", "P01SumMatrixElements\P01SumMatrixElements.csproj", "{5973CE6D-C732-482A-AE0B-5A27EA8A9B8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01SumMatrixElements", "P01SumMatrixElements\P01SumMatrixElements.csproj", "{5973CE6D-C732-482A-AE0B-5A27EA8A9B8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02SumMatrixColumns", "P02SumMatrixColumns\P02SumMatrixColumns.csproj", "{9DA1BCD3-F7A0-4001-AF5A-ADCAA25BEC8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02SumMatrixColumns", "P02SumMatrixColumns\P02SumMatrixColumns.csproj", "{9DA1BCD3-F7A0-4001-AF5A-ADCAA25BEC8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05SquareWithMaximumSum", "P05SquareWithMaximumSum\P05SquareWithMaximumSum.csproj", "{AE498F46-289F-4B11-8503-DBF400E8FB69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P05SquareWithMaximumSum", "P05SquareWithMaximumSum\P05SquareWithMaximumSum.csproj", "{AE498F46-289F-4B11-8503-DBF400E8FB69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03PrimaryDiagonal", "P03PrimaryDiagonal\P03PrimaryDiagonal.csproj", "{7873290B-3668-490D-AA72-3D3471DF24A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03PrimaryDiagonal", "P03PrimaryDiagonal\P03PrimaryDiagonal.csproj", "{7873290B-3668-490D-AA72-3D3471DF24A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04SymbolInMatrix", "P04SymbolInMatrix\P04SymbolInMatrix.csproj", "{73715127-2001-4AB1-9F3F-C5B9146C78B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04SymbolInMatrix", "P04SymbolInMatrix\P04SymbolInMatrix.csproj", "{73715127-2001-4AB1-9F3F-C5B9146C78B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06Jagged-ArrayModification", "P06Jagged-ArrayModification\P06Jagged-ArrayModification.csproj", "{8C2C2D9F-6E0C-4704-AFE0-B8615F58F6D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07PascalTriangle", "P07PascalTriangle\P07PascalTriangle.csproj", "{CBC92D49-4B59-427C-8889-9EAEAE6FB480}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -46,6 +50,14 @@ Global
 		{73715127-2001-4AB1-9F3F-C5B9146C78B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73715127-2001-4AB1-9F3F-C5B9146C78B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73715127-2001-4AB1-9F3F-C5B9146C78B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C2C2D9F-6E0C-4704-AFE0-B8615F58F6D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C2C2D9F-6E0C-4704-AFE0-B8615F58F6D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C2C2D9F-6E0C-4704-AFE0-B8615F58F6D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C2C2D9F-6E0C-4704-AFE0-B8615F58F6D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBC92D49-4B59-427C-8889-9EAEAE6FB480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC92D49-4B59-427C-8889-9EAEAE6FB480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC92D49-4B59-427C-8889-9EAEAE6FB480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC92D49-4B59-427C-8889-9EAEAE6FB480}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
