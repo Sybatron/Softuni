@@ -1,0 +1,13 @@
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P03WordCount\bin\Debug\netcoreapp2.2\files\input.txt
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P03WordCount\bin\Debug\netcoreapp2.2\files\words.txt
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P03WordCount\bin\Debug\netcoreapp2.2\P03WordCount.deps.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P03WordCount\bin\Debug\netcoreapp2.2\P03WordCount.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P03WordCount\bin\Debug\netcoreapp2.2\P03WordCount.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P03WordCount\bin\Debug\netcoreapp2.2\P03WordCount.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P03WordCount\bin\Debug\netcoreapp2.2\P03WordCount.pdb
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P03WordCount\obj\Debug\netcoreapp2.2\P03WordCount.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P03WordCount\obj\Debug\netcoreapp2.2\P03WordCount.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P03WordCount\obj\Debug\netcoreapp2.2\P03WordCount.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P03WordCount\obj\Debug\netcoreapp2.2\P03WordCount.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P03WordCount\obj\Debug\netcoreapp2.2\P03WordCount.pdb
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P03WordCount\obj\Debug\netcoreapp2.2\P03WordCount.csprojAssemblyReference.cache

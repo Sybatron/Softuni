@@ -1,0 +1,13 @@
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P04MergeFiles\bin\Debug\netcoreapp2.2\files\input.txt
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P04MergeFiles\bin\Debug\netcoreapp2.2\files\input2.txt
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P04MergeFiles\bin\Debug\netcoreapp2.2\P04MergeFiles.deps.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P04MergeFiles\bin\Debug\netcoreapp2.2\P04MergeFiles.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P04MergeFiles\bin\Debug\netcoreapp2.2\P04MergeFiles.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P04MergeFiles\bin\Debug\netcoreapp2.2\P04MergeFiles.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P04MergeFiles\bin\Debug\netcoreapp2.2\P04MergeFiles.pdb
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P04MergeFiles\obj\Debug\netcoreapp2.2\P04MergeFiles.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P04MergeFiles\obj\Debug\netcoreapp2.2\P04MergeFiles.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P04MergeFiles\obj\Debug\netcoreapp2.2\P04MergeFiles.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P04MergeFiles\obj\Debug\netcoreapp2.2\P04MergeFiles.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P04MergeFiles\obj\Debug\netcoreapp2.2\P04MergeFiles.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P04MergeFiles\obj\Debug\netcoreapp2.2\P04MergeFiles.pdb
