@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_FunctionalProgramming\P002PrintUppercaseWords\bin\Debug\netcoreapp2.2\P002PrintUppercaseWords.deps.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_FunctionalProgramming\P002PrintUppercaseWords\bin\Debug\netcoreapp2.2\P002PrintUppercaseWords.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_FunctionalProgramming\P002PrintUppercaseWords\bin\Debug\netcoreapp2.2\P002PrintUppercaseWords.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_FunctionalProgramming\P002PrintUppercaseWords\bin\Debug\netcoreapp2.2\P002PrintUppercaseWords.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_FunctionalProgramming\P002PrintUppercaseWords\bin\Debug\netcoreapp2.2\P002PrintUppercaseWords.pdb
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_FunctionalProgramming\P002PrintUppercaseWords\obj\Debug\netcoreapp2.2\P002PrintUppercaseWords.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_FunctionalProgramming\P002PrintUppercaseWords\obj\Debug\netcoreapp2.2\P002PrintUppercaseWords.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_FunctionalProgramming\P002PrintUppercaseWords\obj\Debug\netcoreapp2.2\P002PrintUppercaseWords.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_FunctionalProgramming\P002PrintUppercaseWords\obj\Debug\netcoreapp2.2\P002PrintUppercaseWords.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_FunctionalProgramming\P002PrintUppercaseWords\obj\Debug\netcoreapp2.2\P002PrintUppercaseWords.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_FunctionalProgramming\P002PrintUppercaseWords\obj\Debug\netcoreapp2.2\P002PrintUppercaseWords.pdb

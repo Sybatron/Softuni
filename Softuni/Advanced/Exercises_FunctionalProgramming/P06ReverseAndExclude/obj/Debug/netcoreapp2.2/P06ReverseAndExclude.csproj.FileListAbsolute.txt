@@ -1,0 +1,10 @@
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_FunctionalProgramming\P06ReverseAndExclude\bin\Debug\netcoreapp2.2\P06ReverseAndExclude.deps.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_FunctionalProgramming\P06ReverseAndExclude\bin\Debug\netcoreapp2.2\P06ReverseAndExclude.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_FunctionalProgramming\P06ReverseAndExclude\bin\Debug\netcoreapp2.2\P06ReverseAndExclude.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_FunctionalProgramming\P06ReverseAndExclude\bin\Debug\netcoreapp2.2\P06ReverseAndExclude.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_FunctionalProgramming\P06ReverseAndExclude\bin\Debug\netcoreapp2.2\P06ReverseAndExclude.pdb
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_FunctionalProgramming\P06ReverseAndExclude\obj\Debug\netcoreapp2.2\P06ReverseAndExclude.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_FunctionalProgramming\P06ReverseAndExclude\obj\Debug\netcoreapp2.2\P06ReverseAndExclude.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_FunctionalProgramming\P06ReverseAndExclude\obj\Debug\netcoreapp2.2\P06ReverseAndExclude.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_FunctionalProgramming\P06ReverseAndExclude\obj\Debug\netcoreapp2.2\P06ReverseAndExclude.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_FunctionalProgramming\P06ReverseAndExclude\obj\Debug\netcoreapp2.2\P06ReverseAndExclude.pdb
