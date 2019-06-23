@@ -687,23 +687,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sybatron\\.nuget\\packages\\": {},
+    "C:\\Users\\nnn\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sybatron\\source\\repos\\Csharp\\Softuni\\Advanced\\DemoExam_16-June-2019\\Salad\\P03HealthyHeaven.csproj",
+      "projectUniqueName": "C:\\Users\\nnn\\source\\repos\\Github\\Csharp\\Softuni\\Advanced\\DemoExam_16-June-2019\\Salad\\P03HealthyHeaven.csproj",
       "projectName": "P03HealthyHeaven",
-      "projectPath": "C:\\Users\\Sybatron\\source\\repos\\Csharp\\Softuni\\Advanced\\DemoExam_16-June-2019\\Salad\\P03HealthyHeaven.csproj",
-      "packagesPath": "C:\\Users\\Sybatron\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sybatron\\source\\repos\\Csharp\\Softuni\\Advanced\\DemoExam_16-June-2019\\Salad\\obj\\",
+      "projectPath": "C:\\Users\\nnn\\source\\repos\\Github\\Csharp\\Softuni\\Advanced\\DemoExam_16-June-2019\\Salad\\P03HealthyHeaven.csproj",
+      "packagesPath": "C:\\Users\\nnn\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nnn\\source\\repos\\Github\\Csharp\\Softuni\\Advanced\\DemoExam_16-June-2019\\Salad\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Sybatron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nnn\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

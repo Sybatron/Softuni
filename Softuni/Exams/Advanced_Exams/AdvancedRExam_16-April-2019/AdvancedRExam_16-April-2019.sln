@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5182DBB1-CCBF-4B80-8480-26ABA17F770E}"
+	ProjectSection(SolutionItems) = preProject
+		files\01. Trojan Invasion_Problem Description.docx = files\01. Trojan Invasion_Problem Description.docx
+		files\02. Helen's Abduction_Problem Description.docx = files\02. Helen's Abduction_Problem Description.docx
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01TrojanInvasion", "P01TrojanInvasion\P01TrojanInvasion.csproj", "{36D28FBB-AA5D-4340-9B72-69A745EDFB20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02HelensAbduction", "P02HelensAbduction\P02HelensAbduction.csproj", "{584D790A-D408-4825-BB46-DA992DA46B17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36D28FBB-AA5D-4340-9B72-69A745EDFB20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D28FBB-AA5D-4340-9B72-69A745EDFB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D28FBB-AA5D-4340-9B72-69A745EDFB20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D28FBB-AA5D-4340-9B72-69A745EDFB20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{584D790A-D408-4825-BB46-DA992DA46B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{584D790A-D408-4825-BB46-DA992DA46B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{584D790A-D408-4825-BB46-DA992DA46B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{584D790A-D408-4825-BB46-DA992DA46B17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2A44891-C3C6-4D64-BA09-99F35F94EEB0}
+	EndGlobalSection
+EndGlobal
