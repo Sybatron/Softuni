@@ -5,3 +5,12 @@ F:\Students\Informatika\10v\FirstTryForAnimation\CustomAnimation\obj\x86\Debug\C
 F:\Students\Informatika\10v\FirstTryForAnimation\CustomAnimation\obj\x86\Debug\CustomAnimation.csproj.GenerateResource.Cache
 F:\Students\Informatika\10v\FirstTryForAnimation\CustomAnimation\obj\x86\Debug\CustomAnimation.exe
 F:\Students\Informatika\10v\FirstTryForAnimation\CustomAnimation\obj\x86\Debug\CustomAnimation.pdb
+C:\Users\Sybatron\source\repos\Csharp\School\FirstTryForAnimation\CustomAnimation\bin\Debug\CustomAnimation.exe
+C:\Users\Sybatron\source\repos\Csharp\School\FirstTryForAnimation\CustomAnimation\bin\Debug\CustomAnimation.pdb
+C:\Users\Sybatron\source\repos\Csharp\School\FirstTryForAnimation\CustomAnimation\obj\x86\Debug\CustomAnimation.Form1.resources
+C:\Users\Sybatron\source\repos\Csharp\School\FirstTryForAnimation\CustomAnimation\obj\x86\Debug\CustomAnimation.Properties.Resources.resources
+C:\Users\Sybatron\source\repos\Csharp\School\FirstTryForAnimation\CustomAnimation\obj\x86\Debug\CustomAnimation.csproj.GenerateResource.cache
+C:\Users\Sybatron\source\repos\Csharp\School\FirstTryForAnimation\CustomAnimation\obj\x86\Debug\CustomAnimation.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\School\FirstTryForAnimation\CustomAnimation\obj\x86\Debug\CustomAnimation.exe
+C:\Users\Sybatron\source\repos\Csharp\School\FirstTryForAnimation\CustomAnimation\obj\x86\Debug\CustomAnimation.pdb
+C:\Users\Sybatron\source\repos\Csharp\School\FirstTryForAnimation\CustomAnimation\obj\x86\Debug\CustomAnimation.csprojAssemblyReference.cache

@@ -4,19 +4,22 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 
-
-namespace CustomAnimation
+namespace CustomAnimation.Classes
 {
     public class Window
     {
-        public Size size;
-        public Point position = new Point(0, 0);
-        public SolidBrush brush;
+        private Size size;
+        private Point position = new Point(0, 0);
 
-        public Window(int side, SolidBrush inputBrush)
+        public Size Size { get => size; set => size = value; }
+        public Point Position { get => position; set => position = value; }
+        public SolidBrush Brush { get; set; }
+
+        public Window(int side, SolidBrush brush)
         {
             size = new Size(side, side);
-            brush = inputBrush;
+            this.Brush = brush;
         }
+
     }
 }

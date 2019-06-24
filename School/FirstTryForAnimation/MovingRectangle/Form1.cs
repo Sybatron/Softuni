@@ -1,8 +1,10 @@
 ﻿using System;
-using System.Diagnostics;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
 using System.Drawing;
-using System.Threading;
-using System.Threading.Tasks;
+using System.Linq;
+using System.Text;
 using System.Windows.Forms;
 
 
@@ -10,54 +12,30 @@ namespace WindowsFormsApplication1
 {
     public partial class Form1 : Form
     {
-
-        int freq = 100;
-        private Thread waiter = null;
         public Form1()
         {
             InitializeComponent();
         }
 
-        private async void Form1_Paint(object sender, PaintEventArgs e)
+        private void Form1_Paint(object sender, PaintEventArgs e)
         {
-            await Draw(e);
-        }
+            var freq = 100;
+            var g = e.Graphics;
+            var rect = new Rectangle(50, 50, 100, 50);
+            var brush=new SolidBrush(Color.Black);
 
-        private async Task Draw(PaintEventArgs old)
-        {
-
-            var task = Task.Factory.StartNew(() =>
+            for (int i = 0; i < 1000; i++)
             {
-                using (Graphics g = CreateGraphics())
+                g.FillRectangle(brush, rect);
+                System.Threading.Thread.Sleep(freq);
+                g.Clear(this.BackColor);
+                rect.X += 10;
+                if (rect.X >= ClientSize.Width)
                 {
-                    var e = new PaintEventArgs(g, old.ClipRectangle);
-
-                    try
-                    {
-                        Rectangle rect = new Rectangle(50, 50, 100, 50);
-                        Brush brush = new SolidBrush(Color.Black);
-                        for (int i = 0; i < 5; i++)
-                        {
-                            g.Clear(this.BackColor);
-                            g.FillRectangle(brush, rect);
-                            Thread.Sleep(freq);
-                            rect.X += 10;
-                            if (rect.X >= ClientSize.Width)
-                            {
-                                rect.X = 0;
-                            }
-
-                        }
-                        base.OnPaint(e);
-                      
-                    }
-                    catch (Exception ex)
-                    {
-                        Debug.WriteLine(ex.Message);
-                    }
+                    rect.X = 0;
                 }
-            });
-            task.Dispose();
+            }
+
         }
     }
 }

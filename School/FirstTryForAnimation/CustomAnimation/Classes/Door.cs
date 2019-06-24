@@ -4,18 +4,21 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 
-namespace CustomAnimation
+namespace CustomAnimation.Classes
 {
     public class Door
     {
-        public Size size;
-        public Point position = new Point(0, 0);
-        public SolidBrush brush;
+        private Size size;
+        private Point position = new Point(0, 0);
 
-        public Door(Size inputSize, SolidBrush inputBrush)
+        public Size Size { get => size; set => size = value; }
+        public Point Position { get => position; set => position = value; }
+        public SolidBrush Brush { get; set; }
+
+        public Door(int width, int height, SolidBrush brush)
         {
-            size = inputSize;
-            brush = inputBrush;
+            size = new Size(width, height);
+            this.Brush = brush;
         }
     }
 }

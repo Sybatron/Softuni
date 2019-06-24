@@ -1,8 +1,13 @@
-﻿using System.Collections.Generic;
+﻿using CustomAnimation.Classes;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
 using System.Drawing;
+using System.Linq;
+using System.Text;
 using System.Windows.Forms;
-using System.Threading.Tasks;
-using CustomAnimation.Classes;
+using System.Threading;
 
 namespace CustomAnimation
 {
@@ -13,26 +18,40 @@ namespace CustomAnimation
             InitializeComponent();
         }
 
-        private async void Form1_Paint(object sender, PaintEventArgs e)
+        private void Form1_Paint(object sender, PaintEventArgs e)
         {
             var g = e.Graphics;
-
-            
+            int freq = 100;
             var shop = new Shop(new Point(200, 100), new Size(500, 300), new SolidBrush(Color.SaddleBrown), ref g);
-            #region Windows
-            shop.addWindow(new Window(50, new SolidBrush(Color.Aqua)));
-            shop.windows[0].position =
-               new Point(shop.original.X + 50, shop.original.Y + 50);
+            DrawShop(g, shop);
+            var path = new Rectangle(new Point(ClientSize.Width / 2 - 50, shop.Original.Y + shop.Original.Height)
+                                    , new Size(125, ClientSize.Height));
+            g.FillRectangle(new SolidBrush(Color.Gray), path);
 
-            shop.addWindow(new Window(50, new SolidBrush(Color.Aqua)));
-            shop.windows[1].position =
-               new Point(shop.original.X + shop.original.Width - 50 * 2, shop.original.Y + 50);
-            g.FillRectangle(shop.windows[0].brush, new Rectangle(shop.windows[0].position, shop.windows[0].size));
-            g.FillRectangle(shop.windows[1].brush, new Rectangle(shop.windows[1].position, shop.windows[1].size));
-
-            #endregion
+            shop.OpenDoors(ref g, freq);
+            Thread.Sleep(50);
+            shop.CloseDoors(ref g, freq);
         }
 
+        private static void DrawShop(Graphics g, Shop shop)
+        {
+            shop.AddWindow(new Window(50, new SolidBrush(Color.Aqua)));
+            shop.ChangeWindowPosition(1, 50, 50);
 
+            shop.AddWindow(new Window(50, new SolidBrush(Color.Aqua)));
+            shop.ChangeWindowPosition(2, shop.Original.Width - 50 * 2, 50);
+
+            g.FillRectangle(shop.Windows[0].Brush, new Rectangle(shop.Windows[0].Position, shop.Windows[0].Size));
+            g.FillRectangle(shop.Windows[1].Brush, new Rectangle(shop.Windows[1].Position, shop.Windows[1].Size));
+
+            shop.AddDoor(new Door(50, 100, new SolidBrush(Color.Goldenrod)));
+            shop.ChangeDoorPosition(1, 0, 0);
+
+            shop.AddDoor(new Door(50, 100, new SolidBrush(Color.DarkGoldenrod)));
+            shop.ChangeDoorPosition(2, 50, 0);
+
+            g.FillRectangle(shop.Doors[0].Brush, new Rectangle(shop.Doors[0].Position, shop.Doors[0].Size));
+            g.FillRectangle(shop.Doors[1].Brush, new Rectangle(shop.Doors[1].Position, shop.Doors[1].Size));
+        }
     }
 }

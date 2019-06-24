@@ -8,36 +8,57 @@ namespace CustomAnimation.Classes
 {
     public class Shop
     {
-        public List<Window> windows = new List<Window>();
-        public List<Door> doors = new List<Door>();
-        public Rectangle original;
+        private List<Window> windows;
+        private List<Door> doors;
+        private Rectangle original;
+        private SolidBrush brush;
 
-        public Shop(Point posOrig, Size sizeOrig, SolidBrush brush, ref Graphics g)
+        public List<Window> Windows { get => windows; set => windows = value; }
+        public List<Door> Doors { get => doors; set => doors = value; }
+        public Rectangle Original { get => original; set => original = value; }
+
+        public Shop(Point position, Size size, SolidBrush brush, ref Graphics g)
         {
-            original = new Rectangle(posOrig, sizeOrig);
+            original = new Rectangle(position, size);
             g.FillRectangle(brush, original);
+            this.brush = brush;
+            windows = new List<Window>();
+            doors = new List<Door>();
         }
-        public void addWindow(Window window)
+
+        public void AddWindow(Window window)
         {
             windows.Add(window);
         }
-        public void addDoor(Door door)
+        public void ChangeWindowPosition(int window, int xAdd, int yAdd)
+        {
+            windows[window - 1].Position = new Point(original.X + xAdd, original.Y + yAdd);
+        }
+
+        public void AddDoor(Door door)
         {
             doors.Add(door);
+        }
+        public void ChangeDoorPosition(int door, int xAdd, int yAdd)
+        {
+            doors[door - 1].Position =
+                new Point(original.X + original.Width / 2 - doors[door - 1].Size.Width + xAdd
+                , original.Y + original.Height - doors[door - 1].Size.Height + yAdd);
         }
         public void OpenDoors(ref Graphics g, int freq)
         {
             if (doors.Count == 2)
             {
-                for (int i = 0; i < 10; i++)
+                for (int i = 0; i < 5; i++)
                 {
-                    doors[0].position.X -= 10;
-                    doors[1].position.X += 10;
-                    g.FillRectangle(doors[0].brush, new Rectangle(doors[0].position, doors[0].size));
-                    g.FillRectangle(doors[1].brush, new Rectangle(doors[1].position, doors[1].size));
-                    g.FillRectangle(Brushes.Gold,
-                        new Rectangle(new Point(doors[0].position.X + doors[0].size.Width, doors[0].position.Y),
-                            new Size(doors[1].position.X, doors[1].position.Y)));
+                    doors[0].Position = new Point(doors[0].Position.X - 10, doors[0].Position.Y);
+                    doors[1].Position = new Point(doors[1].Position.X + 10, doors[1].Position.Y);
+                    g.FillRectangle(doors[0].Brush, new Rectangle(doors[0].Position, doors[0].Size));
+                    g.FillRectangle(doors[1].Brush, new Rectangle(doors[1].Position, doors[1].Size));
+                    g.FillRectangle(Brushes.Pink,
+                        new Rectangle(new Point(doors[0].Position.X + doors[0].Size.Width, doors[0].Position.Y),
+                            new Size(doors[1].Position.X - (doors[0].Position.X + doors[0].Size.Width)
+                            , doors[0].Size.Height)));
                     System.Threading.Thread.Sleep(freq);
                 }
             }
@@ -46,15 +67,20 @@ namespace CustomAnimation.Classes
         {
             if (doors.Count == 2)
             {
-                for (int i = 0; i < 10; i++)
+                for (int i = 0; i < 5; i++)
                 {
-                    doors[0].position.X += 10;
-                    doors[1].position.X -= 10;
-                    g.FillRectangle(doors[0].brush, new Rectangle(doors[0].position, doors[0].size));
-                    g.FillRectangle(doors[1].brush, new Rectangle(doors[1].position, doors[1].size));
-                    g.FillRectangle(Brushes.Gold,
-                        new Rectangle(new Point(doors[0].position.X + doors[0].size.Width, doors[0].position.Y),
-                            new Size(doors[1].position.X, doors[1].position.Y)));
+                    doors[0].Position = new Point(doors[0].Position.X + 10, doors[0].Position.Y);
+                    doors[1].Position = new Point(doors[1].Position.X - 10, doors[1].Position.Y);
+                    g.FillRectangle(brush,
+                        new Rectangle(
+                            new Point(original.X, original.Y + original.Height - doors[0].Size.Height)
+                            , new Size(original.Width, doors[0].Size.Height)));
+                    g.FillRectangle(Brushes.Pink,
+                        new Rectangle(new Point(doors[0].Position.X + doors[0].Size.Width, doors[0].Position.Y),
+                            new Size(doors[1].Position.X - (doors[0].Position.X + doors[0].Size.Width)
+                            , doors[0].Size.Height)));
+                    g.FillRectangle(doors[0].Brush, new Rectangle(doors[0].Position, doors[0].Size));
+                    g.FillRectangle(doors[1].Brush, new Rectangle(doors[1].Position, doors[1].Size));
                     System.Threading.Thread.Sleep(freq);
                 }
             }
