@@ -1,0 +1,10 @@
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\Advanced_Exams\AdvancedExam_23-June-2019\P03SpaceStationEstablishment\bin\Debug\netcoreapp2.2\P03SpaceStationEstablishment.deps.json
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\Advanced_Exams\AdvancedExam_23-June-2019\P03SpaceStationEstablishment\bin\Debug\netcoreapp2.2\P03SpaceStationEstablishment.runtimeconfig.json
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\Advanced_Exams\AdvancedExam_23-June-2019\P03SpaceStationEstablishment\bin\Debug\netcoreapp2.2\P03SpaceStationEstablishment.runtimeconfig.dev.json
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\Advanced_Exams\AdvancedExam_23-June-2019\P03SpaceStationEstablishment\bin\Debug\netcoreapp2.2\P03SpaceStationEstablishment.dll
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\Advanced_Exams\AdvancedExam_23-June-2019\P03SpaceStationEstablishment\bin\Debug\netcoreapp2.2\P03SpaceStationEstablishment.pdb
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\Advanced_Exams\AdvancedExam_23-June-2019\P03SpaceStationEstablishment\obj\Debug\netcoreapp2.2\P03SpaceStationEstablishment.csproj.CoreCompileInputs.cache
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\Advanced_Exams\AdvancedExam_23-June-2019\P03SpaceStationEstablishment\obj\Debug\netcoreapp2.2\P03SpaceStationEstablishment.AssemblyInfoInputs.cache
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\Advanced_Exams\AdvancedExam_23-June-2019\P03SpaceStationEstablishment\obj\Debug\netcoreapp2.2\P03SpaceStationEstablishment.AssemblyInfo.cs
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\Advanced_Exams\AdvancedExam_23-June-2019\P03SpaceStationEstablishment\obj\Debug\netcoreapp2.2\P03SpaceStationEstablishment.dll
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\Advanced_Exams\AdvancedExam_23-June-2019\P03SpaceStationEstablishment\obj\Debug\netcoreapp2.2\P03SpaceStationEstablishment.pdb

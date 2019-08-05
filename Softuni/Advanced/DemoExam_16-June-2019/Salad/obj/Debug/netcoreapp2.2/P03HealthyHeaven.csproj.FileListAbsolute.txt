@@ -1,0 +1,11 @@
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Advanced\DemoExam_16-June-2019\Salad\bin\Debug\netcoreapp2.2\P03HealthyHeaven.deps.json
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Advanced\DemoExam_16-June-2019\Salad\bin\Debug\netcoreapp2.2\P03HealthyHeaven.runtimeconfig.json
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Advanced\DemoExam_16-June-2019\Salad\bin\Debug\netcoreapp2.2\P03HealthyHeaven.runtimeconfig.dev.json
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Advanced\DemoExam_16-June-2019\Salad\bin\Debug\netcoreapp2.2\P03HealthyHeaven.dll
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Advanced\DemoExam_16-June-2019\Salad\bin\Debug\netcoreapp2.2\P03HealthyHeaven.pdb
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Advanced\DemoExam_16-June-2019\Salad\obj\Debug\netcoreapp2.2\P03HealthyHeaven.csprojAssemblyReference.cache
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Advanced\DemoExam_16-June-2019\Salad\obj\Debug\netcoreapp2.2\P03HealthyHeaven.csproj.CoreCompileInputs.cache
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Advanced\DemoExam_16-June-2019\Salad\obj\Debug\netcoreapp2.2\P03HealthyHeaven.AssemblyInfoInputs.cache
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Advanced\DemoExam_16-June-2019\Salad\obj\Debug\netcoreapp2.2\P03HealthyHeaven.AssemblyInfo.cs
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Advanced\DemoExam_16-June-2019\Salad\obj\Debug\netcoreapp2.2\P03HealthyHeaven.dll
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Advanced\DemoExam_16-June-2019\Salad\obj\Debug\netcoreapp2.2\P03HealthyHeaven.pdb

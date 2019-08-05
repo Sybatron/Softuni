@@ -1,0 +1,11 @@
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\Advanced_Exams\AdvancedRExam_16-April-2019\P01TrojanInvasion\bin\Debug\netcoreapp2.2\P01TrojanInvasion.deps.json
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\Advanced_Exams\AdvancedRExam_16-April-2019\P01TrojanInvasion\bin\Debug\netcoreapp2.2\P01TrojanInvasion.runtimeconfig.json
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\Advanced_Exams\AdvancedRExam_16-April-2019\P01TrojanInvasion\bin\Debug\netcoreapp2.2\P01TrojanInvasion.runtimeconfig.dev.json
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\Advanced_Exams\AdvancedRExam_16-April-2019\P01TrojanInvasion\bin\Debug\netcoreapp2.2\P01TrojanInvasion.dll
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\Advanced_Exams\AdvancedRExam_16-April-2019\P01TrojanInvasion\bin\Debug\netcoreapp2.2\P01TrojanInvasion.pdb
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\Advanced_Exams\AdvancedRExam_16-April-2019\P01TrojanInvasion\obj\Debug\netcoreapp2.2\P01TrojanInvasion.csprojAssemblyReference.cache
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\Advanced_Exams\AdvancedRExam_16-April-2019\P01TrojanInvasion\obj\Debug\netcoreapp2.2\P01TrojanInvasion.csproj.CoreCompileInputs.cache
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\Advanced_Exams\AdvancedRExam_16-April-2019\P01TrojanInvasion\obj\Debug\netcoreapp2.2\P01TrojanInvasion.AssemblyInfoInputs.cache
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\Advanced_Exams\AdvancedRExam_16-April-2019\P01TrojanInvasion\obj\Debug\netcoreapp2.2\P01TrojanInvasion.AssemblyInfo.cs
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\Advanced_Exams\AdvancedRExam_16-April-2019\P01TrojanInvasion\obj\Debug\netcoreapp2.2\P01TrojanInvasion.dll
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\Advanced_Exams\AdvancedRExam_16-April-2019\P01TrojanInvasion\obj\Debug\netcoreapp2.2\P01TrojanInvasion.pdb

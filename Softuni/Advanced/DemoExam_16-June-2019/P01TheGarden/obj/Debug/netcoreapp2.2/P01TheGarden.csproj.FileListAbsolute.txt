@@ -9,3 +9,14 @@ C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\DemoExam_16-June-2019\P01
 C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\DemoExam_16-June-2019\P01TheGarden\obj\Debug\netcoreapp2.2\P01TheGarden.AssemblyInfo.cs
 C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\DemoExam_16-June-2019\P01TheGarden\obj\Debug\netcoreapp2.2\P01TheGarden.dll
 C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\DemoExam_16-June-2019\P01TheGarden\obj\Debug\netcoreapp2.2\P01TheGarden.pdb
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Advanced\DemoExam_16-June-2019\P01TheGarden\bin\Debug\netcoreapp2.2\P01TheGarden.deps.json
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Advanced\DemoExam_16-June-2019\P01TheGarden\bin\Debug\netcoreapp2.2\P01TheGarden.runtimeconfig.json
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Advanced\DemoExam_16-June-2019\P01TheGarden\bin\Debug\netcoreapp2.2\P01TheGarden.runtimeconfig.dev.json
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Advanced\DemoExam_16-June-2019\P01TheGarden\bin\Debug\netcoreapp2.2\P01TheGarden.dll
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Advanced\DemoExam_16-June-2019\P01TheGarden\bin\Debug\netcoreapp2.2\P01TheGarden.pdb
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Advanced\DemoExam_16-June-2019\P01TheGarden\obj\Debug\netcoreapp2.2\P01TheGarden.csprojAssemblyReference.cache
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Advanced\DemoExam_16-June-2019\P01TheGarden\obj\Debug\netcoreapp2.2\P01TheGarden.csproj.CoreCompileInputs.cache
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Advanced\DemoExam_16-June-2019\P01TheGarden\obj\Debug\netcoreapp2.2\P01TheGarden.AssemblyInfoInputs.cache
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Advanced\DemoExam_16-June-2019\P01TheGarden\obj\Debug\netcoreapp2.2\P01TheGarden.AssemblyInfo.cs
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Advanced\DemoExam_16-June-2019\P01TheGarden\obj\Debug\netcoreapp2.2\P01TheGarden.dll
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Advanced\DemoExam_16-June-2019\P01TheGarden\obj\Debug\netcoreapp2.2\P01TheGarden.pdb
