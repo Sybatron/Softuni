@@ -1,0 +1,15 @@
+F:\Students\Informatika\10v\Graphics\Graphics_133-134_16-Apr-19\Graphics_133-134_16-Apr-19\bin\Release\Graphics_133-134_16-Apr-19.exe
+F:\Students\Informatika\10v\Graphics\Graphics_133-134_16-Apr-19\Graphics_133-134_16-Apr-19\bin\Release\Graphics_133-134_16-Apr-19.pdb
+F:\Students\Informatika\10v\Graphics\Graphics_133-134_16-Apr-19\Graphics_133-134_16-Apr-19\obj\x86\Release\Graphics_133_134_16_Apr_19.MainMenu.resources
+F:\Students\Informatika\10v\Graphics\Graphics_133-134_16-Apr-19\Graphics_133-134_16-Apr-19\obj\x86\Release\Graphics_133_134_16_Apr_19.P133_1.resources
+F:\Students\Informatika\10v\Graphics\Graphics_133-134_16-Apr-19\Graphics_133-134_16-Apr-19\obj\x86\Release\Graphics_133_134_16_Apr_19.Properties.Resources.resources
+F:\Students\Informatika\10v\Graphics\Graphics_133-134_16-Apr-19\Graphics_133-134_16-Apr-19\obj\x86\Release\Graphics_133-134_16-Apr-19.csproj.GenerateResource.Cache
+F:\Students\Informatika\10v\Graphics\Graphics_133-134_16-Apr-19\Graphics_133-134_16-Apr-19\obj\x86\Release\Graphics_133-134_16-Apr-19.exe
+F:\Students\Informatika\10v\Graphics\Graphics_133-134_16-Apr-19\Graphics_133-134_16-Apr-19\obj\x86\Release\Graphics_133-134_16-Apr-19.pdb
+F:\Students\Informatika\10v\Graphics\Graphics_133-134_16-Apr-19\Graphics_133-134_16-Apr-19\obj\x86\Release\Graphics_133_134_16_Apr_19.P134_3.resources
+F:\Students\Informatika\10v\Graphics\Graphics_133-134_16-Apr-19\Graphics_133-134_16-Apr-19\obj\x86\Release\Graphics_133_134_16_Apr_19.P134_2.resources
+F:\Students\Informatika\10v\Graphics\Graphics_133-134_16-Apr-19\Graphics_133-134_16-Apr-19\obj\x86\Release\Graphics_133_134_16_Apr_19.P134_3_2.resources
+F:\Students\Informatika\10v\Graphics\Graphics_133-134_16-Apr-19\Graphics_133-134_16-Apr-19\obj\x86\Release\Graphics_133_134_16_Apr_19.P134_3_3.resources
+F:\Students\Informatika\10v\Graphics\Graphics_133-134_16-Apr-19\Graphics_133-134_16-Apr-19\obj\x86\Release\Graphics_133_134_16_Apr_19.P134_4.resources
+D:\Git\Graphics\Graphics_133-134_16-Apr-19\Graphics_133-134_16-Apr-19\obj\x86\Release\Graphics_133-134_16-Apr-19.exe
+D:\Git\Graphics\Graphics_133-134_16-Apr-19\Graphics_133-134_16-Apr-19\obj\x86\Release\Graphics_133-134_16-Apr-19.pdb

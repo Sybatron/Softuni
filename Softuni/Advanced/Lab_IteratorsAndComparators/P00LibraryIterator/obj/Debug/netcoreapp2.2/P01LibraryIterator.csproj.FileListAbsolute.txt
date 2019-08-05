@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_IteratorsAndComparators\P01EnumeratorsLibrary\bin\Debug\netcoreapp2.2\P01LibraryIterator.deps.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_IteratorsAndComparators\P01EnumeratorsLibrary\bin\Debug\netcoreapp2.2\P01LibraryIterator.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_IteratorsAndComparators\P01EnumeratorsLibrary\bin\Debug\netcoreapp2.2\P01LibraryIterator.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_IteratorsAndComparators\P01EnumeratorsLibrary\bin\Debug\netcoreapp2.2\P01LibraryIterator.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_IteratorsAndComparators\P01EnumeratorsLibrary\bin\Debug\netcoreapp2.2\P01LibraryIterator.pdb
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_IteratorsAndComparators\P01EnumeratorsLibrary\obj\Debug\netcoreapp2.2\P01LibraryIterator.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_IteratorsAndComparators\P01EnumeratorsLibrary\obj\Debug\netcoreapp2.2\P01LibraryIterator.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_IteratorsAndComparators\P01EnumeratorsLibrary\obj\Debug\netcoreapp2.2\P01LibraryIterator.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_IteratorsAndComparators\P01EnumeratorsLibrary\obj\Debug\netcoreapp2.2\P01LibraryIterator.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_IteratorsAndComparators\P01EnumeratorsLibrary\obj\Debug\netcoreapp2.2\P01LibraryIterator.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_IteratorsAndComparators\P01EnumeratorsLibrary\obj\Debug\netcoreapp2.2\P01LibraryIterator.pdb

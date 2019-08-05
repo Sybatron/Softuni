@@ -1,0 +1,6 @@
+F:\Students\Informatika\10v\Graphics\Graphics_138-139_18-Apr-19\Graphics_138_1-a\bin\Release\Graphics_138_1-a.exe
+F:\Students\Informatika\10v\Graphics\Graphics_138-139_18-Apr-19\Graphics_138_1-a\bin\Release\Graphics_138_1-a.pdb
+F:\Students\Informatika\10v\Graphics\Graphics_138-139_18-Apr-19\Graphics_138_1-a\obj\x86\Release\Graphics_138_139_18_Apr_19.Properties.Resources.resources
+F:\Students\Informatika\10v\Graphics\Graphics_138-139_18-Apr-19\Graphics_138_1-a\obj\x86\Release\Graphics_138_1-a.csproj.GenerateResource.Cache
+F:\Students\Informatika\10v\Graphics\Graphics_138-139_18-Apr-19\Graphics_138_1-a\obj\x86\Release\Graphics_138_1-a.exe
+F:\Students\Informatika\10v\Graphics\Graphics_138-139_18-Apr-19\Graphics_138_1-a\obj\x86\Release\Graphics_138_1-a.pdb

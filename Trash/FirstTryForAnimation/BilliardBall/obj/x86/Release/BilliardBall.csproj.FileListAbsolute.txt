@@ -1,0 +1,7 @@
+F:\Students\Informatika\10v\FirstTryForAnimation\BilliardBall\bin\Release\BilliardBall.exe
+F:\Students\Informatika\10v\FirstTryForAnimation\BilliardBall\bin\Release\BilliardBall.pdb
+F:\Students\Informatika\10v\FirstTryForAnimation\BilliardBall\obj\x86\Release\BilliardBall.Form1.resources
+F:\Students\Informatika\10v\FirstTryForAnimation\BilliardBall\obj\x86\Release\BilliardBall.Properties.Resources.resources
+F:\Students\Informatika\10v\FirstTryForAnimation\BilliardBall\obj\x86\Release\BilliardBall.csproj.GenerateResource.Cache
+F:\Students\Informatika\10v\FirstTryForAnimation\BilliardBall\obj\x86\Release\BilliardBall.exe
+F:\Students\Informatika\10v\FirstTryForAnimation\BilliardBall\obj\x86\Release\BilliardBall.pdb

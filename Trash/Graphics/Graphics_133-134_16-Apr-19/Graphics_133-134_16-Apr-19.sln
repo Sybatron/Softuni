@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphics_133-134_16-Apr-19", "Graphics_133-134_16-Apr-19\Graphics_133-134_16-Apr-19.csproj", "{E8914681-048F-4263-8740-3F47B02C9220}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8914681-048F-4263-8740-3F47B02C9220}.Debug|x86.ActiveCfg = Debug|x86
+		{E8914681-048F-4263-8740-3F47B02C9220}.Debug|x86.Build.0 = Debug|x86
+		{E8914681-048F-4263-8740-3F47B02C9220}.Release|x86.ActiveCfg = Release|x86
+		{E8914681-048F-4263-8740-3F47B02C9220}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
