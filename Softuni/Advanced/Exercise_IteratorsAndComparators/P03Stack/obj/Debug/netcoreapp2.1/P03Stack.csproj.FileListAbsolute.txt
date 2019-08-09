@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P03Stack\bin\Debug\netcoreapp2.1\P03Stack.deps.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P03Stack\bin\Debug\netcoreapp2.1\P03Stack.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P03Stack\bin\Debug\netcoreapp2.1\P03Stack.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P03Stack\bin\Debug\netcoreapp2.1\P03Stack.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P03Stack\bin\Debug\netcoreapp2.1\P03Stack.pdb
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P03Stack\obj\Debug\netcoreapp2.1\P03Stack.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P03Stack\obj\Debug\netcoreapp2.1\P03Stack.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P03Stack\obj\Debug\netcoreapp2.1\P03Stack.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P03Stack\obj\Debug\netcoreapp2.1\P03Stack.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P03Stack\obj\Debug\netcoreapp2.1\P03Stack.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P03Stack\obj\Debug\netcoreapp2.1\P03Stack.pdb

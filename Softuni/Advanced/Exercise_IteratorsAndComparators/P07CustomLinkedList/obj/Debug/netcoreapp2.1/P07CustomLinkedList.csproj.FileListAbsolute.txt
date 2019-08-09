@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P07CustomLinkedList\bin\Debug\netcoreapp2.1\P07CustomLinkedList.deps.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P07CustomLinkedList\bin\Debug\netcoreapp2.1\P07CustomLinkedList.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P07CustomLinkedList\bin\Debug\netcoreapp2.1\P07CustomLinkedList.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P07CustomLinkedList\bin\Debug\netcoreapp2.1\P07CustomLinkedList.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P07CustomLinkedList\bin\Debug\netcoreapp2.1\P07CustomLinkedList.pdb
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P07CustomLinkedList\obj\Debug\netcoreapp2.1\P07CustomLinkedList.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P07CustomLinkedList\obj\Debug\netcoreapp2.1\P07CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P07CustomLinkedList\obj\Debug\netcoreapp2.1\P07CustomLinkedList.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P07CustomLinkedList\obj\Debug\netcoreapp2.1\P07CustomLinkedList.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P07CustomLinkedList\obj\Debug\netcoreapp2.1\P07CustomLinkedList.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P07CustomLinkedList\obj\Debug\netcoreapp2.1\P07CustomLinkedList.pdb
