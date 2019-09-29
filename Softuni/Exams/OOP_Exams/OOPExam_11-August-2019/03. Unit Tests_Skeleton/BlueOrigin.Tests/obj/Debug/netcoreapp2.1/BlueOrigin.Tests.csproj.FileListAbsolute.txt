@@ -1,0 +1,17 @@
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\OOP_Exams\OOPExam_11-August-2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\OOP_Exams\OOPExam_11-August-2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\OOP_Exams\OOPExam_11-August-2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\OOP_Exams\OOPExam_11-August-2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\BlueOrigin.Tests.deps.json
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\OOP_Exams\OOPExam_11-August-2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\BlueOrigin.Tests.runtimeconfig.json
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\OOP_Exams\OOPExam_11-August-2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\BlueOrigin.Tests.runtimeconfig.dev.json
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\OOP_Exams\OOPExam_11-August-2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\BlueOrigin.Tests.dll
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\OOP_Exams\OOPExam_11-August-2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\BlueOrigin.Tests.pdb
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\OOP_Exams\OOPExam_11-August-2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\BlueOrigin.dll
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\OOP_Exams\OOPExam_11-August-2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\BlueOrigin.pdb
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\OOP_Exams\OOPExam_11-August-2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\obj\Debug\netcoreapp2.1\BlueOrigin.Tests.csprojAssemblyReference.cache
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\OOP_Exams\OOPExam_11-August-2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\obj\Debug\netcoreapp2.1\BlueOrigin.Tests.csproj.CoreCompileInputs.cache
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\OOP_Exams\OOPExam_11-August-2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\obj\Debug\netcoreapp2.1\BlueOrigin.Tests.AssemblyInfoInputs.cache
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\OOP_Exams\OOPExam_11-August-2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\obj\Debug\netcoreapp2.1\BlueOrigin.Tests.AssemblyInfo.cs
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\OOP_Exams\OOPExam_11-August-2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\obj\Debug\netcoreapp2.1\BlueOrigin.Tests.csproj.CopyComplete
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\OOP_Exams\OOPExam_11-August-2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\obj\Debug\netcoreapp2.1\BlueOrigin.Tests.dll
+C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\OOP_Exams\OOPExam_11-August-2019\03. Unit Tests_Skeleton\BlueOrigin.Tests\obj\Debug\netcoreapp2.1\BlueOrigin.Tests.pdb
