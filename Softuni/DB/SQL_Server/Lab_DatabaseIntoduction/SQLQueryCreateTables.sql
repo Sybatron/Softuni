@@ -23,3 +23,25 @@ CREATE TABLE Accounts(
 	Balance DECIMAL(15, 2) NOT NULL DEFAULT(0),
 	ClientId INT FOREIGN KEY REFERENCES Clients(Id)
 )
+
+--Transactions
+--Id – unique number for every transaction. (auto-incremented, primary key)
+-- AccountId – references the Accounts table (foreign key)
+
+--© Software University Foundation. This work is licensed under the CC-BY-NC-SA license.
+--Follow us: Page 4 of 5
+
+-- OldBalance – the balance before the transaction
+-- NewBalance – the balance after the transaction
+-- Amount – the amount transferred (calculated column)
+-- DateTime – the date and time of the transaction (as datetime2 data type)
+
+CREATE TABLE Transactions(
+	Id INT PRIMARY KEY IDENTITY,
+	AccountId INT FOREIGN KEY REFERENCES AccountTypes(Id),
+	OldBalance DECIMAL(15,2) NOT NULL,
+	NewBalance DECIMAL(15,2) NOT NULL,
+	Amount AS NewBalance - OldBalance,
+	[DateTime] DATETIME2
+)
+
