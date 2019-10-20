@@ -121,3 +121,52 @@ GROUP BY s.FirstName, s.LastName
 ORDER BY Grade DESC, [First Name], [Last Name]
 
 --P09
+SELECT (CONCAT(s.FirstName,' ',ISNULL(s.MiddleName + ' ',''),s.LastName)) AS [Full Name]
+FROM Students AS s
+LEFT OUTER JOIN StudentsSubjects AS ss
+ON ss.StudentId = s.Id
+WHERE ss.SubjectId IS NULL
+GROUP BY s.FirstName, s.MiddleName, s.LastName
+
+--P10
+SELECT sb.[Name], AVG(ss.Grade) AS [AverageGrade] FROM StudentsSubjects AS ss
+JOIN Subjects AS sb
+ON ss.SubjectId = sb.Id
+GROUP BY sb.[Name], sb.Id
+ORDER BY sb.Id
+
+--P11
+CREATE FUNCTION udf_ExamGradesToUpdate(
+@studentId INT, @grade DECIMAL(15,2))
+RETURNS VARCHAR(MAX) AS
+BEGIN
+	DECLARE @studentExist INT = (
+	SELECT TOP(1)StudentId FROM StudentsExams
+	WHERE StudentId = @studentId
+	)
+
+	IF (@studentExist IS NULL)
+	BEGIN
+		RETURN 'The student with provided id does not exist in the school!'
+	END
+
+	IF @grade > 6
+	BEGIN
+		RETURN 'Grade cannot be above 6.00!'
+	END
+
+	DECLARE @count INT = (
+		SELECT COUNT(Grade) FROM StudentsExams
+		WHERE  StudentId = @studentId
+				AND Grade >= @grade 
+				AND Grade <= @grade + 0.5
+	)
+
+	DECLARE @firstName  NVARCHAR(30)= (
+		SELECT FirstName FROM Students
+		WHERE Id = @studentId				
+	)
+
+	RETURN CONCAT('You have to update ', CAST(@count AS VARCHAR(10)), ' grades for the student ', @firstName)
+END
+SELECT dbo.udf_ExamGradesToUpdate(121, 5.50)
