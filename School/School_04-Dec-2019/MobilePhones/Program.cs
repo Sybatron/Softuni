@@ -27,6 +27,8 @@ namespace MobilePhones
             Console.WriteLine(customPhone + Environment.NewLine);
             Console.WriteLine(wrongPhone);
 
+            Console.WriteLine("Натисни клавиш...");
+            Console.ReadKey();
         }
     }
 }
