@@ -17,7 +17,9 @@ function solution() {
         sendButton.setAttribute('id', 'sendButton');
         sendButton.innerText = 'Send';
         sendButton.addEventListener('click', function () {
-            addToSentGifts(gift.value);
+            let indexOfButtons = gift.innerText.indexOf('SendDiscard');
+            let text = gift.innerText.slice(0, indexOfButtons);
+            addToSentGifts(text);
             listOfGifts.removeChild(gift);
         });
 
@@ -25,7 +27,9 @@ function solution() {
         discardButton.setAttribute('id', 'discardButton');
         discardButton.innerText = 'Discard';
         discardButton.addEventListener('click', function () {
-            addToDiscardedGifts(gift.value);
+            let indexOfButtons = gift.innerText.indexOf('SendDiscard');
+            let text = gift.innerText.slice(0, indexOfButtons);
+            addToDiscardedGifts(text);
             listOfGifts.removeChild(gift);
         });
 
@@ -39,7 +43,7 @@ function solution() {
         function sortByName(a, b) {
             return a.innerHTML.toLowerCase().localeCompare(b.innerHTML.toLowerCase());
         }
-        
+
         //* How to sort list items
         let list = Array.from(listOfGifts.getElementsByTagName('li'));
         list.sort(sortByName);
