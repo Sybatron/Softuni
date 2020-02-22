@@ -10,7 +10,10 @@ class ChristmasMovies {
         let uniqueActors = new Set(actors);
 
         if (movie === undefined) {
-            this.movieCollection.push({ name: movieName, actors: [...uniqueActors] });
+            this.movieCollection.push({
+                name: movieName,
+                actors: [...uniqueActors]
+            });
             let output = [];
             [...uniqueActors].map(actor => output.push(actor));
             return `You just got ${movieName} to your collection in which ${output.join(', ')} are taking part!`;
@@ -27,7 +30,10 @@ class ChristmasMovies {
         }
         let index = this.movieCollection.findIndex(m => m.name === movieName);
         this.movieCollection.splice(index, 1);
-        let { name, _ } = filtered[0];
+        let {
+            name,
+            _
+        } = filtered[0];
         if (this.watched.hasOwnProperty(name)) {
             delete this.watched[name];
             return `You just threw away ${name}!`;
@@ -63,7 +69,10 @@ class ChristmasMovies {
         let mostStarred = {};
         if (this.movieCollection.length > 0) {
             this.movieCollection.forEach(el => {
-                let { _, actors } = el;
+                let {
+                    _,
+                    actors
+                } = el;
                 actors.forEach(actor => {
                     if (mostStarred.hasOwnProperty(actor)) {
                         mostStarred[actor]++;
@@ -78,6 +87,10 @@ class ChristmasMovies {
             throw new Error('You have not watched a movie yet this year!')
         }
     }
+}
+
+function add(a, b) {
+    return a + b;
 }
 
 let christmas = new ChristmasMovies();
@@ -97,4 +110,5 @@ christmas.discardMovie('The Grinch');
 christmas.favouriteMovie();
 christmas.mostStarredActor();
 
-module.exports = ChristmasMovies;
+//module.exports = ChristmasMovies;
+module.exports = add;
