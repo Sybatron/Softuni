@@ -7,29 +7,29 @@ class ChristmasDinner {
         this.budget = budget;
     }
 
-    get budget(){
+    get budget() {
         return this._budget;
     }
-    set budget(value){
-        if(value<0){
+    set budget(value) {
+        if (value < 0) {
             throw Error('The budget cannot be a negative number');
         }
-        this._budget=value;
+        this._budget = value;
     }
 
     shopping(product) {
-        if(this.budget - product[1] < 0){
+        if (this.budget - product[1] < 0) {
             throw Error("Not enough money to buy this product");
         }
-        this.budget-=product[1];
+        this.budget -= product[1];
         this.products.push(product[0]);
 
         console.log(`You have successfully bought ${product[0]}!`)
     }
 
-    recipes(recipe){
+    recipes(recipe) {
         for (const product of recipe.productsList) {
-            if(!this.products.includes(product)){
+            if (!this.products.includes(product)) {
                 throw Error("We do not have this product");
             }
         }
@@ -38,24 +38,24 @@ class ChristmasDinner {
         console.log(`${recipe.recipeName} has been successfully cooked!`);
     }
 
-    inviteGuests(name,dish){
-        if(!this.dishes.filter(el=>el.recipeName===dish)){
+    inviteGuests(name, dish) {
+        if (!this.dishes.filter(el => el.recipeName === dish)) {
             throw Error("We do not have this dish");
         }
-        if(this.guests.hasOwnProperty(name)){
+        if (this.guests.hasOwnProperty(name)) {
             throw Error("This guest has already been invited");
         }
 
-        let dishObj = this.dishes.filter(el=>el.recipeName===dish)[0];
-        this.guests[name]=dishObj;
+        let dishObj = this.dishes.filter(el => el.recipeName === dish)[0];
+        this.guests[name] = dishObj;
         console.log(`You have successfully invited ${name}!`);
     }
-    showAttendance(){
-        let result='';
+    showAttendance() {
+        let result = '';
         for (const guest in this.guests) {
             if (this.guests.hasOwnProperty(guest)) {
                 const element = this.guests[guest];
-               result+=`${guest} will eat ${element.recipeName}, which consists of ${element.productsList.join(', ')}\n`;
+                result += `${guest} will eat ${element.recipeName}, which consists of ${element.productsList.join(', ')}\n`;
             }
         }
         return result.trim();
