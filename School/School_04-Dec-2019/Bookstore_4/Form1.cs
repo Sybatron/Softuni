@@ -23,6 +23,8 @@ namespace Bookstore_4
             refButton.Enabled = false;
             addButton.Enabled = false;
             newTitleButton.Enabled = false;
+            salePriceLabel.Text = string.Empty;
+            saleSumPriceLabel.Text = string.Empty;
         }
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
@@ -58,7 +60,6 @@ namespace Bookstore_4
 
         bool flagsave = false;
 
-        #region AddBook
         private void InitType(string[] Type)
         {
             genres[0] = "Хуманитарна литература";
@@ -78,12 +79,13 @@ namespace Bookstore_4
 
         private void LoadType(ComboBox comboBox)
         {
-            for (int titleCounter = 0; titleCounter < 13; titleCounter++)
+            for (int i = 0; i < 13; i++)
             {
-                comboBox.Items.Add(genres[titleCounter]);
+                comboBox.Items.Add(genres[i]);
             }
         }
 
+        #region AddBook
         private void newTitleButton_Click(object sender, EventArgs e)
         {
             addButton.Enabled = true;
@@ -111,14 +113,19 @@ namespace Bookstore_4
                 countTextBox.Text != "" &&
                 genreComboBox.Text != "")
             {
-                books[titleCounter] = new Book();
-                books[titleCounter].Title = titleTextBox.Text;
-                books[titleCounter].Author = authorTextBox.Text;
-                books[titleCounter].Publisher = publisherTextBox.Text;
-                books[titleCounter].Price = float.Parse(priceTextBox.Text);
-                books[titleCounter].Count = int.Parse(countTextBox.Text);
-                books[titleCounter].Genre = genreComboBox.SelectedIndex;
+                books[titleCounter] = new Book()
+                {
+                    Title = titleTextBox.Text,
+                    Author = authorTextBox.Text,
+                    Publisher = publisherTextBox.Text,
+                    Price = double.Parse(priceTextBox.Text),
+                    Count = int.Parse(countTextBox.Text),
+                    Genre = genreComboBox.SelectedIndex
+                };
+                books[titleCounter].RealCount = books[titleCounter].Count;
+
                 titlesComboBox.Items.Add(books[titleCounter].Title);
+                saleTitlesComboBox.Items.Add(books[titleCounter].Title);
                 titleCounter++;
                 titleCountLabel.Text = titleCounter.ToString();
             }
@@ -144,7 +151,6 @@ namespace Bookstore_4
 
         private void loadButton_Click(object sender, EventArgs e)
         {
-
             titleCounter = 0;
             using (var readerBooks = new StreamReader("books.txt"))
             {
@@ -158,8 +164,9 @@ namespace Bookstore_4
                     };
 
                     titlesComboBox.Items.Add(books[titleCounter].Title);
+                    saleTitlesComboBox.Items.Add(books[titleCounter].Title);
 
-                    string genreTemp = readerBooks.ReadLine();
+                    var genreTemp = readerBooks.ReadLine();
                     switch (genreTemp)
                     {
                         case "Хуманитарна литература": books[titleCounter].Genre = 0; break;
@@ -177,22 +184,27 @@ namespace Bookstore_4
                         default: books[titleCounter].Genre = 12; break;
                     }
 
-                    books[titleCounter].Price = float.Parse(readerBooks.ReadLine());
+                    books[titleCounter].Price = double.Parse(readerBooks.ReadLine());
                     books[titleCounter].Count = int.Parse(readerBooks.ReadLine());
+                    books[titleCounter].RealCount = books[titleCounter].Count;
                     titleCounter++;
                 }
             }
+
             titleCountLabel.Text = titleCounter.ToString();
             titlesComboBox.Enabled = true;
             refButton.Enabled = true;
             loadButton.Enabled = false;
             newTitleButton.Enabled = true;
+            saleAddButton.Enabled = true;
+            saleTitlesComboBox.Enabled = true;
+            saleCountTextBox.Enabled = true;
         }
 
         private void refButton_Click(object sender, EventArgs e)
         {
             addButton.Enabled = false;
-            int index = -1;
+            var index = -1;
             index = titlesComboBox.SelectedIndex;
             if (index != -1)
             {
@@ -202,6 +214,7 @@ namespace Bookstore_4
                 genreComboBox.Text = genres[books[index].Genre];
                 priceTextBox.Text = books[index].Price.ToString("0.00");
                 countTextBox.Text = books[index].Count.ToString();
+
                 titleTextBox.Enabled = false;
                 publisherTextBox.Enabled = false;
                 authorTextBox.Enabled = false;
@@ -212,5 +225,72 @@ namespace Bookstore_4
         }
         #endregion
 
+        #region Sale
+        private void saleAddButton_Click(object sender, EventArgs e)
+        {
+            var selectedBookCount = -1;
+            var selectedIndex = saleTitlesComboBox.SelectedIndex;
+
+            try
+            {
+                selectedBookCount = int.Parse(saleCountTextBox.Text);
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Проблем! Не сте въвели бройка!", "Внимание!");
+            }
+
+            if ((selectedBookCount != -1) && (selectedBookCount <= books[selectedIndex].Count))
+            {
+                books[selectedIndex].Count -= selectedBookCount;
+
+                sellPrice += selectedBookCount * books[selectedIndex].Price;
+                saleSumPriceLabel.Text = sellPrice.ToString("0.00");
+                saleCartListBox.Items
+                    .Add($"{books[selectedIndex].Title} {selectedBookCount} x {books[selectedIndex].Price.ToString("0.00")}");
+                saleClearButton.Enabled = true;
+            }
+            else
+            {
+                MessageBox.Show("Проблем! Няма достатъчно книги!", "Внимание!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                saleCountTextBox.Clear();
+            }
+
+            flagsave = false;
+        }
+
+        private void saleClearButton_Click(object sender, EventArgs e)
+        {
+            saleCartListBox.Items.Clear();
+
+            for (int i = 0; i < titleCounter; i++)
+            {
+                books[i].Count = books[i].RealCount;
+            }
+
+            saleSumPriceLabel.Text = "0.00";
+            sellPrice = 0;
+            saleCountTextBox.Clear();
+        }
+
+        private void salePayButton_Click(object sender, EventArgs e)
+        {
+            saleCartListBox.Items.Clear();
+            for (var i = 0; i < titleCounter; i++)
+            {
+                books[i].RealCount = books[i].Count;
+            }
+
+            saleSumPriceLabel.Text = "0.00";
+            sellPrice = 0;
+            saleCountTextBox.Clear();
+        }
+
+        private void saleTitlesComboBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            var indexBook = saleTitlesComboBox.SelectedIndex;
+            salePriceLabel.Text = books[indexBook].Price.ToString("0.00");
+        }
+        #endregion
     }
 }
