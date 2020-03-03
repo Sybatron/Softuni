@@ -1,0 +1,6 @@
+C:\Users\Sybatron\source\repos\Simple calculations\Seconds Sum\bin\Debug\Seconds Sum.exe.config
+C:\Users\Sybatron\source\repos\Simple calculations\Seconds Sum\bin\Debug\Seconds Sum.exe
+C:\Users\Sybatron\source\repos\Simple calculations\Seconds Sum\bin\Debug\Seconds Sum.pdb
+C:\Users\Sybatron\source\repos\Simple calculations\Seconds Sum\obj\Debug\Seconds Sum.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Simple calculations\Seconds Sum\obj\Debug\Seconds Sum.exe
+C:\Users\Sybatron\source\repos\Simple calculations\Seconds Sum\obj\Debug\Seconds Sum.pdb

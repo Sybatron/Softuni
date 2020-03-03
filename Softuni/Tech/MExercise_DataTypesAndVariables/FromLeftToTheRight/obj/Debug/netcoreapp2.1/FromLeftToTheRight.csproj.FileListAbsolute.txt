@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\FromLeftToTheRight\bin\Debug\netcoreapp2.1\FromLeftToTheRight.deps.json
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\FromLeftToTheRight\bin\Debug\netcoreapp2.1\FromLeftToTheRight.runtimeconfig.json
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\FromLeftToTheRight\bin\Debug\netcoreapp2.1\FromLeftToTheRight.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\FromLeftToTheRight\bin\Debug\netcoreapp2.1\FromLeftToTheRight.dll
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\FromLeftToTheRight\bin\Debug\netcoreapp2.1\FromLeftToTheRight.pdb
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\FromLeftToTheRight\obj\Debug\netcoreapp2.1\FromLeftToTheRight.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\FromLeftToTheRight\obj\Debug\netcoreapp2.1\FromLeftToTheRight.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\FromLeftToTheRight\obj\Debug\netcoreapp2.1\FromLeftToTheRight.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\FromLeftToTheRight\obj\Debug\netcoreapp2.1\FromLeftToTheRight.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\FromLeftToTheRight\obj\Debug\netcoreapp2.1\FromLeftToTheRight.dll
+C:\Users\Sybatron\source\repos\MExercise_DataTypesAndVariables\FromLeftToTheRight\obj\Debug\netcoreapp2.1\FromLeftToTheRight.pdb

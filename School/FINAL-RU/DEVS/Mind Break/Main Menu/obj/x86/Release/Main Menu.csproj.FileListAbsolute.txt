@@ -1,0 +1,181 @@
+D:\DEVS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Form1.resources
+D:\DEVS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Properties.Resources.resources
+D:\DEVS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\Main Menu.csproj.GenerateResource.Cache
+D:\DEVS\FINAL PROJECT\Mind Break\Main Menu\bin\Release\Main Menu.exe
+D:\DEVS\FINAL PROJECT\Mind Break\Main Menu\bin\Release\Main Menu.pdb
+D:\DEVS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\Main Menu.exe
+D:\DEVS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\Main Menu.pdb
+D:\DEVS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Information.resources
+D:\DEVS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\Main Menu.csprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\DEVS-20181113T120550Z-001\DEVS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\Main Menu.exe
+C:\Users\Student\Downloads\DEVS-20181113T120550Z-001\DEVS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\Main Menu.pdb
+C:\Users\Student\Downloads\DEVS-20181113T120550Z-001\DEVS\FINAL PROJECT\Mind Break\Main Menu\bin\Release\Main Menu.exe
+C:\Users\Student\Downloads\DEVS-20181113T120550Z-001\DEVS\FINAL PROJECT\Mind Break\Main Menu\bin\Release\Main Menu.pdb
+C:\Users\Student\Downloads\DEVS-20181113T120550Z-001\DEVS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\Main Menu.csprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\DEVS-20181113T120550Z-001\DEVS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\Mind_Break.MainMenu.resources
+C:\Users\Student\Downloads\DEVS-20181113T120550Z-001\DEVS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Information.resources
+C:\Users\Student\Downloads\DEVS-20181113T120550Z-001\DEVS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Properties.Resources.resources
+C:\Users\Student\Downloads\DEVS-20181113T120550Z-001\DEVS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\Main Menu.csproj.GenerateResource.Cache
+C:\Users\Student\Downloads\DEVS-20181113T120550Z-001\DEVS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\EnemyShooting.EnemyShooting.resources
+C:\Users\Student\Downloads\DEVS-20181113T120550Z-001\DEVS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\Hangman.Hangman.resources
+C:\Users\Student\Downloads\DEVS-20181113T120550Z-001\DEVS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\NumGame.NumGame.resources
+C:\Users\Student\Downloads\DEVS-20181113T120550Z-001\DEVS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\PingPong.PingPong.resources
+C:\Users\Student\Downloads\DEVS-20181113T120550Z-001\DEVS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\PuzzleGame.PuzzleGame.resources
+C:\Users\Student\Downloads\DEVS-20181113T120550Z-001\DEVS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\TicTacToe.TicTacToe.resources
+E:\CODE PROJECTS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\Main Menu.csprojResolveAssemblyReference.cache
+E:\CODE PROJECTS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\EnemyShooting.EnemyShooting.resources
+E:\CODE PROJECTS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\Hangman.Hangman.resources
+E:\CODE PROJECTS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\NumGame.NumGame.resources
+E:\CODE PROJECTS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\PingPong.PingPong.resources
+E:\CODE PROJECTS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\PuzzleGame.PuzzleGame.resources
+E:\CODE PROJECTS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\TicTacToe.TicTacToe.resources
+E:\CODE PROJECTS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\Mind_Break.MainMenu.resources
+E:\CODE PROJECTS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Information.resources
+E:\CODE PROJECTS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Main_Menu.StartOver.resources
+E:\CODE PROJECTS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Properties.Resources.resources
+E:\CODE PROJECTS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\Main Menu.csproj.GenerateResource.cache
+E:\CODE PROJECTS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\Main Menu.csproj.CoreCompileInputs.cache
+E:\CODE PROJECTS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\Main Menu.exe
+E:\CODE PROJECTS\FINAL PROJECT\Mind Break\Main Menu\obj\x86\Release\Main Menu.pdb
+E:\CODE PROJECTS\FINAL PROJECT\Mind Break\Main Menu\bin\Release\Main Menu.exe
+E:\CODE PROJECTS\FINAL PROJECT\Mind Break\Main Menu\bin\Release\Main Menu.pdb
+D:\Students\Informatika\10v Ivan Petrov\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.exe
+D:\Students\Informatika\10v Ivan Petrov\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.pdb
+D:\Students\Informatika\10v Ivan Petrov\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.csprojResolveAssemblyReference.cache
+D:\Students\Informatika\10v Ivan Petrov\DEVS\Mind Break\Main Menu\obj\x86\Release\Hangman.Hangman.resources
+D:\Students\Informatika\10v Ivan Petrov\DEVS\Mind Break\Main Menu\obj\x86\Release\PuzzleGame.PuzzleGame.resources
+D:\Students\Informatika\10v Ivan Petrov\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.MainMenu.resources
+D:\Students\Informatika\10v Ivan Petrov\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Information.resources
+D:\Students\Informatika\10v Ivan Petrov\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Main_Menu.StartOver.resources
+D:\Students\Informatika\10v Ivan Petrov\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Properties.Resources.resources
+D:\Students\Informatika\10v Ivan Petrov\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.csproj.GenerateResource.Cache
+D:\Students\Informatika\10v Ivan Petrov\DEVS\Mind Break\Main Menu\bin\Release\Main Menu.exe
+D:\Students\Informatika\10v Ivan Petrov\DEVS\Mind Break\Main Menu\bin\Release\Main Menu.pdb
+C:\Users\Sybatron\Desktop\Mind Break (1)\Mind Break\Main Menu\obj\x86\Release\Main Menu.exe
+C:\Users\Sybatron\Desktop\Mind Break (1)\Mind Break\Main Menu\obj\x86\Release\Main Menu.pdb
+C:\Users\Sybatron\Desktop\Mind Break (1)\Mind Break\Main Menu\bin\Release\Main Menu.exe
+C:\Users\Sybatron\Desktop\Mind Break (1)\Mind Break\Main Menu\bin\Release\Main Menu.pdb
+C:\Users\Sybatron\Desktop\Mind Break (1)\Mind Break\Main Menu\obj\x86\Release\Main Menu.csprojResolveAssemblyReference.cache
+C:\Users\Sybatron\Desktop\Mind Break (1)\Mind Break\Main Menu\obj\x86\Release\Hangman.Hangman.resources
+C:\Users\Sybatron\Desktop\Mind Break (1)\Mind Break\Main Menu\obj\x86\Release\PuzzleGame.PuzzleGame.resources
+C:\Users\Sybatron\Desktop\Mind Break (1)\Mind Break\Main Menu\obj\x86\Release\Mind_Break.MainMenu.resources
+C:\Users\Sybatron\Desktop\Mind Break (1)\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Information.resources
+C:\Users\Sybatron\Desktop\Mind Break (1)\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Main_Menu.StartOver.resources
+C:\Users\Sybatron\Desktop\Mind Break (1)\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Properties.Resources.resources
+C:\Users\Sybatron\Desktop\Mind Break (1)\Mind Break\Main Menu\obj\x86\Release\Main Menu.csproj.GenerateResource.Cache
+C:\Users\Student\Downloads\DEVS\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.exe
+C:\Users\Student\Downloads\DEVS\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.pdb
+C:\Users\Student\Downloads\DEVS\DEVS\Mind Break\Main Menu\bin\Release\Main Menu.exe
+C:\Users\Student\Downloads\DEVS\DEVS\Mind Break\Main Menu\bin\Release\Main Menu.pdb
+C:\Users\Student\Downloads\DEVS\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.csprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\DEVS\DEVS\Mind Break\Main Menu\obj\x86\Release\Hangman.Hangman.resources
+C:\Users\Student\Downloads\DEVS\DEVS\Mind Break\Main Menu\obj\x86\Release\PuzzleGame.PuzzleGame.resources
+C:\Users\Student\Downloads\DEVS\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.MainMenu.resources
+C:\Users\Student\Downloads\DEVS\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Information.resources
+C:\Users\Student\Downloads\DEVS\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Properties.Resources.resources
+C:\Users\Student\Downloads\DEVS\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.csproj.GenerateResource.Cache
+E:\HELP\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.exe
+E:\HELP\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.pdb
+E:\HELP\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.csprojResolveAssemblyReference.cache
+E:\HELP\DEVS\Mind Break\Main Menu\obj\x86\Release\Hangman.Hangman.resources
+E:\HELP\DEVS\Mind Break\Main Menu\obj\x86\Release\PuzzleGame.PuzzleGame.resources
+E:\HELP\DEVS\Mind Break\Main Menu\obj\x86\Release\SnakeGame.Form1.resources
+E:\HELP\DEVS\Mind Break\Main Menu\obj\x86\Release\sudoku_cs.Sudoku.resources
+E:\HELP\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.MainMenu.resources
+E:\HELP\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Information.resources
+E:\HELP\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Main_Menu.StartOver.resources
+E:\HELP\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Properties.Resources.resources
+E:\HELP\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.csproj.GenerateResource.Cache
+E:\HELP\DEVS\Mind Break\Main Menu\bin\Release\Main Menu.exe
+E:\HELP\DEVS\Mind Break\Main Menu\bin\Release\Main Menu.pdb
+E:\HELP\DEVS\Mind Break\Main Menu\bin\Release\Main Menu.exe.config
+C:\Users\Student\Downloads\DEVS\Mind Break\Main Menu\bin\Release\Main Menu.exe.config
+C:\Users\Student\Downloads\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.exe
+C:\Users\Student\Downloads\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.pdb
+C:\Users\Student\Downloads\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.csprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\DEVS\Mind Break\Main Menu\obj\x86\Release\Hangman.Hangman.resources
+C:\Users\Student\Downloads\DEVS\Mind Break\Main Menu\obj\x86\Release\PuzzleGame.PuzzleGame.resources
+C:\Users\Student\Downloads\DEVS\Mind Break\Main Menu\obj\x86\Release\sudoku_cs.Sudoku.resources
+C:\Users\Student\Downloads\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.MainMenu.resources
+C:\Users\Student\Downloads\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Information.resources
+C:\Users\Student\Downloads\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Properties.Resources.resources
+C:\Users\Student\Downloads\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.csproj.GenerateResource.Cache
+C:\Users\Student\Downloads\DEVS\Mind Break\Main Menu\obj\x86\Release\SnakeGame.SnakeClass.resources
+C:\Users\Student\Downloads\DEVS\Mind Break\Main Menu\bin\Release\Main Menu.exe
+C:\Users\Student\Downloads\DEVS\Mind Break\Main Menu\bin\Release\Main Menu.pdb
+E:\DEVS\Mind Break\Main Menu\bin\Release\Main Menu.exe.config
+E:\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.exe
+E:\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.pdb
+E:\DEVS\Mind Break\Main Menu\bin\Release\Main Menu.exe
+E:\DEVS\Mind Break\Main Menu\bin\Release\Main Menu.pdb
+E:\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.csprojResolveAssemblyReference.cache
+E:\DEVS\Mind Break\Main Menu\obj\x86\Release\Hangman.Hangman.resources
+E:\DEVS\Mind Break\Main Menu\obj\x86\Release\PuzzleGame.PuzzleGame.resources
+E:\DEVS\Mind Break\Main Menu\obj\x86\Release\SnakeGame.SnakeClass.resources
+E:\DEVS\Mind Break\Main Menu\obj\x86\Release\sudoku_cs.Sudoku.resources
+E:\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.MainMenu.resources
+E:\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Information.resources
+E:\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Properties.Resources.resources
+E:\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.csproj.GenerateResource.Cache
+C:\Users\Student\Downloads\DEVS (1)\DEVS\Mind Break\Main Menu\bin\Release\Main Menu.exe.config
+C:\Users\Student\Downloads\DEVS (1)\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.exe
+C:\Users\Student\Downloads\DEVS (1)\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.pdb
+C:\Users\Student\Downloads\DEVS (1)\DEVS\Mind Break\Main Menu\bin\Release\Main Menu.exe
+C:\Users\Student\Downloads\DEVS (1)\DEVS\Mind Break\Main Menu\bin\Release\Main Menu.pdb
+C:\Users\Student\Downloads\DEVS (1)\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.csprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\DEVS (1)\DEVS\Mind Break\Main Menu\obj\x86\Release\Hangman.Hangman.resources
+C:\Users\Student\Downloads\DEVS (1)\DEVS\Mind Break\Main Menu\obj\x86\Release\PuzzleGame.PuzzleGame.resources
+C:\Users\Student\Downloads\DEVS (1)\DEVS\Mind Break\Main Menu\obj\x86\Release\SnakeGame.SnakeClass.resources
+C:\Users\Student\Downloads\DEVS (1)\DEVS\Mind Break\Main Menu\obj\x86\Release\sudoku_cs.Sudoku.resources
+C:\Users\Student\Downloads\DEVS (1)\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.MainMenu.resources
+C:\Users\Student\Downloads\DEVS (1)\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Information.resources
+C:\Users\Student\Downloads\DEVS (1)\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Properties.Resources.resources
+C:\Users\Student\Downloads\DEVS (1)\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.csproj.GenerateResource.Cache
+C:\Users\Student\Downloads\DEVS\DEVS\Mind Break\Main Menu\bin\Release\Main Menu.exe.config
+C:\Users\Student\Downloads\DEVS\DEVS\Mind Break\Main Menu\obj\x86\Release\SnakeGame.SnakeClass.resources
+C:\Users\Student\Downloads\DEVS\DEVS\Mind Break\Main Menu\obj\x86\Release\sudoku_cs.Sudoku.resources
+E:\DEVS\Mind Break\Main Menu\obj\x86\Release\ReflectionIT.Minesweeper.MinesweeperForm.resources
+C:\Users\Student\Downloads\DEVS\DEVS\Mind Break\Main Menu\obj\x86\Release\ReflectionIT.Minesweeper.MinesweeperForm.resources
+C:\Users\Student\Downloads\DEVS\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.GAMES.Quiz.QuizEndGame.resources
+C:\Users\Student\Downloads\DEVS\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.GAMES.Quiz.QuizGame.resources
+C:\Users\Student\Downloads\DEVS\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.GAMES.Quiz.WinQuiz.resources
+E:\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.GAMES.Quiz.QuizEndGame.resources
+E:\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.GAMES.Quiz.QuizGame.resources
+E:\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.GAMES.Quiz.WinQuiz.resources
+E:\TEST INNO\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.csprojResolveAssemblyReference.cache
+E:\TEST INNO\DEVS\Mind Break\Main Menu\obj\x86\Release\Hangman.Hangman.resources
+E:\TEST INNO\DEVS\Mind Break\Main Menu\obj\x86\Release\ReflectionIT.Minesweeper.MinesweeperForm.resources
+E:\TEST INNO\DEVS\Mind Break\Main Menu\obj\x86\Release\PuzzleGame.PuzzleGame.resources
+E:\TEST INNO\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.GAMES.Quiz.QuizEndGame.resources
+E:\TEST INNO\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.GAMES.Quiz.QuizGame.resources
+E:\TEST INNO\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.GAMES.Quiz.WinQuiz.resources
+E:\TEST INNO\DEVS\Mind Break\Main Menu\obj\x86\Release\SnakeGame.SnakeClass.resources
+E:\TEST INNO\DEVS\Mind Break\Main Menu\obj\x86\Release\sudoku_cs.Sudoku.resources
+E:\TEST INNO\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Information.resources
+E:\TEST INNO\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Properties.Resources.resources
+E:\TEST INNO\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.csproj.GenerateResource.Cache
+E:\TEST INNO\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.MindBreak.resources
+E:\TEST INNO\DEVS\Mind Break\Main Menu\bin\Release\MindBreak.exe.config
+E:\TEST INNO\DEVS\Mind Break\Main Menu\bin\Release\MindBreak.exe
+E:\TEST INNO\DEVS\Mind Break\Main Menu\bin\Release\MindBreak.pdb
+E:\TEST INNO\DEVS\Mind Break\Main Menu\obj\x86\Release\MindBreak.exe
+E:\TEST INNO\DEVS\Mind Break\Main Menu\obj\x86\Release\MindBreak.pdb
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\bin\Release\MindBreak.exe.config
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\bin\Release\MindBreak.exe
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\bin\Release\MindBreak.pdb
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.csprojAssemblyReference.cache
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Release\Hangman.Hangman.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Release\ReflectionIT.Minesweeper.MinesweeperForm.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Release\PuzzleGame.PuzzleGame.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.GAMES.Quiz.QuizEndGame.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.GAMES.Quiz.QuizGame.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.GAMES.Quiz.WinQuiz.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Release\SnakeGame.SnakeClass.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Release\sudoku_cs.Sudoku.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.MindBreak.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Information.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Release\Mind_Break.Properties.Resources.resources
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.csproj.GenerateResource.cache
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Release\Main Menu.csproj.CoreCompileInputs.cache
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Release\MindBreak.exe
+C:\Users\nnn\source\repos\Csharp\School\FINAL-RU\DEVS\Mind Break\Main Menu\obj\x86\Release\MindBreak.pdb

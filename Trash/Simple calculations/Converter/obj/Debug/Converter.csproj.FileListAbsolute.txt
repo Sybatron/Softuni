@@ -1,0 +1,7 @@
+C:\Users\Sybatron\source\repos\Simple calculations\Converter\bin\Debug\Converter.exe.config
+C:\Users\Sybatron\source\repos\Simple calculations\Converter\bin\Debug\Converter.exe
+C:\Users\Sybatron\source\repos\Simple calculations\Converter\bin\Debug\Converter.pdb
+C:\Users\Sybatron\source\repos\Simple calculations\Converter\obj\Debug\Converter.csprojResolveAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Simple calculations\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Simple calculations\Converter\obj\Debug\Converter.exe
+C:\Users\Sybatron\source\repos\Simple calculations\Converter\obj\Debug\Converter.pdb

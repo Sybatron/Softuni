@@ -1,0 +1,10 @@
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_Generics\P04GenericSwapMethodIntegers\bin\Debug\netcoreapp2.2\P04GenericSwapMethodIntegers.deps.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_Generics\P04GenericSwapMethodIntegers\bin\Debug\netcoreapp2.2\P04GenericSwapMethodIntegers.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_Generics\P04GenericSwapMethodIntegers\bin\Debug\netcoreapp2.2\P04GenericSwapMethodIntegers.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_Generics\P04GenericSwapMethodIntegers\bin\Debug\netcoreapp2.2\P04GenericSwapMethodIntegers.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_Generics\P04GenericSwapMethodIntegers\bin\Debug\netcoreapp2.2\P04GenericSwapMethodIntegers.pdb
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_Generics\P04GenericSwapMethodIntegers\obj\Debug\netcoreapp2.2\P04GenericSwapMethodIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_Generics\P04GenericSwapMethodIntegers\obj\Debug\netcoreapp2.2\P04GenericSwapMethodIntegers.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_Generics\P04GenericSwapMethodIntegers\obj\Debug\netcoreapp2.2\P04GenericSwapMethodIntegers.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_Generics\P04GenericSwapMethodIntegers\obj\Debug\netcoreapp2.2\P04GenericSwapMethodIntegers.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_Generics\P04GenericSwapMethodIntegers\obj\Debug\netcoreapp2.2\P04GenericSwapMethodIntegers.pdb

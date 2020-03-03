@@ -1,0 +1,10 @@
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P05ComparingObjects\bin\Debug\netcoreapp2.1\P05ComparingObjects.deps.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P05ComparingObjects\bin\Debug\netcoreapp2.1\P05ComparingObjects.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P05ComparingObjects\bin\Debug\netcoreapp2.1\P05ComparingObjects.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P05ComparingObjects\bin\Debug\netcoreapp2.1\P05ComparingObjects.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P05ComparingObjects\bin\Debug\netcoreapp2.1\P05ComparingObjects.pdb
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P05ComparingObjects\obj\Debug\netcoreapp2.1\P05ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P05ComparingObjects\obj\Debug\netcoreapp2.1\P05ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P05ComparingObjects\obj\Debug\netcoreapp2.1\P05ComparingObjects.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P05ComparingObjects\obj\Debug\netcoreapp2.1\P05ComparingObjects.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P05ComparingObjects\obj\Debug\netcoreapp2.1\P05ComparingObjects.pdb

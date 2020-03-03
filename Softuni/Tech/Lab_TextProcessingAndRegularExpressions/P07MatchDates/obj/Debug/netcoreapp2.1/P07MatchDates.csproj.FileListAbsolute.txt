@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P07MatchDates\bin\Debug\netcoreapp2.1\P07MatchDates.deps.json
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P07MatchDates\bin\Debug\netcoreapp2.1\P07MatchDates.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P07MatchDates\bin\Debug\netcoreapp2.1\P07MatchDates.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P07MatchDates\bin\Debug\netcoreapp2.1\P07MatchDates.dll
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P07MatchDates\bin\Debug\netcoreapp2.1\P07MatchDates.pdb
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P07MatchDates\obj\Debug\netcoreapp2.1\P07MatchDates.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P07MatchDates\obj\Debug\netcoreapp2.1\P07MatchDates.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P07MatchDates\obj\Debug\netcoreapp2.1\P07MatchDates.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P07MatchDates\obj\Debug\netcoreapp2.1\P07MatchDates.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P07MatchDates\obj\Debug\netcoreapp2.1\P07MatchDates.dll
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P07MatchDates\obj\Debug\netcoreapp2.1\P07MatchDates.pdb

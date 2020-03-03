@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\TestFromLectures\T01Strings\bin\Debug\netcoreapp2.1\T01Strings.deps.json
+C:\Users\Sybatron\source\repos\TestFromLectures\T01Strings\bin\Debug\netcoreapp2.1\T01Strings.runtimeconfig.json
+C:\Users\Sybatron\source\repos\TestFromLectures\T01Strings\bin\Debug\netcoreapp2.1\T01Strings.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\TestFromLectures\T01Strings\bin\Debug\netcoreapp2.1\T01Strings.dll
+C:\Users\Sybatron\source\repos\TestFromLectures\T01Strings\bin\Debug\netcoreapp2.1\T01Strings.pdb
+C:\Users\Sybatron\source\repos\TestFromLectures\T01Strings\obj\Debug\netcoreapp2.1\T01Strings.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\TestFromLectures\T01Strings\obj\Debug\netcoreapp2.1\T01Strings.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\TestFromLectures\T01Strings\obj\Debug\netcoreapp2.1\T01Strings.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\TestFromLectures\T01Strings\obj\Debug\netcoreapp2.1\T01Strings.dll
+C:\Users\Sybatron\source\repos\TestFromLectures\T01Strings\obj\Debug\netcoreapp2.1\T01Strings.pdb
+C:\Users\Sybatron\source\repos\TestFromLectures\T01Strings\obj\Debug\netcoreapp2.1\T01Strings.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Sybatron\source\repos\Lab_Arrays\P07EqualArrays\bin\Debug\netcoreapp2.1\P07EqualArrays.deps.json
+C:\Users\Sybatron\source\repos\Lab_Arrays\P07EqualArrays\bin\Debug\netcoreapp2.1\P07EqualArrays.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Lab_Arrays\P07EqualArrays\bin\Debug\netcoreapp2.1\P07EqualArrays.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Lab_Arrays\P07EqualArrays\bin\Debug\netcoreapp2.1\P07EqualArrays.dll
+C:\Users\Sybatron\source\repos\Lab_Arrays\P07EqualArrays\bin\Debug\netcoreapp2.1\P07EqualArrays.pdb
+C:\Users\Sybatron\source\repos\Lab_Arrays\P07EqualArrays\obj\Debug\netcoreapp2.1\P07EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Lab_Arrays\P07EqualArrays\obj\Debug\netcoreapp2.1\P07EqualArrays.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Lab_Arrays\P07EqualArrays\obj\Debug\netcoreapp2.1\P07EqualArrays.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Lab_Arrays\P07EqualArrays\obj\Debug\netcoreapp2.1\P07EqualArrays.dll
+C:\Users\Sybatron\source\repos\Lab_Arrays\P07EqualArrays\obj\Debug\netcoreapp2.1\P07EqualArrays.pdb

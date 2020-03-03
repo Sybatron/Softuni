@@ -1,0 +1,11 @@
+C:\Users\nnn\source\repos\Csharp\Softuni\Exams\Tech_Exams\TechFinalExamCS_14-April-19_G1\P02OnTheWayToAnnapurna\bin\Debug\netcoreapp2.1\P02OnTheWayToAnnapurna.deps.json
+C:\Users\nnn\source\repos\Csharp\Softuni\Exams\Tech_Exams\TechFinalExamCS_14-April-19_G1\P02OnTheWayToAnnapurna\bin\Debug\netcoreapp2.1\P02OnTheWayToAnnapurna.runtimeconfig.json
+C:\Users\nnn\source\repos\Csharp\Softuni\Exams\Tech_Exams\TechFinalExamCS_14-April-19_G1\P02OnTheWayToAnnapurna\bin\Debug\netcoreapp2.1\P02OnTheWayToAnnapurna.runtimeconfig.dev.json
+C:\Users\nnn\source\repos\Csharp\Softuni\Exams\Tech_Exams\TechFinalExamCS_14-April-19_G1\P02OnTheWayToAnnapurna\bin\Debug\netcoreapp2.1\P02OnTheWayToAnnapurna.dll
+C:\Users\nnn\source\repos\Csharp\Softuni\Exams\Tech_Exams\TechFinalExamCS_14-April-19_G1\P02OnTheWayToAnnapurna\bin\Debug\netcoreapp2.1\P02OnTheWayToAnnapurna.pdb
+C:\Users\nnn\source\repos\Csharp\Softuni\Exams\Tech_Exams\TechFinalExamCS_14-April-19_G1\P02OnTheWayToAnnapurna\obj\Debug\netcoreapp2.1\P02OnTheWayToAnnapurna.csprojAssemblyReference.cache
+C:\Users\nnn\source\repos\Csharp\Softuni\Exams\Tech_Exams\TechFinalExamCS_14-April-19_G1\P02OnTheWayToAnnapurna\obj\Debug\netcoreapp2.1\P02OnTheWayToAnnapurna.csproj.CoreCompileInputs.cache
+C:\Users\nnn\source\repos\Csharp\Softuni\Exams\Tech_Exams\TechFinalExamCS_14-April-19_G1\P02OnTheWayToAnnapurna\obj\Debug\netcoreapp2.1\P02OnTheWayToAnnapurna.AssemblyInfoInputs.cache
+C:\Users\nnn\source\repos\Csharp\Softuni\Exams\Tech_Exams\TechFinalExamCS_14-April-19_G1\P02OnTheWayToAnnapurna\obj\Debug\netcoreapp2.1\P02OnTheWayToAnnapurna.AssemblyInfo.cs
+C:\Users\nnn\source\repos\Csharp\Softuni\Exams\Tech_Exams\TechFinalExamCS_14-April-19_G1\P02OnTheWayToAnnapurna\obj\Debug\netcoreapp2.1\P02OnTheWayToAnnapurna.dll
+C:\Users\nnn\source\repos\Csharp\Softuni\Exams\Tech_Exams\TechFinalExamCS_14-April-19_G1\P02OnTheWayToAnnapurna\obj\Debug\netcoreapp2.1\P02OnTheWayToAnnapurna.pdb

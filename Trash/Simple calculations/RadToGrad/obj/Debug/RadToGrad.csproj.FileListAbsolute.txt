@@ -1,0 +1,6 @@
+C:\Users\Sybatron\source\repos\Simple calculations\RadToGrad\bin\Debug\RadToGrad.exe.config
+C:\Users\Sybatron\source\repos\Simple calculations\RadToGrad\bin\Debug\RadToGrad.exe
+C:\Users\Sybatron\source\repos\Simple calculations\RadToGrad\bin\Debug\RadToGrad.pdb
+C:\Users\Sybatron\source\repos\Simple calculations\RadToGrad\obj\Debug\RadToGrad.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Simple calculations\RadToGrad\obj\Debug\RadToGrad.exe
+C:\Users\Sybatron\source\repos\Simple calculations\RadToGrad\obj\Debug\RadToGrad.pdb

@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Exercises_TextProcessingAndRegularExpressions\P09StarEnigma\bin\Debug\netcoreapp2.1\P09StarEnigma.deps.json
+C:\Users\Sybatron\source\repos\Exercises_TextProcessingAndRegularExpressions\P09StarEnigma\bin\Debug\netcoreapp2.1\P09StarEnigma.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Exercises_TextProcessingAndRegularExpressions\P09StarEnigma\bin\Debug\netcoreapp2.1\P09StarEnigma.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Exercises_TextProcessingAndRegularExpressions\P09StarEnigma\bin\Debug\netcoreapp2.1\P09StarEnigma.dll
+C:\Users\Sybatron\source\repos\Exercises_TextProcessingAndRegularExpressions\P09StarEnigma\bin\Debug\netcoreapp2.1\P09StarEnigma.pdb
+C:\Users\Sybatron\source\repos\Exercises_TextProcessingAndRegularExpressions\P09StarEnigma\obj\Debug\netcoreapp2.1\P09StarEnigma.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Exercises_TextProcessingAndRegularExpressions\P09StarEnigma\obj\Debug\netcoreapp2.1\P09StarEnigma.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Exercises_TextProcessingAndRegularExpressions\P09StarEnigma\obj\Debug\netcoreapp2.1\P09StarEnigma.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Exercises_TextProcessingAndRegularExpressions\P09StarEnigma\obj\Debug\netcoreapp2.1\P09StarEnigma.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Exercises_TextProcessingAndRegularExpressions\P09StarEnigma\obj\Debug\netcoreapp2.1\P09StarEnigma.dll
+C:\Users\Sybatron\source\repos\Exercises_TextProcessingAndRegularExpressions\P09StarEnigma\obj\Debug\netcoreapp2.1\P09StarEnigma.pdb

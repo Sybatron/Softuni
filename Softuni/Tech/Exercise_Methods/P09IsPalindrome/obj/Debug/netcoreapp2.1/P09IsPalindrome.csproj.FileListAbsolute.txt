@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Exercise_Methods\P09IsPalindrome\bin\Debug\netcoreapp2.1\P09IsPalindrome.deps.json
+C:\Users\Sybatron\source\repos\Exercise_Methods\P09IsPalindrome\bin\Debug\netcoreapp2.1\P09IsPalindrome.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Exercise_Methods\P09IsPalindrome\bin\Debug\netcoreapp2.1\P09IsPalindrome.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Exercise_Methods\P09IsPalindrome\bin\Debug\netcoreapp2.1\P09IsPalindrome.dll
+C:\Users\Sybatron\source\repos\Exercise_Methods\P09IsPalindrome\bin\Debug\netcoreapp2.1\P09IsPalindrome.pdb
+C:\Users\Sybatron\source\repos\Exercise_Methods\P09IsPalindrome\obj\Debug\netcoreapp2.1\P09IsPalindrome.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Exercise_Methods\P09IsPalindrome\obj\Debug\netcoreapp2.1\P09IsPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Exercise_Methods\P09IsPalindrome\obj\Debug\netcoreapp2.1\P09IsPalindrome.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Exercise_Methods\P09IsPalindrome\obj\Debug\netcoreapp2.1\P09IsPalindrome.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Exercise_Methods\P09IsPalindrome\obj\Debug\netcoreapp2.1\P09IsPalindrome.dll
+C:\Users\Sybatron\source\repos\Exercise_Methods\P09IsPalindrome\obj\Debug\netcoreapp2.1\P09IsPalindrome.pdb

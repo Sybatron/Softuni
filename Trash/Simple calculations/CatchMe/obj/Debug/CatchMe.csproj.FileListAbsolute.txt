@@ -1,0 +1,12 @@
+C:\Users\Sybatron\source\repos\Simple calculations\CatchMe\bin\Debug\CatchMe.exe.config
+C:\Users\Sybatron\source\repos\Simple calculations\CatchMe\bin\Debug\CatchMe.exe
+C:\Users\Sybatron\source\repos\Simple calculations\CatchMe\bin\Debug\CatchMe.pdb
+C:\Users\Sybatron\source\repos\Simple calculations\CatchMe\obj\Debug\CatchMe.csprojResolveAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Simple calculations\CatchMe\obj\Debug\CatchMe.Form1.resources
+C:\Users\Sybatron\source\repos\Simple calculations\CatchMe\obj\Debug\CatchMe.Properties.Resources.resources
+C:\Users\Sybatron\source\repos\Simple calculations\CatchMe\obj\Debug\CatchMe.csproj.GenerateResource.cache
+C:\Users\Sybatron\source\repos\Simple calculations\CatchMe\obj\Debug\CatchMe.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Simple calculations\CatchMe\obj\Debug\CatchMe.exe
+C:\Users\Sybatron\source\repos\Simple calculations\CatchMe\obj\Debug\CatchMe.pdb
+C:\Users\Sybatron\source\repos\Simple calculations\CatchMe\obj\Debug\CatchMe.CongratulationsForm.resources
+C:\Users\Sybatron\source\repos\Simple calculations\CatchMe\obj\Debug\CatchMe.Difficulty.resources

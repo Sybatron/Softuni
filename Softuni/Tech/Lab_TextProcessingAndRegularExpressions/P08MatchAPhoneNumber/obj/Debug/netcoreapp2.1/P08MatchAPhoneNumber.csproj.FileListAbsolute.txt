@@ -1,0 +1,10 @@
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P08MatchAPhoneNumber\bin\Debug\netcoreapp2.1\P08MatchAPhoneNumber.deps.json
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P08MatchAPhoneNumber\bin\Debug\netcoreapp2.1\P08MatchAPhoneNumber.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P08MatchAPhoneNumber\bin\Debug\netcoreapp2.1\P08MatchAPhoneNumber.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P08MatchAPhoneNumber\bin\Debug\netcoreapp2.1\P08MatchAPhoneNumber.dll
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P08MatchAPhoneNumber\bin\Debug\netcoreapp2.1\P08MatchAPhoneNumber.pdb
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P08MatchAPhoneNumber\obj\Debug\netcoreapp2.1\P08MatchAPhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P08MatchAPhoneNumber\obj\Debug\netcoreapp2.1\P08MatchAPhoneNumber.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P08MatchAPhoneNumber\obj\Debug\netcoreapp2.1\P08MatchAPhoneNumber.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P08MatchAPhoneNumber\obj\Debug\netcoreapp2.1\P08MatchAPhoneNumber.dll
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P08MatchAPhoneNumber\obj\Debug\netcoreapp2.1\P08MatchAPhoneNumber.pdb

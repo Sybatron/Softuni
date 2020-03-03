@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="01. Intro-and-Basic-Syntax-More-Exercise.docx" />
+    <None Remove="~%24. Intro-and-Basic-Syntax-More-Exercise.docx" />
+  </ItemGroup>
+
+</Project>

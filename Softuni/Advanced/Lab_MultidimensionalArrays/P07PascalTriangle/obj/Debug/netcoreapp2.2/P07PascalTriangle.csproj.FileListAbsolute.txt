@@ -1,0 +1,10 @@
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_MultidimensionalArrays\P07PascalTriangle\bin\Debug\netcoreapp2.2\P07PascalTriangle.deps.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_MultidimensionalArrays\P07PascalTriangle\bin\Debug\netcoreapp2.2\P07PascalTriangle.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_MultidimensionalArrays\P07PascalTriangle\bin\Debug\netcoreapp2.2\P07PascalTriangle.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_MultidimensionalArrays\P07PascalTriangle\bin\Debug\netcoreapp2.2\P07PascalTriangle.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_MultidimensionalArrays\P07PascalTriangle\bin\Debug\netcoreapp2.2\P07PascalTriangle.pdb
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_MultidimensionalArrays\P07PascalTriangle\obj\Debug\netcoreapp2.2\P07PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_MultidimensionalArrays\P07PascalTriangle\obj\Debug\netcoreapp2.2\P07PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_MultidimensionalArrays\P07PascalTriangle\obj\Debug\netcoreapp2.2\P07PascalTriangle.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_MultidimensionalArrays\P07PascalTriangle\obj\Debug\netcoreapp2.2\P07PascalTriangle.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_MultidimensionalArrays\P07PascalTriangle\obj\Debug\netcoreapp2.2\P07PascalTriangle.pdb

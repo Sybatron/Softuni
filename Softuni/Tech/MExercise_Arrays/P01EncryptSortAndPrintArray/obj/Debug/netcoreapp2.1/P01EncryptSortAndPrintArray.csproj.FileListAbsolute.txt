@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P01EncryptSortAndPrintArray\bin\Debug\netcoreapp2.1\P01EncryptSortAndPrintArray.deps.json
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P01EncryptSortAndPrintArray\bin\Debug\netcoreapp2.1\P01EncryptSortAndPrintArray.runtimeconfig.json
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P01EncryptSortAndPrintArray\bin\Debug\netcoreapp2.1\P01EncryptSortAndPrintArray.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P01EncryptSortAndPrintArray\bin\Debug\netcoreapp2.1\P01EncryptSortAndPrintArray.dll
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P01EncryptSortAndPrintArray\bin\Debug\netcoreapp2.1\P01EncryptSortAndPrintArray.pdb
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P01EncryptSortAndPrintArray\obj\Debug\netcoreapp2.1\P01EncryptSortAndPrintArray.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P01EncryptSortAndPrintArray\obj\Debug\netcoreapp2.1\P01EncryptSortAndPrintArray.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P01EncryptSortAndPrintArray\obj\Debug\netcoreapp2.1\P01EncryptSortAndPrintArray.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P01EncryptSortAndPrintArray\obj\Debug\netcoreapp2.1\P01EncryptSortAndPrintArray.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P01EncryptSortAndPrintArray\obj\Debug\netcoreapp2.1\P01EncryptSortAndPrintArray.dll
+C:\Users\Sybatron\source\repos\MExercise_Arrays\P01EncryptSortAndPrintArray\obj\Debug\netcoreapp2.1\P01EncryptSortAndPrintArray.pdb

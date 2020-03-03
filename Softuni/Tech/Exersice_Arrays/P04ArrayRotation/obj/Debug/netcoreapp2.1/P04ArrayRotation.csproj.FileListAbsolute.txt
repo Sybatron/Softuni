@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Exersice_Arrays\P04ArrayRotation\bin\Debug\netcoreapp2.1\P04ArrayRotation.deps.json
+C:\Users\Sybatron\source\repos\Exersice_Arrays\P04ArrayRotation\bin\Debug\netcoreapp2.1\P04ArrayRotation.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Exersice_Arrays\P04ArrayRotation\bin\Debug\netcoreapp2.1\P04ArrayRotation.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Exersice_Arrays\P04ArrayRotation\bin\Debug\netcoreapp2.1\P04ArrayRotation.dll
+C:\Users\Sybatron\source\repos\Exersice_Arrays\P04ArrayRotation\bin\Debug\netcoreapp2.1\P04ArrayRotation.pdb
+C:\Users\Sybatron\source\repos\Exersice_Arrays\P04ArrayRotation\obj\Debug\netcoreapp2.1\P04ArrayRotation.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Exersice_Arrays\P04ArrayRotation\obj\Debug\netcoreapp2.1\P04ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Exersice_Arrays\P04ArrayRotation\obj\Debug\netcoreapp2.1\P04ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Exersice_Arrays\P04ArrayRotation\obj\Debug\netcoreapp2.1\P04ArrayRotation.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Exersice_Arrays\P04ArrayRotation\obj\Debug\netcoreapp2.1\P04ArrayRotation.dll
+C:\Users\Sybatron\source\repos\Exersice_Arrays\P04ArrayRotation\obj\Debug\netcoreapp2.1\P04ArrayRotation.pdb

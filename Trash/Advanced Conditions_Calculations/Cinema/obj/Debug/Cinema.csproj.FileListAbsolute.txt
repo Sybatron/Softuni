@@ -1,0 +1,7 @@
+C:\Users\Sybatron\source\repos\Advanced Conditions_Calculations\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\Sybatron\source\repos\Advanced Conditions_Calculations\Cinema\bin\Debug\Cinema.exe
+C:\Users\Sybatron\source\repos\Advanced Conditions_Calculations\Cinema\bin\Debug\Cinema.pdb
+C:\Users\Sybatron\source\repos\Advanced Conditions_Calculations\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Advanced Conditions_Calculations\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Advanced Conditions_Calculations\Cinema\obj\Debug\Cinema.exe
+C:\Users\Sybatron\source\repos\Advanced Conditions_Calculations\Cinema\obj\Debug\Cinema.pdb

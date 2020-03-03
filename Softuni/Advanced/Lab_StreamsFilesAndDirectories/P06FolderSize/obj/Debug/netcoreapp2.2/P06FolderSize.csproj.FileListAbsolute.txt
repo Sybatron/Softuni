@@ -1,0 +1,42 @@
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\P06FolderSize.deps.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\P06FolderSize.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\P06FolderSize.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\P06FolderSize.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\P06FolderSize.pdb
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\obj\Debug\netcoreapp2.2\P06FolderSize.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\obj\Debug\netcoreapp2.2\P06FolderSize.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\obj\Debug\netcoreapp2.2\P06FolderSize.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\obj\Debug\netcoreapp2.2\P06FolderSize.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\obj\Debug\netcoreapp2.2\P06FolderSize.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\obj\Debug\netcoreapp2.2\P06FolderSize.pdb
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\gg.PNG
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\gg2.PNG
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\input1 - Copy (2).txt
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\input1 - Copy (3).txt
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\input1 - Copy (4).txt
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\input1 - Copy (5).txt
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\input1 - Copy (6).txt
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\input1 - Copy.txt
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\input1.txt
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\trash2\Capture.PNG
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\trash2\Capture2.PNG
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\trash2\dontAskMeWhy.PNG
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\trash2\Hilarious.PNG
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\trash2\HORNY.PNG
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\trash2\input1 - Copy (5).txt
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\trash2\input1 - Copy (6).txt
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\trash2\input1 - Copy.txt
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\trash2\input1.txt
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\trash2\part1.PNG
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\trash2\part2.PNG
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\trash2\part3.PNG
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\trash2\part4.PNG
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\trash2\part5.PNG
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\trash2\rename.PNG
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\trash2\SATAN.PNG
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\trash2\SEXY BABE.PNG
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\trash2\shop.PNG
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\trash2\WTF.PNG
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\trash2\wtf2.PNG
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\trash\anime.PNG
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P06FolderSize\bin\Debug\netcoreapp2.2\files\trash\input1 - Copy (5).txt

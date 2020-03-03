@@ -1,0 +1,7 @@
+C:\Users\Sybatron\source\repos\Simple calculations\Triangle area\bin\Debug\Triangle area.exe.config
+C:\Users\Sybatron\source\repos\Simple calculations\Triangle area\bin\Debug\Triangle area.exe
+C:\Users\Sybatron\source\repos\Simple calculations\Triangle area\bin\Debug\Triangle area.pdb
+C:\Users\Sybatron\source\repos\Simple calculations\Triangle area\obj\Debug\Triangle area.csprojResolveAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Simple calculations\Triangle area\obj\Debug\Triangle area.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Simple calculations\Triangle area\obj\Debug\Triangle area.exe
+C:\Users\Sybatron\source\repos\Simple calculations\Triangle area\obj\Debug\Triangle area.pdb

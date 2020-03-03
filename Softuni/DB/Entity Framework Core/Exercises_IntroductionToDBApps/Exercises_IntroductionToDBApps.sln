@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02VillainNames", "P02VillainNames\P02VillainNames.csproj", "{9C2453D8-DE70-483B-9F6E-E8533738A562}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03MinionNames", "P03MinionNames\P03MinionNames.csproj", "{D46A0952-FD9C-4FA3-B914-6003BE011AEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C2453D8-DE70-483B-9F6E-E8533738A562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C2453D8-DE70-483B-9F6E-E8533738A562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C2453D8-DE70-483B-9F6E-E8533738A562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C2453D8-DE70-483B-9F6E-E8533738A562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D46A0952-FD9C-4FA3-B914-6003BE011AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46A0952-FD9C-4FA3-B914-6003BE011AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46A0952-FD9C-4FA3-B914-6003BE011AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46A0952-FD9C-4FA3-B914-6003BE011AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE186C1E-2137-4AE6-B405-237DF2FD1F12}
+	EndGlobalSection
+EndGlobal

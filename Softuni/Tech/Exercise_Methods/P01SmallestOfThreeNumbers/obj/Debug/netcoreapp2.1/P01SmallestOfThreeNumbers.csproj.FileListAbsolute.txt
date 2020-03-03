@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Exercise_Methods\P01SmallestOfThreeNumbers\bin\Debug\netcoreapp2.1\P01SmallestOfThreeNumbers.deps.json
+C:\Users\Sybatron\source\repos\Exercise_Methods\P01SmallestOfThreeNumbers\bin\Debug\netcoreapp2.1\P01SmallestOfThreeNumbers.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Exercise_Methods\P01SmallestOfThreeNumbers\bin\Debug\netcoreapp2.1\P01SmallestOfThreeNumbers.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Exercise_Methods\P01SmallestOfThreeNumbers\bin\Debug\netcoreapp2.1\P01SmallestOfThreeNumbers.dll
+C:\Users\Sybatron\source\repos\Exercise_Methods\P01SmallestOfThreeNumbers\bin\Debug\netcoreapp2.1\P01SmallestOfThreeNumbers.pdb
+C:\Users\Sybatron\source\repos\Exercise_Methods\P01SmallestOfThreeNumbers\obj\Debug\netcoreapp2.1\P01SmallestOfThreeNumbers.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Exercise_Methods\P01SmallestOfThreeNumbers\obj\Debug\netcoreapp2.1\P01SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Exercise_Methods\P01SmallestOfThreeNumbers\obj\Debug\netcoreapp2.1\P01SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Exercise_Methods\P01SmallestOfThreeNumbers\obj\Debug\netcoreapp2.1\P01SmallestOfThreeNumbers.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Exercise_Methods\P01SmallestOfThreeNumbers\obj\Debug\netcoreapp2.1\P01SmallestOfThreeNumbers.dll
+C:\Users\Sybatron\source\repos\Exercise_Methods\P01SmallestOfThreeNumbers\obj\Debug\netcoreapp2.1\P01SmallestOfThreeNumbers.pdb

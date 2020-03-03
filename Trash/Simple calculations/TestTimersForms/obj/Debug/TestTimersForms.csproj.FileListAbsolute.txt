@@ -1,0 +1,10 @@
+C:\Users\Sybatron\source\repos\Simple calculations\TestTimersForms\bin\Debug\TestTimersForms.exe.config
+C:\Users\Sybatron\source\repos\Simple calculations\TestTimersForms\bin\Debug\TestTimersForms.exe
+C:\Users\Sybatron\source\repos\Simple calculations\TestTimersForms\bin\Debug\TestTimersForms.pdb
+C:\Users\Sybatron\source\repos\Simple calculations\TestTimersForms\obj\Debug\TestTimersForms.csprojResolveAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Simple calculations\TestTimersForms\obj\Debug\TestTimersForms.Form1.resources
+C:\Users\Sybatron\source\repos\Simple calculations\TestTimersForms\obj\Debug\TestTimersForms.Properties.Resources.resources
+C:\Users\Sybatron\source\repos\Simple calculations\TestTimersForms\obj\Debug\TestTimersForms.csproj.GenerateResource.cache
+C:\Users\Sybatron\source\repos\Simple calculations\TestTimersForms\obj\Debug\TestTimersForms.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Simple calculations\TestTimersForms\obj\Debug\TestTimersForms.exe
+C:\Users\Sybatron\source\repos\Simple calculations\TestTimersForms\obj\Debug\TestTimersForms.pdb

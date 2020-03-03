@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Exersice_Lists\P04ListOperations\bin\Debug\netcoreapp2.1\P04ListOperations.deps.json
+C:\Users\Sybatron\source\repos\Exersice_Lists\P04ListOperations\bin\Debug\netcoreapp2.1\P04ListOperations.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Exersice_Lists\P04ListOperations\bin\Debug\netcoreapp2.1\P04ListOperations.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Exersice_Lists\P04ListOperations\bin\Debug\netcoreapp2.1\P04ListOperations.dll
+C:\Users\Sybatron\source\repos\Exersice_Lists\P04ListOperations\bin\Debug\netcoreapp2.1\P04ListOperations.pdb
+C:\Users\Sybatron\source\repos\Exersice_Lists\P04ListOperations\obj\Debug\netcoreapp2.1\P04ListOperations.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Exersice_Lists\P04ListOperations\obj\Debug\netcoreapp2.1\P04ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Exersice_Lists\P04ListOperations\obj\Debug\netcoreapp2.1\P04ListOperations.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Exersice_Lists\P04ListOperations\obj\Debug\netcoreapp2.1\P04ListOperations.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Exersice_Lists\P04ListOperations\obj\Debug\netcoreapp2.1\P04ListOperations.dll
+C:\Users\Sybatron\source\repos\Exersice_Lists\P04ListOperations\obj\Debug\netcoreapp2.1\P04ListOperations.pdb

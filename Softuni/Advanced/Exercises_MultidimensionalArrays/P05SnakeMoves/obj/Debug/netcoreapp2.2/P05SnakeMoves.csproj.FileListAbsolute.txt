@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P05SnakeMoves\bin\Debug\netcoreapp2.2\P05SnakeMoves.deps.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P05SnakeMoves\bin\Debug\netcoreapp2.2\P05SnakeMoves.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P05SnakeMoves\bin\Debug\netcoreapp2.2\P05SnakeMoves.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P05SnakeMoves\bin\Debug\netcoreapp2.2\P05SnakeMoves.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P05SnakeMoves\bin\Debug\netcoreapp2.2\P05SnakeMoves.pdb
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P05SnakeMoves\obj\Debug\netcoreapp2.2\P05SnakeMoves.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P05SnakeMoves\obj\Debug\netcoreapp2.2\P05SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P05SnakeMoves\obj\Debug\netcoreapp2.2\P05SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P05SnakeMoves\obj\Debug\netcoreapp2.2\P05SnakeMoves.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P05SnakeMoves\obj\Debug\netcoreapp2.2\P05SnakeMoves.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_MultidimensionalArrays\P05SnakeMoves\obj\Debug\netcoreapp2.2\P05SnakeMoves.pdb

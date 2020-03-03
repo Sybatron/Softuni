@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_MultidimensionalArrays\P01SumMatrixElements\bin\Debug\netcoreapp2.2\P01SumMatrixElements.deps.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_MultidimensionalArrays\P01SumMatrixElements\bin\Debug\netcoreapp2.2\P01SumMatrixElements.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_MultidimensionalArrays\P01SumMatrixElements\bin\Debug\netcoreapp2.2\P01SumMatrixElements.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_MultidimensionalArrays\P01SumMatrixElements\bin\Debug\netcoreapp2.2\P01SumMatrixElements.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_MultidimensionalArrays\P01SumMatrixElements\bin\Debug\netcoreapp2.2\P01SumMatrixElements.pdb
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_MultidimensionalArrays\P01SumMatrixElements\obj\Debug\netcoreapp2.2\P01SumMatrixElements.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_MultidimensionalArrays\P01SumMatrixElements\obj\Debug\netcoreapp2.2\P01SumMatrixElements.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_MultidimensionalArrays\P01SumMatrixElements\obj\Debug\netcoreapp2.2\P01SumMatrixElements.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_MultidimensionalArrays\P01SumMatrixElements\obj\Debug\netcoreapp2.2\P01SumMatrixElements.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_MultidimensionalArrays\P01SumMatrixElements\obj\Debug\netcoreapp2.2\P01SumMatrixElements.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_MultidimensionalArrays\P01SumMatrixElements\obj\Debug\netcoreapp2.2\P01SumMatrixElements.pdb

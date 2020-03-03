@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P06EqualityLogic\bin\Debug\netcoreapp2.2\P06EqualityLogic.deps.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P06EqualityLogic\bin\Debug\netcoreapp2.2\P06EqualityLogic.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P06EqualityLogic\bin\Debug\netcoreapp2.2\P06EqualityLogic.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P06EqualityLogic\bin\Debug\netcoreapp2.2\P06EqualityLogic.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P06EqualityLogic\bin\Debug\netcoreapp2.2\P06EqualityLogic.pdb
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P06EqualityLogic\obj\Debug\netcoreapp2.2\P06EqualityLogic.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P06EqualityLogic\obj\Debug\netcoreapp2.2\P06EqualityLogic.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P06EqualityLogic\obj\Debug\netcoreapp2.2\P06EqualityLogic.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P06EqualityLogic\obj\Debug\netcoreapp2.2\P06EqualityLogic.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P06EqualityLogic\obj\Debug\netcoreapp2.2\P06EqualityLogic.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercise_IteratorsAndComparators\P06EqualityLogic\obj\Debug\netcoreapp2.2\P06EqualityLogic.pdb

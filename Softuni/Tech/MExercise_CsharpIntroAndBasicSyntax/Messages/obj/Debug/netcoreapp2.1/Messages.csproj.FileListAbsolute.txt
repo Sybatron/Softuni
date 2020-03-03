@@ -1,0 +1,10 @@
+C:\Users\Sybatron\source\repos\MExercise_CsharpIntroAndBasicSyntax\Messages\bin\Debug\netcoreapp2.1\Messages.deps.json
+C:\Users\Sybatron\source\repos\MExercise_CsharpIntroAndBasicSyntax\Messages\bin\Debug\netcoreapp2.1\Messages.runtimeconfig.json
+C:\Users\Sybatron\source\repos\MExercise_CsharpIntroAndBasicSyntax\Messages\bin\Debug\netcoreapp2.1\Messages.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\MExercise_CsharpIntroAndBasicSyntax\Messages\bin\Debug\netcoreapp2.1\Messages.dll
+C:\Users\Sybatron\source\repos\MExercise_CsharpIntroAndBasicSyntax\Messages\bin\Debug\netcoreapp2.1\Messages.pdb
+C:\Users\Sybatron\source\repos\MExercise_CsharpIntroAndBasicSyntax\Messages\obj\Debug\netcoreapp2.1\Messages.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\MExercise_CsharpIntroAndBasicSyntax\Messages\obj\Debug\netcoreapp2.1\Messages.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\MExercise_CsharpIntroAndBasicSyntax\Messages\obj\Debug\netcoreapp2.1\Messages.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\MExercise_CsharpIntroAndBasicSyntax\Messages\obj\Debug\netcoreapp2.1\Messages.dll
+C:\Users\Sybatron\source\repos\MExercise_CsharpIntroAndBasicSyntax\Messages\obj\Debug\netcoreapp2.1\Messages.pdb

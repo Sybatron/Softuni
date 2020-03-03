@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01PartyProfit", "P01PartyProfit\P01PartyProfit.csproj", "{41BF920A-2B94-49EA-9CE9-6BBC3B7EF776}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C16EDD81-8990-40FD-900A-F40E4E499BE2}"
+	ProjectSection(SolutionItems) = preProject
+		01. Party Profit_01. Party Profit.docx = 01. Party Profit_01. Party Profit.docx
+		02. Dungeonest Dark_02. Dungeonest Dark.docx = 02. Dungeonest Dark_02. Dungeonest Dark.docx
+		03. Quests Journal_03. Quests Journal.docx = 03. Quests Journal_03. Quests Journal.docx
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02DungeonestDark", "P02DungeonestDark\P02DungeonestDark.csproj", "{9AD2ABB8-98DD-4F94-B4DA-F2922B6EDA9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03QuestsJournal", "P03QuestsJournal\P03QuestsJournal.csproj", "{06A5F242-CA14-41C1-89CC-A986E849C72F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41BF920A-2B94-49EA-9CE9-6BBC3B7EF776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41BF920A-2B94-49EA-9CE9-6BBC3B7EF776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41BF920A-2B94-49EA-9CE9-6BBC3B7EF776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41BF920A-2B94-49EA-9CE9-6BBC3B7EF776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD2ABB8-98DD-4F94-B4DA-F2922B6EDA9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD2ABB8-98DD-4F94-B4DA-F2922B6EDA9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD2ABB8-98DD-4F94-B4DA-F2922B6EDA9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD2ABB8-98DD-4F94-B4DA-F2922B6EDA9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06A5F242-CA14-41C1-89CC-A986E849C72F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06A5F242-CA14-41C1-89CC-A986E849C72F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06A5F242-CA14-41C1-89CC-A986E849C72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06A5F242-CA14-41C1-89CC-A986E849C72F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DEB3549-008B-42D9-89B2-0F8DFDD0006E}
+	EndGlobalSection
+EndGlobal

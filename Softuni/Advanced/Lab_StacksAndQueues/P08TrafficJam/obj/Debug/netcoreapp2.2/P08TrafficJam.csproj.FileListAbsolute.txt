@@ -1,0 +1,10 @@
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StacksAndQueues\P08TrafficJam\bin\Debug\netcoreapp2.2\P08TrafficJam.deps.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StacksAndQueues\P08TrafficJam\bin\Debug\netcoreapp2.2\P08TrafficJam.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StacksAndQueues\P08TrafficJam\bin\Debug\netcoreapp2.2\P08TrafficJam.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StacksAndQueues\P08TrafficJam\bin\Debug\netcoreapp2.2\P08TrafficJam.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StacksAndQueues\P08TrafficJam\bin\Debug\netcoreapp2.2\P08TrafficJam.pdb
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StacksAndQueues\P08TrafficJam\obj\Debug\netcoreapp2.2\P08TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StacksAndQueues\P08TrafficJam\obj\Debug\netcoreapp2.2\P08TrafficJam.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StacksAndQueues\P08TrafficJam\obj\Debug\netcoreapp2.2\P08TrafficJam.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StacksAndQueues\P08TrafficJam\obj\Debug\netcoreapp2.2\P08TrafficJam.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StacksAndQueues\P08TrafficJam\obj\Debug\netcoreapp2.2\P08TrafficJam.pdb

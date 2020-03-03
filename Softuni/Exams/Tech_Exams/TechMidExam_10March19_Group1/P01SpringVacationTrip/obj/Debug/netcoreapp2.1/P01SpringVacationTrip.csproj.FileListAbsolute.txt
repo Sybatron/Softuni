@@ -1,0 +1,11 @@
+C:\Users\nnn\source\repos\MidExams\TechMidExam_10March19_Group1\P01SpringVacationTrip\bin\Debug\netcoreapp2.1\P01SpringVacationTrip.deps.json
+C:\Users\nnn\source\repos\MidExams\TechMidExam_10March19_Group1\P01SpringVacationTrip\bin\Debug\netcoreapp2.1\P01SpringVacationTrip.runtimeconfig.json
+C:\Users\nnn\source\repos\MidExams\TechMidExam_10March19_Group1\P01SpringVacationTrip\bin\Debug\netcoreapp2.1\P01SpringVacationTrip.runtimeconfig.dev.json
+C:\Users\nnn\source\repos\MidExams\TechMidExam_10March19_Group1\P01SpringVacationTrip\bin\Debug\netcoreapp2.1\P01SpringVacationTrip.dll
+C:\Users\nnn\source\repos\MidExams\TechMidExam_10March19_Group1\P01SpringVacationTrip\bin\Debug\netcoreapp2.1\P01SpringVacationTrip.pdb
+C:\Users\nnn\source\repos\MidExams\TechMidExam_10March19_Group1\P01SpringVacationTrip\obj\Debug\netcoreapp2.1\P01SpringVacationTrip.csprojAssemblyReference.cache
+C:\Users\nnn\source\repos\MidExams\TechMidExam_10March19_Group1\P01SpringVacationTrip\obj\Debug\netcoreapp2.1\P01SpringVacationTrip.csproj.CoreCompileInputs.cache
+C:\Users\nnn\source\repos\MidExams\TechMidExam_10March19_Group1\P01SpringVacationTrip\obj\Debug\netcoreapp2.1\P01SpringVacationTrip.AssemblyInfoInputs.cache
+C:\Users\nnn\source\repos\MidExams\TechMidExam_10March19_Group1\P01SpringVacationTrip\obj\Debug\netcoreapp2.1\P01SpringVacationTrip.AssemblyInfo.cs
+C:\Users\nnn\source\repos\MidExams\TechMidExam_10March19_Group1\P01SpringVacationTrip\obj\Debug\netcoreapp2.1\P01SpringVacationTrip.dll
+C:\Users\nnn\source\repos\MidExams\TechMidExam_10March19_Group1\P01SpringVacationTrip\obj\Debug\netcoreapp2.1\P01SpringVacationTrip.pdb

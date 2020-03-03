@@ -1,0 +1,7 @@
+C:\Users\Sybatron\source\repos\Simple calculations\Bonus Points\bin\Debug\Bonus Points.exe.config
+C:\Users\Sybatron\source\repos\Simple calculations\Bonus Points\bin\Debug\Bonus Points.exe
+C:\Users\Sybatron\source\repos\Simple calculations\Bonus Points\bin\Debug\Bonus Points.pdb
+C:\Users\Sybatron\source\repos\Simple calculations\Bonus Points\obj\Debug\Bonus Points.csprojResolveAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Simple calculations\Bonus Points\obj\Debug\Bonus Points.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Simple calculations\Bonus Points\obj\Debug\Bonus Points.exe
+C:\Users\Sybatron\source\repos\Simple calculations\Bonus Points\obj\Debug\Bonus Points.pdb

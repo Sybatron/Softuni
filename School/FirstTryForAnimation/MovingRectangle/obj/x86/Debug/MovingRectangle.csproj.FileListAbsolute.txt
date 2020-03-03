@@ -1,0 +1,7 @@
+F:\Students\Informatika\10v\FirstTryForAnimation\MovingRectangle\bin\Debug\MovingRectangle.exe
+F:\Students\Informatika\10v\FirstTryForAnimation\MovingRectangle\bin\Debug\MovingRectangle.pdb
+F:\Students\Informatika\10v\FirstTryForAnimation\MovingRectangle\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Students\Informatika\10v\FirstTryForAnimation\MovingRectangle\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Students\Informatika\10v\FirstTryForAnimation\MovingRectangle\obj\x86\Debug\MovingRectangle.csproj.GenerateResource.Cache
+F:\Students\Informatika\10v\FirstTryForAnimation\MovingRectangle\obj\x86\Debug\MovingRectangle.exe
+F:\Students\Informatika\10v\FirstTryForAnimation\MovingRectangle\obj\x86\Debug\MovingRectangle.pdb

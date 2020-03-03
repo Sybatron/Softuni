@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P01ReverseStrings\bin\Debug\netcoreapp2.1\P01ReverseStrings.deps.json
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P01ReverseStrings\bin\Debug\netcoreapp2.1\P01ReverseStrings.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P01ReverseStrings\bin\Debug\netcoreapp2.1\P01ReverseStrings.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P01ReverseStrings\bin\Debug\netcoreapp2.1\P01ReverseStrings.dll
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P01ReverseStrings\bin\Debug\netcoreapp2.1\P01ReverseStrings.pdb
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P01ReverseStrings\obj\Debug\netcoreapp2.1\P01ReverseStrings.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P01ReverseStrings\obj\Debug\netcoreapp2.1\P01ReverseStrings.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P01ReverseStrings\obj\Debug\netcoreapp2.1\P01ReverseStrings.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P01ReverseStrings\obj\Debug\netcoreapp2.1\P01ReverseStrings.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P01ReverseStrings\obj\Debug\netcoreapp2.1\P01ReverseStrings.dll
+C:\Users\Sybatron\source\repos\Lab_TextProcessingAndRegularExpressions\P01ReverseStrings\obj\Debug\netcoreapp2.1\P01ReverseStrings.pdb

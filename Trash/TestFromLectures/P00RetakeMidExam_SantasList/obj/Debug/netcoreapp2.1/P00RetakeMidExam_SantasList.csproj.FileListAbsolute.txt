@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\TestFromLectures\P00RetakeMidExam_SantasList\bin\Debug\netcoreapp2.1\P00RetakeMidExam_SantasList.deps.json
+C:\Users\Sybatron\source\repos\TestFromLectures\P00RetakeMidExam_SantasList\bin\Debug\netcoreapp2.1\P00RetakeMidExam_SantasList.runtimeconfig.json
+C:\Users\Sybatron\source\repos\TestFromLectures\P00RetakeMidExam_SantasList\bin\Debug\netcoreapp2.1\P00RetakeMidExam_SantasList.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\TestFromLectures\P00RetakeMidExam_SantasList\bin\Debug\netcoreapp2.1\P00RetakeMidExam_SantasList.dll
+C:\Users\Sybatron\source\repos\TestFromLectures\P00RetakeMidExam_SantasList\bin\Debug\netcoreapp2.1\P00RetakeMidExam_SantasList.pdb
+C:\Users\Sybatron\source\repos\TestFromLectures\P00RetakeMidExam_SantasList\obj\Debug\netcoreapp2.1\P00RetakeMidExam_SantasList.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\TestFromLectures\P00RetakeMidExam_SantasList\obj\Debug\netcoreapp2.1\P00RetakeMidExam_SantasList.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\TestFromLectures\P00RetakeMidExam_SantasList\obj\Debug\netcoreapp2.1\P00RetakeMidExam_SantasList.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\TestFromLectures\P00RetakeMidExam_SantasList\obj\Debug\netcoreapp2.1\P00RetakeMidExam_SantasList.dll
+C:\Users\Sybatron\source\repos\TestFromLectures\P00RetakeMidExam_SantasList\obj\Debug\netcoreapp2.1\P00RetakeMidExam_SantasList.pdb
+C:\Users\Sybatron\source\repos\TestFromLectures\P00RetakeMidExam_SantasList\obj\Debug\netcoreapp2.1\P00RetakeMidExam_SantasList.csprojAssemblyReference.cache

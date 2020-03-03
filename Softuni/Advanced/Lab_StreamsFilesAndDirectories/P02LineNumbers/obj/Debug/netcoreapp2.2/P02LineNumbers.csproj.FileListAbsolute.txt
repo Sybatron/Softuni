@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P02LineNumbers\bin\Debug\netcoreapp2.2\files\input.txt
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P02LineNumbers\bin\Debug\netcoreapp2.2\P02LineNumbers.deps.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P02LineNumbers\bin\Debug\netcoreapp2.2\P02LineNumbers.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P02LineNumbers\bin\Debug\netcoreapp2.2\P02LineNumbers.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P02LineNumbers\bin\Debug\netcoreapp2.2\P02LineNumbers.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P02LineNumbers\bin\Debug\netcoreapp2.2\P02LineNumbers.pdb
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P02LineNumbers\obj\Debug\netcoreapp2.2\P02LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P02LineNumbers\obj\Debug\netcoreapp2.2\P02LineNumbers.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P02LineNumbers\obj\Debug\netcoreapp2.2\P02LineNumbers.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P02LineNumbers\obj\Debug\netcoreapp2.2\P02LineNumbers.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Lab_StreamsFilesAndDirectories\P02LineNumbers\obj\Debug\netcoreapp2.2\P02LineNumbers.pdb

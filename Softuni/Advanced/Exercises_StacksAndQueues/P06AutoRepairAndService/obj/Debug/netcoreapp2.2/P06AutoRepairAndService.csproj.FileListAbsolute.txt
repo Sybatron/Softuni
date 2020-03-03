@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P06AutoRepairAndService\bin\Debug\netcoreapp2.2\P06AutoRepairAndService.deps.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P06AutoRepairAndService\bin\Debug\netcoreapp2.2\P06AutoRepairAndService.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P06AutoRepairAndService\bin\Debug\netcoreapp2.2\P06AutoRepairAndService.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P06AutoRepairAndService\bin\Debug\netcoreapp2.2\P06AutoRepairAndService.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P06AutoRepairAndService\bin\Debug\netcoreapp2.2\P06AutoRepairAndService.pdb
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P06AutoRepairAndService\obj\Debug\netcoreapp2.2\P06AutoRepairAndService.csprojAssemblyReference.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P06AutoRepairAndService\obj\Debug\netcoreapp2.2\P06AutoRepairAndService.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P06AutoRepairAndService\obj\Debug\netcoreapp2.2\P06AutoRepairAndService.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P06AutoRepairAndService\obj\Debug\netcoreapp2.2\P06AutoRepairAndService.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P06AutoRepairAndService\obj\Debug\netcoreapp2.2\P06AutoRepairAndService.dll
+C:\Users\Sybatron\source\repos\Csharp\Softuni\Advanced\Exercises_StacksAndQueues\P06AutoRepairAndService\obj\Debug\netcoreapp2.2\P06AutoRepairAndService.pdb

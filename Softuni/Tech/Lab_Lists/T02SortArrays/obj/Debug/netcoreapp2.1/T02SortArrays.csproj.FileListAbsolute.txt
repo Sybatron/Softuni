@@ -1,0 +1,11 @@
+C:\Users\Sybatron\source\repos\Lab_Lists\T02SortArrays\bin\Debug\netcoreapp2.1\T02SortArrays.deps.json
+C:\Users\Sybatron\source\repos\Lab_Lists\T02SortArrays\bin\Debug\netcoreapp2.1\T02SortArrays.runtimeconfig.json
+C:\Users\Sybatron\source\repos\Lab_Lists\T02SortArrays\bin\Debug\netcoreapp2.1\T02SortArrays.runtimeconfig.dev.json
+C:\Users\Sybatron\source\repos\Lab_Lists\T02SortArrays\bin\Debug\netcoreapp2.1\T02SortArrays.dll
+C:\Users\Sybatron\source\repos\Lab_Lists\T02SortArrays\bin\Debug\netcoreapp2.1\T02SortArrays.pdb
+C:\Users\Sybatron\source\repos\Lab_Lists\T02SortArrays\obj\Debug\netcoreapp2.1\T02SortArrays.csproj.CoreCompileInputs.cache
+C:\Users\Sybatron\source\repos\Lab_Lists\T02SortArrays\obj\Debug\netcoreapp2.1\T02SortArrays.AssemblyInfoInputs.cache
+C:\Users\Sybatron\source\repos\Lab_Lists\T02SortArrays\obj\Debug\netcoreapp2.1\T02SortArrays.AssemblyInfo.cs
+C:\Users\Sybatron\source\repos\Lab_Lists\T02SortArrays\obj\Debug\netcoreapp2.1\T02SortArrays.dll
+C:\Users\Sybatron\source\repos\Lab_Lists\T02SortArrays\obj\Debug\netcoreapp2.1\T02SortArrays.pdb
+C:\Users\Sybatron\source\repos\Lab_Lists\T02SortArrays\obj\Debug\netcoreapp2.1\T02SortArrays.csprojAssemblyReference.cache
