@@ -1,7 +1,0 @@
-C:\Users\Sybatron\source\repos\Simple calculations\Change Tiles\bin\Debug\Change Tiles.exe.config
-C:\Users\Sybatron\source\repos\Simple calculations\Change Tiles\bin\Debug\Change Tiles.exe
-C:\Users\Sybatron\source\repos\Simple calculations\Change Tiles\bin\Debug\Change Tiles.pdb
-C:\Users\Sybatron\source\repos\Simple calculations\Change Tiles\obj\Debug\Change Tiles.csprojResolveAssemblyReference.cache
-C:\Users\Sybatron\source\repos\Simple calculations\Change Tiles\obj\Debug\Change Tiles.csproj.CoreCompileInputs.cache
-C:\Users\Sybatron\source\repos\Simple calculations\Change Tiles\obj\Debug\Change Tiles.exe
-C:\Users\Sybatron\source\repos\Simple calculations\Change Tiles\obj\Debug\Change Tiles.pdb

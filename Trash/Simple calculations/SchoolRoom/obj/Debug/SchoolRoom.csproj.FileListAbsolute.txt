@@ -1,7 +1,0 @@
-C:\Users\Sybatron\source\repos\Simple calculations\SchoolRoom\bin\Debug\SchoolRoom.exe.config
-C:\Users\Sybatron\source\repos\Simple calculations\SchoolRoom\bin\Debug\SchoolRoom.exe
-C:\Users\Sybatron\source\repos\Simple calculations\SchoolRoom\bin\Debug\SchoolRoom.pdb
-C:\Users\Sybatron\source\repos\Simple calculations\SchoolRoom\obj\Debug\SchoolRoom.csprojResolveAssemblyReference.cache
-C:\Users\Sybatron\source\repos\Simple calculations\SchoolRoom\obj\Debug\SchoolRoom.csproj.CoreCompileInputs.cache
-C:\Users\Sybatron\source\repos\Simple calculations\SchoolRoom\obj\Debug\SchoolRoom.exe
-C:\Users\Sybatron\source\repos\Simple calculations\SchoolRoom\obj\Debug\SchoolRoom.pdb

@@ -1,6 +1,0 @@
-C:\Users\nnn\source\repos\MostFound3SymbolText\MostFound3SymbolText\bin\Debug\MostFound3SymbolText.exe
-C:\Users\nnn\source\repos\MostFound3SymbolText\MostFound3SymbolText\bin\Debug\MostFound3SymbolText.pdb
-C:\Users\nnn\source\repos\MostFound3SymbolText\MostFound3SymbolText\obj\Debug\MostFound3SymbolText.csprojAssemblyReference.cache
-C:\Users\nnn\source\repos\MostFound3SymbolText\MostFound3SymbolText\obj\Debug\MostFound3SymbolText.csproj.CoreCompileInputs.cache
-C:\Users\nnn\source\repos\MostFound3SymbolText\MostFound3SymbolText\obj\Debug\MostFound3SymbolText.exe
-C:\Users\nnn\source\repos\MostFound3SymbolText\MostFound3SymbolText\obj\Debug\MostFound3SymbolText.pdb

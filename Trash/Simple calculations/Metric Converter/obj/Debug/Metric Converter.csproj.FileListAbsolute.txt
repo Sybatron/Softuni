@@ -1,6 +1,0 @@
-C:\Users\Sybatron\source\repos\Simple calculations\Metric Converter\bin\Debug\Metric Converter.exe.config
-C:\Users\Sybatron\source\repos\Simple calculations\Metric Converter\bin\Debug\Metric Converter.exe
-C:\Users\Sybatron\source\repos\Simple calculations\Metric Converter\bin\Debug\Metric Converter.pdb
-C:\Users\Sybatron\source\repos\Simple calculations\Metric Converter\obj\Debug\Metric Converter.csproj.CoreCompileInputs.cache
-C:\Users\Sybatron\source\repos\Simple calculations\Metric Converter\obj\Debug\Metric Converter.exe
-C:\Users\Sybatron\source\repos\Simple calculations\Metric Converter\obj\Debug\Metric Converter.pdb

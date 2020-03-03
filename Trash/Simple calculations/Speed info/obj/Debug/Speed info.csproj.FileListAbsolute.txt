@@ -1,7 +1,0 @@
-C:\Users\Sybatron\source\repos\Simple calculations\Speed info\bin\Debug\Speed info.exe.config
-C:\Users\Sybatron\source\repos\Simple calculations\Speed info\bin\Debug\Speed info.exe
-C:\Users\Sybatron\source\repos\Simple calculations\Speed info\bin\Debug\Speed info.pdb
-C:\Users\Sybatron\source\repos\Simple calculations\Speed info\obj\Debug\Speed info.csprojResolveAssemblyReference.cache
-C:\Users\Sybatron\source\repos\Simple calculations\Speed info\obj\Debug\Speed info.csproj.CoreCompileInputs.cache
-C:\Users\Sybatron\source\repos\Simple calculations\Speed info\obj\Debug\Speed info.exe
-C:\Users\Sybatron\source\repos\Simple calculations\Speed info\obj\Debug\Speed info.pdb

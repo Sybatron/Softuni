@@ -1,7 +1,0 @@
-F:\Students\Informatika\10v\FirstTryForAnimation\CustomAnimation\bin\Debug\CustomAnimation.exe
-F:\Students\Informatika\10v\FirstTryForAnimation\CustomAnimation\bin\Debug\CustomAnimation.pdb
-F:\Students\Informatika\10v\FirstTryForAnimation\CustomAnimation\obj\x86\Debug\CustomAnimation.Form1.resources
-F:\Students\Informatika\10v\FirstTryForAnimation\CustomAnimation\obj\x86\Debug\CustomAnimation.Properties.Resources.resources
-F:\Students\Informatika\10v\FirstTryForAnimation\CustomAnimation\obj\x86\Debug\CustomAnimation.csproj.GenerateResource.Cache
-F:\Students\Informatika\10v\FirstTryForAnimation\CustomAnimation\obj\x86\Debug\CustomAnimation.exe
-F:\Students\Informatika\10v\FirstTryForAnimation\CustomAnimation\obj\x86\Debug\CustomAnimation.pdb

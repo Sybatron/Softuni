@@ -1,7 +1,0 @@
-C:\Users\Sybatron\source\repos\Simple calculations\Daily earnings\bin\Debug\Daily earnings.exe.config
-C:\Users\Sybatron\source\repos\Simple calculations\Daily earnings\bin\Debug\Daily earnings.exe
-C:\Users\Sybatron\source\repos\Simple calculations\Daily earnings\bin\Debug\Daily earnings.pdb
-C:\Users\Sybatron\source\repos\Simple calculations\Daily earnings\obj\Debug\Daily earnings.csprojResolveAssemblyReference.cache
-C:\Users\Sybatron\source\repos\Simple calculations\Daily earnings\obj\Debug\Daily earnings.csproj.CoreCompileInputs.cache
-C:\Users\Sybatron\source\repos\Simple calculations\Daily earnings\obj\Debug\Daily earnings.exe
-C:\Users\Sybatron\source\repos\Simple calculations\Daily earnings\obj\Debug\Daily earnings.pdb
