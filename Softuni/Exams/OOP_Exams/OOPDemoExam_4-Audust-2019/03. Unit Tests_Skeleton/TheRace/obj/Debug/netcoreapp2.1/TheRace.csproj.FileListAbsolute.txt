@@ -1,9 +1,0 @@
-C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\OOP_Exams\OOPDemoExam_4-Audust-2019\03. Unit Tests_Skeleton\TheRace\bin\Debug\netcoreapp2.1\TheRace.deps.json
-C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\OOP_Exams\OOPDemoExam_4-Audust-2019\03. Unit Tests_Skeleton\TheRace\bin\Debug\netcoreapp2.1\TheRace.dll
-C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\OOP_Exams\OOPDemoExam_4-Audust-2019\03. Unit Tests_Skeleton\TheRace\bin\Debug\netcoreapp2.1\TheRace.pdb
-C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\OOP_Exams\OOPDemoExam_4-Audust-2019\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.csprojAssemblyReference.cache
-C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\OOP_Exams\OOPDemoExam_4-Audust-2019\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.csproj.CoreCompileInputs.cache
-C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\OOP_Exams\OOPDemoExam_4-Audust-2019\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.AssemblyInfoInputs.cache
-C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\OOP_Exams\OOPDemoExam_4-Audust-2019\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.AssemblyInfo.cs
-C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\OOP_Exams\OOPDemoExam_4-Audust-2019\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.dll
-C:\Users\nnn\source\repos\Github\Csharp\Softuni\Exams\OOP_Exams\OOPDemoExam_4-Audust-2019\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.pdb
