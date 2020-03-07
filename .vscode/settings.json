@@ -29,7 +29,13 @@
       "color": "#98C379",
       "strikethrough": false,
       "backgroundColor": "transparent"
-    }
+    },
+    {
+      "tag": "_expect",
+      "color": "#80194C",
+      "strikethrough": false,
+      "backgroundColor": "transparent"
+    },
   ],
   "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
   "material-icon-theme.folders.color": "#1f8eed"
