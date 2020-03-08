@@ -1,24 +1,21 @@
-(function solve() {
-    Array.prototype.last = () => {
+(() => {
+    Array.prototype.last = function () {
         return this[this.length - 1];
     };
 
-    Array.prototype.skip = n => {
-        return this.slice(n - 1, this.length);
+    Array.prototype.skip = function (n) {
+        return this.slice(n);
     };
 
-    Array.prototype.take = n => {
-        return this.slice(0, n - 1);
+    Array.prototype.take = function (n) {
+        return this.slice(0, n);
     };
 
-    Array.prototype.sum = () => {
+    Array.prototype.sum = function () {
         return this.reduce((a, b) => a + b, 0);
     };
 
-    Array.prototype.avarage = () => {
+    Array.prototype.average = function () {
         return this.sum() / this.length;
     };
-}());
-
-let arr = [1, 2, 3];
-console.log(arr.last());
+})();
