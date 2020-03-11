@@ -43,7 +43,7 @@
       "backgroundColor": "transparent"
     },
     {
-      "tag": "_errorMSG",
+      "tag": "_error",
       "color": "#BD4E5E",
       "strikethrough": false,
       "backgroundColor": "transparent"
