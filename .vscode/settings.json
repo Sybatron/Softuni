@@ -1,4 +1,30 @@
 {
+  "files.autoSave": "afterDelay",
+  "python.pythonPath": "C:\\Users\\Sybatron\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.tabCompletion": "on",
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "remimarsal.prettier-now"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "remimarsal.prettier-now"
+  },
+
+  "prettier.singleQuote": true,
+  "prettier.useTabs": true,
+  "prettier.alignObjectProperties": true,
+  "prettier.arrayExpand": true,
+  "prettier.breakProperty": true,
+  "prettier.printWidth": 80,
+
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "gitlens.hovers.currentLine.over": "line",
+  "git-graph.dialog.merge.squashCommits": true,
+  "git-graph.fetchAvatars": true,
+
   "better-comments.multilineComments": true,
   "better-comments.tags": [{
       "tag": "!",
@@ -51,5 +77,10 @@
   ],
   "better-comments.highlightPlainText": true,
   "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
-  "material-icon-theme.folders.color": "#1f8eed"
+  "material-icon-theme.folders.color": "#1f8eed",
+
+  "material-icon-theme.activeIconPack": "angular",
+  "material-icon-theme.folders.theme": "specific",
+  "material-icon-theme.saturation": 1,
+  "workbench.colorTheme": "Horizon",
 }
