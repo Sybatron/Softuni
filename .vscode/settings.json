@@ -1,5 +1,6 @@
  {
    "files.autoSave": "afterDelay",
+   "files.autoSaveDelay": 2000,
    "python.pythonPath": "C:\\Users\\Sybatron\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
    " workbench.iconTheme": "material-icon-theme",
    "editor.tabCompletion": "on",
@@ -8,16 +9,18 @@
    "[javascript]": {
      "editor.defaultFormatter": "remimarsal.prettier-now"
    },
-   "[jsonc]": {
+   "[html]": {
      "editor.defaultFormatter": "remimarsal.prettier-now"
    },
 
+   "cSpell.language": "en",
    "prettier.singleQuote": true,
    "prettier.useTabs": true,
    "prettier.alignObjectProperties": true,
    "prettier.arrayExpand": false,
    "prettier.breakProperty": true,
    "prettier.printWidth": 80,
+   "html.format.enable": true,
 
    "editor.suggestSelection": "first",
    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
