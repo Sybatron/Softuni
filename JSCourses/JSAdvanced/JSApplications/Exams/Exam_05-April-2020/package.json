@@ -1,0 +1,16 @@
+{
+  "name": "exam-jsapps",
+  "version": "1.0.0",
+  "description": "The solution for the JSApps exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sybatron",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.7.6",
+    "jquery": "^3.4.1",
+    "sammy": "^0.7.6"
+  }
+}
