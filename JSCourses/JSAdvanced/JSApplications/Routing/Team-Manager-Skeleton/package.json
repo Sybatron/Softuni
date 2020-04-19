@@ -1,0 +1,15 @@
+{
+  "name": "manager",
+  "version": "1.0.0",
+  "description": "This is solution for softuni related task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sybatron",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.7.6",
+    "sammy": "^0.7.6"
+  }
+}

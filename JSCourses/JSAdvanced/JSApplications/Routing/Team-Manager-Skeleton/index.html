@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" type="text/css" href="css/index.css" />
+		<link rel="stylesheet" type="text/css" href="css/team.css" />
+		<link rel="stylesheet" type="text/css" href="css/details.css" />
+		<link
+			rel="stylesheet"
+			type="text/css"
+			href="node_modules/bootstrap/dist/css/bootstrap.min.css"
+		/>
+		<script
+			src="https://code.jquery.com/jquery-3.4.1.min.js"
+			integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+			crossorigin="anonymous"
+		></script>
+		<script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+		<script src="node_modules/handlebars/dist/handlebars.min.js"></script>
+		<script src="node_modules/sammy/lib/min/sammy-0.7.6.min.js"></script>
+		<script src="node_modules/sammy/lib/min/plugins/sammy.handlebars-0.7.6.min.js"></script>
+
+		<script src="https://www.gstatic.com/firebasejs/7.13.2/firebase-app.js"></script>
+		<script
+			defer
+			src="https://www.gstatic.com/firebasejs/7.13.2/firebase-auth.js"
+		></script>
+		<script>
+			// Your web app's Firebase configuration
+			var firebaseConfig = {
+				apiKey: 'AIzaSyCgl3FKNFaOFwgLmS9fb69qTQplbB9hc0s',
+				authDomain: 'routing-2015b.firebaseapp.com',
+				databaseURL: 'https://routing-2015b.firebaseio.com',
+				projectId: 'routing-2015b',
+				storageBucket: 'routing-2015b.appspot.com',
+				messagingSenderId: '450762554746',
+				appId: '1:450762554746:web:03fc50a254c1502d37eac3',
+			};
+			// Initialize Firebase
+			firebase.initializeApp(firebaseConfig);
+		</script>
+
+		<script type="module" src="scripts/app.js"></script>
+		<title>Team Managers App</title>
+	</head>
+	<body>
+		<div id="infoBox" class="notification" disabled></div>
+		<div id="errorBox" class="notification" disabled></div>
+		<div id="main"></div>
+	</body>
+</html>

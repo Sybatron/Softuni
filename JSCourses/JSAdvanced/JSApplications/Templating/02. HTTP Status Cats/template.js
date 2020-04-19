@@ -8,6 +8,8 @@
 		await fetch('./all-cats-template.hbs').then(r => r.text())
 	);
 
+	const resultHTML = template({ cats });
+
 	document.querySelector('section#allCats').innerHTML = resultHTML;
 
 	document.querySelectorAll('button').forEach(btn => {

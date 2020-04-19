@@ -146,7 +146,7 @@ function fillFormWithData(formRef, formValue) {
 }
 
 function clearFormData(formRef) {
-	let tempInputs = formRef.querySelectorAll('input');
+	let tempInputs = formRef.querySelectorAll('input'); 
 	tempInputs.forEach((element) => {
 		element.value = '';
 	});
