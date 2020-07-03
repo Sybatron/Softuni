@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Forms</title>
+		<style>
+			div {
+				margin-bottom: 10px;
+			}
+			option {
+				text-transform: capitalize;
+			}
+			select {
+				text-transform: capitalize;
+			}
+			datalist {
+				text-transform: capitalize;
+			}
+		</style>
+	</head>
+	<body>
+		<form action="">
+			<fieldset>
+				<legend>Customer Details</legend>
+				<div>
+					<label for="first-name">First Name </label
+					><input id="first-name" name="FirstName" type="text" placeholder="George" autofocus />
+				</div>
+				<div>
+					<label for="last-name">Last Name </label
+					><input id="last-name" name="LastName" type="text" placeholder="Devis" />
+				</div>
+				<div>
+					<label for="male">Male </label><input id="male" name="Gender" type="radio" />
+					<label for="female">Female </label><input id="female" name="Gender" type="radio" />
+					<label for="other">Other </label><input id="other" name="Gender" type="radio" />
+				</div>
+				<div>
+					<label>Preferred contact method: </label>
+					<label for="email">Email </label><input id="email" name="ContactMethod" type="radio" />
+					<label for="phone">Phone </label><input id="phone" name="ContactMethod" type="radio" />
+				</div>
+				<div>
+					<label for="email">Email </label
+					><input id="email" name="Email" type="email" placeholder="your@email.com" autofocus />
+				</div>
+				<div>
+					<label for="phone">Phone </label><input id="phone" name="Phone" type="tel" placeholder="+3593485903" />
+				</div>
+				<div>
+					<label for="town">Town </label
+					><select name="Town" id="town">
+						<option value="varna">varna</option>
+						<option value="plovdiv">plovdiv</option>
+						<option value="burgas">burgas</option>
+						<option value="sofia">sofia</option>
+						<option value="pleven">pleven</option>
+					</select>
+				</div>
+				<div><label for="age">Age </label><input id="age" name="Age" type="number" min="18" max="70" /></div>
+				<div>
+					<label for="programming-language">Programing language </label
+					><input list="languages" id="programming-language" name="ProgramingLanguage" type="text" />
+
+					<datalist id="languages">
+						<option value="Java"></option>
+						<option value="PHP"></option>
+						<option value="C#"></option>
+						<option value="JavaScript"></option>
+						<option value="Python"></option>
+						<option value="Ruby"></option>
+						<option value="Other"></option>
+					</datalist>
+				</div>
+				<div><textarea name="Info" id="info" cols="20" rows="5" placeholder="More information..."></textarea></div>
+
+				<input type="submit" value="Send" />
+			</fieldset>
+		</form>
+	</body>
+</html>
