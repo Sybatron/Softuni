@@ -21,7 +21,7 @@
   "prettier.alignObjectProperties": true,
   "prettier.arrayExpand": false,
   "prettier.breakProperty": true,
-  "prettier.printWidth": 80,
+  "prettier.printWidth": 120,
   "html.format.enable": true,
 
   "editor.suggestSelection": "first",
