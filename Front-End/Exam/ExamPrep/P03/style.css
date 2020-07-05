@@ -1,0 +1,29 @@
+header {
+	display: flex;
+}
+
+header h1 {
+	user-select: none;
+}
+
+header ul {
+	list-style: none;
+}
+
+header a {
+	text-decoration: none;
+	color: black;
+}
+
+header button {
+	cursor: pointer;
+}
+
+header nav ul {
+	display: flex;
+	flex-direction: row;
+}
+
+header nav ul li {
+	margin: 0 10px;
+}
