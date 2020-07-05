@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat:wght@300;500;600&display=swap');
+s * {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+}
+
+header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px 100px;
+	box-shadow: 0px 10px 25px -15px rgba(0, 0, 0, 0.75);
+	background: transparent;
+}
+
+header nav li a {
+	text-decoration: none;
+	color: #56556d;
+	font-size: 1rem;
+	font-weight: 600 !important;
+}
+
+header nav li {
+	margin: auto 5px;
+}
+
+header nav ul {
+	display: flex;
+	list-style-type: none;
+	justify-content: space-evenly;
+}
+
+header .nav-button {
+	cursor: pointer;
+	background-color: #9b5dc6;
+	color: white;
+	border: none;
+	border-radius: 50px;
+	font-family: 'Lato', sans-serif;
+	font-size: 1rem;
+	padding: 7px 15px;
+	font-weight: bold;
+}
+main {
+	position: relative;
+}
+
+main h2 {
+	font-family: 'Montserrat', sans-serif;
+	color: #56556d;
+}
+
+.main-section-diplomas {
+	display: flex;
+	padding: 35px 100px;
+	font-weight: 500;
+}
+
+.main-section-diplomas .more-info-p {
+	font-size: 0.75rem;
+	color: rgba(0, 0, 0, 0.5);
+	font-weight: 600;
+}
+
+.main-section-diplomas .award-bg {
+	position: absolute;
+	top: 0;
+	z-index: -1;
+	min-width: 450px;
+	min-height: 300px;
+	background: url('./images/award.svg') right center no-repeat, #54546d;
+	border-bottom-left-radius: 100%;
+	border-bottom-right-radius: 100%;
+}
+
+.main-section-diplomas img {
+	position: relative;
+	top: 50px;
+}
+
+.main-section-aproval {
+	padding: 100px 100px;
+	display: flex;
+	background-color: #14162b;
+	color: white !important;
+	font-weight: 500;
+	position: relative;
+}
+
+.main-section-aproval h2 {
+	color: white !important;
+}
+
+.main-section-aproval .text {
+	max-width: 70%;
+}
+
+.main-section-aproval img {
+	position: absolute;
+	right: 150px;
+	bottom: -20px;
+}
+
+.main-section-career {
+	padding: 50px 50px;
+	display: flex;
+	align-self: baseline;
+}
+
+.main-section-career img {
+	margin-right: 50px;
+}
+
+.main-section-career h2 {
+	margin-block-start: 0;
+}
+
+.main-section-career .info-section {
+	padding: 5px 0;
+}
+.main-section-career .info-section button {
+	border: 1px solid #9b5dc6;
+	color: #9b5dc6;
+	cursor: pointer;
+	background-color: transparent;
+	font-size: 1.25rem;
+	border-radius: 50px;
+	padding: 10px;
+}
+
+footer {
+	display: flex;
+	align-items: start;
+	color: white;
+	background: #2c2c3a;
+	padding: 30px 0;
+}
+
+.footer-section {
+	margin: 0 75px;
+}
+
+.footer-section ul {
+	list-style-type: none;
+}
+
+.footer-section ul h4 {
+	font-size: 1rem;
+	margin-bottom: 20px;
+	color: #9b5dc6;
+}
+
+.footer-section ul li {
+	font-size: 0.75rem;
+	margin-bottom: 10px;
+	cursor: pointer;
+}
+
+.footer-section.contacts .contact-icons {
+	width: 100%;
+	margin-bottom: 30px;
+}
+.footer-section.contacts .contact-icons .fab {
+	color: white;
+	margin-right: 15px;
+	cursor: pointer;
+}
+
+.footer-section.contacts h5,
+.footer-section.contacts h6 {
+	margin-block-start: 0;
+	font-weight: 400 !important;
+	margin-bottom: 10px;
+}

@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	color: white;
+	background: url('./images/arrow.svg') right no-repeat, url('./images/dots.svg') bottom left no-repeat, #306085;
+}
+
+main {
+	display: flex;
+	flex-direction: row;
+	align-items: baseline;
+}
+
+.main-section-information {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	min-width: 50%;
+	margin: 100px auto auto 100px;
+}
+
+.main-section-information h1 {
+	font-family: 'Montserrat', sans-serif;
+	margin-bottom: 30px;
+}
+
+.main-section-information p {
+	font-family: 'Lato', sans-serif;
+	margin-bottom: 20px;
+}
+
+.main-section-information .main-section-footer {
+	color: rgba(255, 255, 255, 0.6);
+}
+
+.main-section-diplomas {
+	min-width: 600px;
+	height: 100%;
+	margin: 100px auto auto 20px;
+	display: flex;
+	align-items: center;
+	justify-content: left;
+	flex-wrap: wrap;
+}
+
+.main-section-diplomas img {
+	margin-right: 20px;
+}

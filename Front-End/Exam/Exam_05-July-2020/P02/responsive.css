@@ -1,0 +1,32 @@
+/* TODO: Add media queries */
+@media only screen and (max-width: 884px) {
+	.newsletter-boxes {
+		flex-direction: column !important;
+		align-items: center;
+	}
+
+	.newsletter-bottom-content {
+		text-align: left !important;
+	}
+
+	.newsletter-bottom {
+		display: flex !important;
+	}
+
+	.newsletter-bottom article h4 {
+		text-align: justify !important;
+		max-width: 16em;
+	}
+
+	.newsletter-box {
+		width: 50% !important;
+	}
+
+	.newsletter-intro p {
+		text-align: left;
+	}
+
+	.bottom-logo {
+		width: 12%;
+	}
+}
