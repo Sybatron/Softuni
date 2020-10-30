@@ -17,7 +17,7 @@
   "cSpell.language": "en",
   "prettier.singleQuote": true,
   "prettier.useTabs": true,
-  "prettier.printWidth": 120,
+  "prettier.printWidth":80,
   "html.format.enable": true,
 
   "editor.suggestSelection": "first",
