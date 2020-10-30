@@ -1,8 +1,7 @@
 {
   "files.autoSave": "afterDelay",
   "files.autoSaveDelay": 2000,
-  "python.pythonPath": "C:\\Users\\Sybatron\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
-  " workbench.iconTheme": "material-icon-theme",
+  "workbench.iconTheme": "material-icon-theme",
   "editor.tabCompletion": "on",
   "editor.wordWrap": "on",
   "editor.formatOnSave": true,
@@ -18,17 +17,12 @@
   "cSpell.language": "en",
   "prettier.singleQuote": true,
   "prettier.useTabs": true,
-  "prettier.alignObjectProperties": true,
-  "prettier.arrayExpand": false,
-  "prettier.breakProperty": true,
   "prettier.printWidth": 120,
   "html.format.enable": true,
 
   "editor.suggestSelection": "first",
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "gitlens.hovers.currentLine.over": "line",
-  "git-graph.dialog.merge.squashCommits": true,
-  "git-graph.fetchAvatars": true,
 
   "auto-rename-tag.activationOnLanguage": ["html", "xml", "php", "javascript"],
   "auto-close-tag.activationOnLanguage": [
@@ -110,5 +104,11 @@
   "material-icon-theme.activeIconPack": "angular",
   "material-icon-theme.folders.theme": "specific",
   "material-icon-theme.saturation": 1,
-  "workbench.colorTheme": "Horizon"
+  "workbench.colorTheme": "Horizon",
+
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": true, // !!!
+    "strings": true   // !!!
+} 
 }
